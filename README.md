@@ -1,25 +1,25 @@
-# Título do Projeto
+# A CAMINHO DA UNIVERSIDADE 
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação web front-end`
 
-`SEMESTRE`
+`1º semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O objetivo deste projeto é desenvolver uma plataforma online acessível que auxilie estudantes do ensino médio na escolha de cursos universitários e instituições, fornecendo informações relevantes para sua decisão.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Gabriel Gomes Dos Santos
+* José Henrique de Carvalho 
+* Paulo César Ramos da Silva 
+* Pedro Cristian de Resende 
+* Thatielli Batista Endlich 
+* Victória De Souza Martins 
 
 ## Orientador
 
-* Nome completo do professor
+* Hayala Nepomuceno Curto
 
 # Documentação
 
