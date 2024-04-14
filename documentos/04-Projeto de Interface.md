@@ -2,38 +2,48 @@
 # Projeto de Interface
 
 ## User Flow
+O fluxograma abaixo mostra a interação dos usuários pelas telas do sistema. Cada tela será detalhada na seção de Protótipo de Baixa Fidelidade, mostrando como cada uma funciona.
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+![wireframe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/e1e27c72-a752-4047-882d-5b12e1f2e0ec)
 
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
-## Wireframes
-
-### Tela Home-Page
-
-## Protótipo
-
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
 
 ### Protótipo de baixa fidelidade
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
+As interfaces do nosso sistema seguem um padrão uniforme, conforme ilustrado na imagem abaixo
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+* Cabeçalho: Local onde se encontra a logo e redirecionamento para outras seções(home page, cadastro, sobre e tela de login).
+* Conteúdo: É o local onde se encontram as informações e funcionalidades do nosso sistema.
+* Rodapé: Fornece detalhes relevantes relacionados aos direitos autorais.
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+![content](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/156c0ae1-ae13-43d0-a88e-cb1531037d29)
 
+
+### Tela - Home Page
+
+A tela home page exibe uma visão geral introdutória do nosso projeto.
+
+![HomePage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/d5d4b34c-213b-4f4d-8cb9-1d070fb4f88a)
+
+### Tela - Cadastro
+
+A tela cadastro disponibiliza diversos campos para a entrada de informações pessoais do usuário: nome, email, telefone, senha, confirmar senha.
+
+![Criar Conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/43b6adf7-f994-4328-aefa-a585a37650c4)
+
+### Tela - Login
+Exibe campos para inserção do e-mail e senha.
+
+![Log in](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/3cbded20-e323-4d1c-8b8c-3192dd3a69bd)
+
+### Tela - Sobre
+A tela sobre é uma seção informativa que oferece uma compreensão mais profunda do projeto, expressando claramente nossos valores e missão.
+
+![Sobre](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/b33ccc54-b7a4-494c-8e6d-0c0ec5f6f806)
+
+### Tela - Cursos
+
+A tela cursos é um recurso interativo que possui uma barra de pesquisa. Aqui, os usuários podem procurar por um curso específico ou uma universidade e obter informações relevantes sobre os mesmos.
+
+![Cursos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/bf627dd5-a257-4ab9-924e-3ea5752ba9ec)
 
 
