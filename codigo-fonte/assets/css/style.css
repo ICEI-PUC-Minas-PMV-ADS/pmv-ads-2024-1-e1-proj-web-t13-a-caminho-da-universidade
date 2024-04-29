@@ -5,8 +5,8 @@
 }
 
 :root {
-    --color-links-header: red;
-    --color-background-header: #438eebe8;
+    --color-links-header: #1f47f7;
+    --color-background-header: #82a9da;
     --color-background-footer: #F0CBA8;
 }
 
@@ -46,6 +46,6 @@ footer {
 }
 
 footer p {
-   font-size: 1.5rem;
-   font-weight: bold;
+    font-size: 1.5rem;
+    font-weight: bold;
 }
