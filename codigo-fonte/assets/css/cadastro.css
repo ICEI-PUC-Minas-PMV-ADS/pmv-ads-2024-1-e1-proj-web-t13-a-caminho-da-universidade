@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(90deg, #82a9da, #d9d9d9, #82a9da );
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+#cadastro{
+    display: inline-block;
+    background-color: #d9d9d9;
+    padding: 30px;
+    border-radius: 10px;
+}
+#cadastro img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+#formulario{
+    background-color: #82a9da;
+    padding: 30px;
+    color:white;
+    border-radius: 10px;
+}
+#formulario h1{
+    text-align: center;
+}
+input{
+    background-color: #d9d9d9;
+    margin-bottom: 10px;
+    outline: none;
+    border: none;
+    font-size: 15px;
+    padding: 5px;
+    width: 100%;
+    border-radius: 10px;
+}
+button{
+    background-color: whitesmoke;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width:100%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color:#d9d9d9;
+    cursor: pointer;
+}
+#formulario a{
+    text-decoration: none;
+    color:black;
+}
+#formulario a:hover{
+    color: var(--color-links-header);
+    cursor:pointer;
+    text-decoration: underline;
+}
