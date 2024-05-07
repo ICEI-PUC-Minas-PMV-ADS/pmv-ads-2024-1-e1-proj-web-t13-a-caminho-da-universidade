@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pesquisar {
+    position: relative;
+    margin: 20px;
+}
+ 
+ .pesquisar input[type="text"] {
+    padding: 15px;
+    width: 700px;
+    border: none; 
+    border-radius: 4px;
+ }
+
+ .pesquisar button {
+    position: absolute;
+    right: 500;
+    top: 5px;
+    border: none; 
+    cursor: pointer
+ }
+
+ .pesquisar img {
+    width: 24px;
+    height: 24px;
+ }
