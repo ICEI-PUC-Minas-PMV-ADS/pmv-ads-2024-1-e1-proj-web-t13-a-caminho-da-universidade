@@ -7,7 +7,9 @@
     <link rel="shortcut icon" href="./assets/imgs/favicon-32x32.png" type="image/x-icon">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/home.css">
+    <link rel="stylesheet" href="./assets/css/curso.css">
     <link rel="stylesheet" href="./assets/css/cursos.css">
+    <script src="./assets/js/cursos.js" defer></script>
 </head>
 <body>
     <header>
@@ -23,9 +25,50 @@
     <main>
         <section class="pesquisar">
             <input type="text" name="cursos" id="cursos" placeholder="pesquise por universidades cursos e loclização"> 
-        <button>
-            <img src="./assets/imgs/Print " alt="imagem lupa">
-        </button>
+            <button type="submit">
+                <img src="./assets/imgs/lupa.jpg" alt="imagem lupa">
+            </button>
+
+            <select id="tipoUniversidade" name="tipoUniversidade">
+                <option value="">Todas</option>
+                <option value="publica">Pública</option>
+                <option value="privada">Privada</option>
+            </select>
+
+            <select id="estado" name="estado">
+                <option value="">Todos</option>
+                <option value="AC">Acre</option>
+                <option value="AL">Alagoas</option>
+                <option value="AP">Amapá</option>
+                <option value="AM">Amazonas</option>
+                <option value="BA">Bahia</option>
+                <option value="CE">Ceará</option>
+                <option value="DF">Distrito Federal</option>
+                <option value="ES">Espírito Santo</option>
+                <option value="GO">Goiás</option>
+                <option value="MA">Maranhão</option>
+                <option value="MT">Mato Grosso</option>
+                <option value="MS">Mato Grosso do Sul</option>
+                <option value="MG">Minas Gerais</option>
+                <option value="PA">Pará</option>
+                <option value="PB">Paraíba</option>
+                <option value="PR">Paraná</option>
+                <option value="PE">Pernambuco</option>
+                <option value="PI">Piauí</option>
+                <option value="RJ">Rio de Janeiro</option>
+                <option value="RN">Rio Grande do Norte</option>
+                <option value="RS">Rio Grande do Sul</option>
+                <option value="RO">Rondônia</option>
+                <option value="RR">Roraima</option>
+                <option value="SC">Santa Catarina</option>
+                <option value="SP">São Paulo</option>
+                <option value="SE">Sergipe</option>
+                <option value="TO">Tocantins</option>
+            </select>
+    </section>
+
+    <section id="curso">
+
     </section>
     </main>
 
