@@ -1,0 +1,56 @@
+{
+    "universidades": [
+        { 
+            "id": 1,
+            "name": "Universidade Federal do Ceará (UFC)",
+            "link": "https://prograd.ufc.br/pt/cursos-de-graduacao/",
+            "state": "Ceará",
+            "isPublic": true
+        },
+        {
+            "id": 2,
+            "name": "Universidade Estadual do Ceará (UECE)",
+            "link": "https://www.uece.br/cursos/graduacao/",
+            "state": "Ceará",
+            "isPublic": true
+        },
+        {
+            "id": 3,
+            "name": "Universidade Federal do Cariri (UFCA)",
+            "link": "https://www.ufca.edu.br/cursos/",
+            "state": "Ceará",
+            "isPublic": true
+        },
+        {
+            "id": 4,
+            "name": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB)",
+            "link": "https://unilab.edu.br/cursos-da-unilab-2/",
+            "state": "Ceará",
+            "isPublic": true
+        },
+        {
+            "id": 5,
+            "name": "Universidade de Fortaleza (UNIFOR)",
+            "link": "https://unifor.br/web/graduacao",
+            "state": "Ceará",
+            "isPublic": false,
+            "city": "Fortaleza"
+        },
+        {
+            "id": 6,
+            "name": "Centro Universitário Estácio do Ceará (Estácio)",
+            "link": "https://estacio.br/cursos/graduacao",
+            "state": "Ceará",
+            "isPublic": false,
+            "city": "Fortaleza"
+        },
+        {
+            "id": 7,
+            "name": "Faculdade Farias Brito (FFB)",
+            "link": "https://cadastro.fbuni.edu.br/nucleodetecnologia/",
+            "state": "Ceará",
+            "isPublic": false,
+            "city": "Fortaleza"
+        }
+    ]
+}
