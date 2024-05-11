@@ -8,10 +8,14 @@ html {
     box-sizing: border-box;
 }
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 :root {
     --color-links-header: #1f47f7;
-    --color-background-header: #82a9da;
-    --color-background-footer: #F0CBA8;
+    --color-background-header: #f89829;
+    --color-background-footer: #5599e7;
 }
 
 #logo {
@@ -23,7 +27,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: var(--color-background-header);
+    background-color: #630344;
     margin-bottom: 60px;
     flex-wrap: wrap;
 }
@@ -44,7 +48,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: var(--color-background-footer);
+    background-color: #202a3dfa;
     padding: 0 20px 20px;
     margin-top: 60px;
     margin-bottom: 0;
