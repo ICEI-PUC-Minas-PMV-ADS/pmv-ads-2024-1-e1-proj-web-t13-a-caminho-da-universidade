@@ -14,8 +14,8 @@ body {
 
 :root {
     --color-links-header: #1f47f7;
-    --color-background-header: #f89829;
-    --color-background-footer: #5599e7;
+    --color-background-header: #630344;
+    --color-background-footer: #202a3dfa;
 }
 
 #logo {
@@ -27,7 +27,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #630344;
+    background-color: var(--color-background-header);
     margin-bottom: 60px;
     flex-wrap: wrap;
 }
@@ -48,7 +48,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #202a3dfa;
+    background-color: var(--color-background-footer);
     padding: 0 20px 20px;
     margin-top: 60px;
     margin-bottom: 0;
