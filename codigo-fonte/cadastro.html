@@ -7,7 +7,7 @@
     <link rel="shortcut icon" href="./assets/imgs/favicon-32x32.png" type="image/x-icon">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/cadastro.css">
-    <script src="assets/cadastro.js/" defer></script>
+    <script src="assets/js/cadastro.js" defer></script>
 </head>
 <body>
     <header>
@@ -23,13 +23,14 @@
     <main>
         <div id="cadastro">
             <img src="assets/imgs/logo.svg" alt="">
-            <form id="formulario" action="cadastrar-se" method="get">
+            <form id="formulario" action="" method="">
                 <h1>Cadastro</h1>
-                Nome:<br><input type="text" name="nomedeUsuário" placeholder="Nome de Usuário"><br>
-                e-mail:<br><input type="email" name="e-mail" placeholder="e-mail"><br>
-                Senha:<br><input type="password" name="senha" placeholder="Senha"><br>
-                Confirmar Senha:<br><input type="password" name="confirmaçãoSenha" placeholder="Senha"><br>
-                <button>Criar conta</button>
+                Nome:<br><input type="text" name="nomedeUsuário" placeholder="Nome de Usuário" id="name"><br>
+                e-mail:<br><input type="email" name="e-mail" placeholder="e-mail" id="email"><br>
+                Senha:<br><input type="password" name="senha" placeholder="Senha" id="password"><br>
+                Confirmar Senha:<br><input type="password" name="confirmaçãoSenha" placeholder="Senha" id="passwordConfirmation"><br>
+                <p id="errorMessage"></p>
+                <button type="submit">Criar conta</button>
                 <p>Já possui uma conta? <a href="login.html">Entrar com a minha conta.</a></p>
             </form>
         </div>

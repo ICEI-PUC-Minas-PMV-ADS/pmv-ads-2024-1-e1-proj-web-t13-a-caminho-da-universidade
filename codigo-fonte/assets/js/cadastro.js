@@ -1,7 +1,9 @@
 const name = document.querySelector('#name')
 const email = document.querySelector('#email')
 const password = document.querySelector('#password')
-const passwordConfirmation = document.querySelector('#passwordConfirmatio')
+const passwordConfirmation = document.querySelector('#passwordConfirmation')
+const form = document.querySelector('#formulario')
+const errorMessage = document.querySelector('#errorMessage')
 
 function hasSpecialChar(password) {
     const specialChar = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '-', '_', '+', '=', '{', '}']
@@ -10,7 +12,6 @@ function hasSpecialChar(password) {
             return true
         }
     }
-
     return false
 }
 
@@ -19,16 +20,11 @@ function passwordMatch() {
 }
 
 function validatePassword(password)  {
-    const passwordValue = password.value
-    if(passwordValue.length >= 8 && hasSpecialChar(passwordValue)) {
-        return true
-    } else {
-        false
-    }    
+    return password.length >= 8 && hasSpecialChar(password)
 }
 
 password.addEventListener('input', () => {
-    if(validatePassword() && passwordMatch()) {
+    if(validatePassword(password.value)) {
         errorMessage.style.display = 'none'
     } else {
         errorMessage.style.display = 'block'
@@ -37,8 +33,15 @@ password.addEventListener('input', () => {
 })
 
 passwordConfirmation.addEventListener('input', () => {
-    if(passwordMatch() && validatePassword()) {
-        errorMessage.style.display = 'none';
+    if(passwordMatch() && validatePassword(passwordConfirmation.value)) {
+        errorMessage.style.display = 'none'
+    } else {
+        errorMessage.style.display = 'block'
         errorMessage.textContent = 'as senhas não conferem'
     }
-});
+})
+
+
+form.addEventListener('submit', (event) => {
+    event.preventDefault()
+})

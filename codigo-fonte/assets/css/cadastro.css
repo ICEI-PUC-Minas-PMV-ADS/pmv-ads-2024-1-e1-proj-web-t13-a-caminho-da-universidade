@@ -65,3 +65,7 @@ button:hover{
     cursor:pointer;
     text-decoration: underline;
 }
+
+#errorMessage {
+    color: red;
+}
