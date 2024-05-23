@@ -54,3 +54,21 @@
 .pesquisar select option {
    padding: 10px;
 }
+
+@media screen and (max-width: 768px) {
+   .pesquisar {
+      display: flex;
+      flex-direction: column;
+   }
+
+   .pesquisar input[type="text"] {
+      width: 400px;
+      margin: 0 20px;
+   }
+
+   .pesquisar div {
+      margin-top: 40px;
+      display: flex;
+      justify-content: space-between;
+   }
+}
