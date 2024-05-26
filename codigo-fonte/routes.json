@@ -1,0 +1,4 @@
+{
+    "/universities/type/:t": "/universities?type=:t",
+    "/courses/:t": "/courses?type=:t"
+}
