@@ -26,7 +26,7 @@ function createUniversity(university) {
     const link = document.createElement('a')
     link.classList.add('university-link')
     link.textContent = `Página da universidade`
-    link.href = university.link
+    link.href = university.site
     console.log(university.link);
 
     card.append(name, state, isPublic, link) 
@@ -34,7 +34,7 @@ function createUniversity(university) {
 }
 
 async function fetchUniversities() {
-    const universities = await fetch('http://localhost:3000/universidades').then(res => res.json())
+    const universities = await fetch('http://localhost:3000/universities').then(res => res.json())
     universities.forEach(createUniversity) 
 }
 
