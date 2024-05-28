@@ -15,13 +15,9 @@ function createUniversity(university) {
     state.classList.add('university-state')
     state.textContent = university.state
 
-    const isPublic = document.createElement('p')
-    isPublic.classList.add('university-public')
-    if (university.isPublic) {
-        isPublic.textContent = "Pública"
-    } else {
-        isPublic.textContent = "Privada"
-    }
+    const type = document.createElement('p')
+    type.classList.add('university-public')
+    type.textContent = university.type
 
     const link = document.createElement('a')
     link.classList.add('university-link')
@@ -29,7 +25,7 @@ function createUniversity(university) {
     link.href = university.site
     console.log(university.link);
 
-    card.append(name, state, isPublic, link) 
+    card.append(name, state, type, link) 
     courses.append(card)
 }
 

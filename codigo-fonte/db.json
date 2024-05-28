@@ -6,8 +6,35 @@
       "site": "https://prograd.ufc.br/pt/cursos-de-graduacao/",
       "state": "Ceará",
       "type": "public"
+    },
+    {
+      "name": "UFC",
+      "state": "Ceará",
+      "site": "https://www.ufc.br/",
+      "type": "public",
+      "id": "MJljKw1"
+    },
+    {
+      "name": "Universidade Estadual do Ceará",
+      "state": "Ceará",
+      "site": "https://www.uece.br/",
+      "type": "public",
+      "id": "wJTJYkT"
+    },
+    {
+      "name": "wewer",
+      "state": "werwer",
+      "site": "werwer",
+      "type": "publica",
+      "id": "rYlrurV"
+    },
+    {
+      "name": "sdsdf",
+      "state": "sdfsdf",
+      "site": "sdfdsf",
+      "type": "publica",
+      "id": "EaXg2BP"
     }
-    
   ],
   "courses": [
     {
