@@ -16,6 +16,7 @@ form.addEventListener('submit', async (ev) => {
         site,
         type
     }
+   
     console.log({university});
 
     try {
@@ -25,7 +26,8 @@ form.addEventListener('submit', async (ev) => {
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify(university)
-        })
+        }) 
+        alert("cadastro realizado com sucesso")
     }
     catch(err) {
         console.log(err);
