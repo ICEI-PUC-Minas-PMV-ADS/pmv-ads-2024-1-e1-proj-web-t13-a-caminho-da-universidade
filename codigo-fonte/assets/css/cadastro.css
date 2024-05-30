@@ -69,3 +69,10 @@ button:hover{
 #errorMessage {
     color: red;
 }
+.form-group{
+    display:flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+ }
