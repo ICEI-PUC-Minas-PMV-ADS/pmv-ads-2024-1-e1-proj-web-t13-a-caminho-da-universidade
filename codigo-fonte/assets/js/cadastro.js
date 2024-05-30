@@ -16,6 +16,9 @@ function hasSpecialChar(password) {
 }
 
 function passwordMatch() {
+    console.log("Dentro do password match");
+    console.log(`${password.value} e ${passwordConfirmation.value}`);
+    console.log(password.value === passwordConfirmation.value);
     return password.value == passwordConfirmation.value
 }
 
@@ -26,6 +29,7 @@ function validatePassword(password)  {
 function passwordConfirmationV() {
     if(passwordMatch() && validatePassword(passwordConfirmation.value)) {
         errorMessage.style.display = 'none'
+
         return true;
     } else {
         errorMessage.style.display = 'block'
@@ -48,9 +52,10 @@ function passwordV() {
 form.addEventListener("submit", function(cadastro) {
     cadastro.preventDefault();
     
-    if(!passwordV() && !passwordConfirmationV()) {
-        return;
-    }
+    if(!passwordV() || !passwordConfirmationV()) {
+      return 
+    } 
+    
     let lastGeneratedId = parseInt(localStorage.getItem("lastId")) || 0;
     let newId = lastGeneratedId + 1;
     localStorage.setItem("lastId", newId);
@@ -61,38 +66,13 @@ form.addEventListener("submit", function(cadastro) {
         console.log({users});
     }
     
-    users.push({
-        id: newId,
-        name: name.value, 
-        email: email.value, 
-        password: password.value
-    });
-
-    /*const user = {
+    const user = {
         id: newId,
         name: name.value, 
         email: email.value, 
         password: password.value
     }
-    users.push(user);*/
+    users.push(user);
     
     localStorage.setItem("users", JSON.stringify(users));
 })
-
-/*password.addEventListener('input', () => {
-    if(validatePassword(password.value)) {
-        errorMessage.style.display = 'none'
-    } else {
-        errorMessage.style.display = 'block'
-        errorMessage.textContent = 'A senha deve ter no mínimo 8 caracteres e conter pelo menos um caracter especial'
-    }
-})
-
-passwordConfirmation.addEventListener('input', () => {
-    if(passwordMatch() && validatePassword(passwordConfirmation.value)) {
-        errorMessage.style.display = 'none'
-    } else {
-        errorMessage.style.display = 'block'
-        errorMessage.textContent = 'as senhas não conferem'
-    }
-})*/
