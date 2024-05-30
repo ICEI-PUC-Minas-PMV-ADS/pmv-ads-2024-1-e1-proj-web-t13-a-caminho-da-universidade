@@ -19,8 +19,8 @@ body{
 
 .container {
     background-color: var(--cordefundologin);
-    height: 570px;
-    width: 300px;
+    height: 625px;
+    width: 400px;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -32,13 +32,13 @@ body{
     display:block;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 45%;
 }
 
 .box-entrar {
 background-color: #82a9da;
-    height: 300px;
-    width: 250px;
+    height: 400px;
+    width: 320px;
     padding: 30px;
     display: flex;
     flex-direction: column;
@@ -50,14 +50,14 @@ background-color: #82a9da;
 .box-entrar h2 {
     color: #ffff;
     font-family: "Inter", sans-serif;
-    font-weight: 300;
+    font-weight: 350;
     margin-bottom: 30px;
     
 }
 
 .box-entrar label {
     color: #ffff;
-    font-size: 10px;
+    font-size: 12px;
     font-weight: 100;
     margin: 4px 0;
     display: inline-block;
@@ -65,17 +65,17 @@ background-color: #82a9da;
 
 .box-entrar input {
     background-color: var(--cordefundologin);
-    padding: 8px 20px;
+    padding: 8px 50px;
     border-radius: 4px;
     border: none;
 }
 
 
 button {
-    font-size: 9px;
-    margin-top: 40px;
-    width: 120px;
-    height: 25px;
+    font-size: 10px;
+    margin-top: 30px;
+    width: 180px;
+    height: 30px;
     border-radius: 7px;
     border-color: transparent;
     cursor: pointer;   
@@ -92,15 +92,15 @@ button:hover {
 }
 
 span {
-    color: white;
-    font-size: 7px;
-    margin: 10px 0 5px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    margin: 18px 0 12px;
     font-weight: 100;
 }
 
 .box-entrar a {
-    color: #57C2D0;
-    font-size: 8px;
+    color: #013457;
+    font-size: 12px;
     text-decoration: none;
     font-weight: 300;
 }
