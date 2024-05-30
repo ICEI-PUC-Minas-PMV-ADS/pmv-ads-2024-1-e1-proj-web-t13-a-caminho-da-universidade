@@ -23,7 +23,63 @@ function validatePassword(password)  {
     return password.length >= 8 && hasSpecialChar(password)
 }
 
-password.addEventListener('input', () => {
+function passwordConfirmationV() {
+    if(passwordMatch() && validatePassword(passwordConfirmation.value)) {
+        errorMessage.style.display = 'none'
+        return true;
+    } else {
+        errorMessage.style.display = 'block'
+        errorMessage.textContent = 'as senhas não conferem'
+        return false;
+    }
+}
+
+function passwordV() {
+    if(validatePassword(password.value)) {
+        errorMessage.style.display = 'none'
+        return true;
+    } else {
+        errorMessage.style.display = 'block'
+        errorMessage.textContent = 'A senha deve ter no mínimo 8 caracteres e conter pelo menos um caracter especial'
+        return false;
+    }
+}
+
+form.addEventListener("submit", function(cadastro) {
+    cadastro.preventDefault();
+    
+    if(!passwordV() && !passwordConfirmationV()) {
+        return;
+    }
+    let lastGeneratedId = parseInt(localStorage.getItem("lastId")) || 0;
+    let newId = lastGeneratedId + 1;
+    localStorage.setItem("lastId", newId);
+    let users = new Array();
+    
+    if(localStorage.hasOwnProperty("users")) {
+        users = JSON.parse(localStorage.getItem("users"));
+        console.log({users});
+    }
+    
+    users.push({
+        id: newId,
+        name: name.value, 
+        email: email.value, 
+        password: password.value
+    });
+
+    /*const user = {
+        id: newId,
+        name: name.value, 
+        email: email.value, 
+        password: password.value
+    }
+    users.push(user);*/
+    
+    localStorage.setItem("users", JSON.stringify(users));
+})
+
+/*password.addEventListener('input', () => {
     if(validatePassword(password.value)) {
         errorMessage.style.display = 'none'
     } else {
@@ -39,9 +95,4 @@ passwordConfirmation.addEventListener('input', () => {
         errorMessage.style.display = 'block'
         errorMessage.textContent = 'as senhas não conferem'
     }
-})
-
-
-form.addEventListener('submit', (event) => {
-    event.preventDefault()
-})
+})*/
