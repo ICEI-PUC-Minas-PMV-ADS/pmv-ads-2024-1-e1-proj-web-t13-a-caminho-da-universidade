@@ -11,18 +11,69 @@ body {
 
 main {
     display: flex;
+    flex-direction: column;
     height: 100vh;
     justify-content: center;
     align-items: center;
     padding: 10px;
 }
 
+.select-university {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    width: 600px;
+    margin-bottom: 50px;
+}
+
+.select-university div {
+    margin: 40px 5px 5px 5px;
+}
+
+.select-course {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 400px;
+    margin-bottom: 50px;
+}
+
+.select-course div {
+    margin: 0 5px;
+}
+
+.edit-buttons {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    background-color: #202a3dfa;
+    cursor: pointer;
+    padding: 5px 0;
+}
+
+.edit-buttons:hover {
+    background-color: #263144fa;
+
+}
+
 .container {
     max-width: 700px;
     width: 100%;
     background-color: #fff;
-    padding: 25px 30px;
+    padding: 20px 30px;
     border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+
+#update-container, #delete-container, #cRegister-course, #uRegister-course, #dRegister-course {
+    display: none;
 }
 
 .title {

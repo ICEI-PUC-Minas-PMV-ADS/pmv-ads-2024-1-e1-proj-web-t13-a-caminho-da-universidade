@@ -22,9 +22,31 @@
     </header>
 
     <main>
-        <div class="container">
+        <section class="select-university">
+            <div>
+                <button class="edit-buttons" id="register">Cadastrar Universidade</button>
+            </div>
+            <div>
+                <button class="edit-buttons" class="edit-buttons" id="update">Editar Universidade</button>
+            </div>
+            <div>
+                <button class="edit-buttons" class="edit-buttons" id="delete">Deletar Universidade</button>
+            </div>
+        </section>
+        <section class="select-course">
+            <div>
+                <button class="edit-buttons" id="register-button-course">Cadastrar curso</button>
+            </div>
+            <div>
+                <button class="edit-buttons" id="updateButtonCourse">Editar Curso</button>
+            </div>
+            <div>
+                <button class="edit-buttons" id="deleteButtonCourse">Deletar Curso</button>
+            </div>
+        </section>
+        <div id="register-container" class="container">
             <p class="title">Cadastre uma Universidade</p>
-            <form>
+            <form id="register-form">
                 <div class="university-details">
                     <div class="input-box">
                         <label for="name" class="details">Nome da Universidade</label>
@@ -46,10 +68,162 @@
                         <label for="site" class="details">Site</label>
                         <input type="text" name="site" id="site" required>
                     </div>
-                    
                 </div>
                 <div class="button">
                   <input type="submit" value="Cadastrar">
+                </div>
+            </form>
+        </div>
+        <div id="cRegister-course" class="container">
+            <p class="title">Cadastre um Curso</p>
+            <form id="register-course">
+                <div class="university-details">
+                    <div class="input-box">
+                        <label for="university">Nome da Universidade</label>
+                         <select name="university" id="university-id-course">  
+                            <option value="" disabled selected>Selecione uma universidade</option>
+                        </select>
+                     </div>
+                    <div class="input-box">
+                        <label for="name" class="details">Nome do Curso</label>
+                        <input type="text" name="name" id="course-name" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="acronym" class="details">Sigla</label>
+                        <input type="text" name="acronym" id="acronym" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="duration" class="details">Duração do curso</label>
+                        <input type="text" name="duration" id="duration" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="schedule" class="details">Turno</label>
+                        <input type="text" name="schedule" id="schedule" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="curriculum" class="details">Grade curricular</label>
+                        <input type="text" name="curriculum" id="curriculum" required>
+                    </div>
+                </div>
+                <div class="button">
+                  <input type="submit" value="Cadastrar">
+                </div>
+            </form>
+        </div>
+        <div id="uRegister-course" class="container">
+            <p class="title">Edite um Curso</p>
+            <form id="update-course">
+                <div class="input-box">
+                    <label for="university">Nome da Universidade</label>
+                     <select name="university" id="university-id">  
+                        <option value="" disabled selected>Não há nehuma universidade no sistema</option>
+                    </select>
+                 </div>
+                <div class="university-details">
+                    <div class="input-box">
+                        <label for="university">Cursos</label>
+                         <select name="university" id="course-id">  
+                            <option value="" disabled selected>Selecione um Curso</option>
+                        </select>
+                     </div>
+                    <div class="input-box">
+                        <label for="name" class="details">Nome do Curso</label>
+                        <input type="text" name="name" id="update-course-name" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="acronym" class="details">Sigla</label>
+                        <input type="text" name="acronym" id="update-acronym" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="duration" class="details">Duração do curso</label>
+                        <input type="text" name="duration" id="update-duration" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="schedule" class="details">Turno</label>
+                        <input type="text" name="schedule" id="update-schedule" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="curriculum" class="details">Grade curricular</label>
+                        <input type="text" name="curriculum" id="update-curriculum" required>
+                    </div>
+                </div>
+                <div class="button">
+                  <input type="submit" value="Editar">
+                </div>
+            </form>
+        </div>
+        <div id="dRegister-course" class="container">
+            <p class="title">Delete um Curso</p>
+            <form id="delete-course">
+                <div class="university-details">
+                    <div class="input-box">
+                        <label for="university">Nome da Universidade</label>
+                         <select name="university" id="university-id1">  
+                            <option value="" disabled selected>Não há nehuma universidade no sistema</option>
+                        </select>
+                     </div>
+                    <div class="input-box">
+                        <label for="university">Cursos</label>
+                         <select name="university" id="delete-course-id">  
+                            <option value="" disabled selected>Selecione um Curso</option>
+                        </select>
+                     </div>
+                </div>
+                <div class="button">
+                  <input type="submit" value="Deletar">
+                </div>
+            </form>
+        </div>
+        <div id="update-container" class="container" id="hide">
+            <p class="title">Edite uma universidade</p>
+            <form id="update-form">
+                <div class="university-details">
+                    <div class="input-box">
+                       <label for="university">Nome da Universidade</label>
+                        <select name="university" id="update-university">  
+                       </select>
+                    </div>
+                    <div class="input-box">
+                        <label for="name" class="details">Nome da Universidade</label>
+                        <input type="text" name="name" id="update-name" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="state" class="details">Estado</label>
+                        <input type="text" name="state" id="update-state" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="type" class="details">Tipo de instituição</label>
+                        <select name="type" id="update-type" required>
+                            <option value="" disabled selected>Selecione o tipo de instituição</option>
+                            <option value="publica">Pública</option>
+                            <option value="privada">Privada</option>
+                        </select>
+                    </div>
+                    <div class="input-box">
+                        <label for="site" class="details">Site</label>
+                        <input type="text" name="site" id="update-site" required>
+                    </div>
+                    
+                </div>
+                <div class="button">
+                  <input type="submit" value="Editar">
+                </div>
+            </form>
+        </div>
+        
+        <div id="delete-container" class="container" >
+            <p class="title">Delete uma Universidade</p>
+            <form id="delete-form">
+                <div class="university-details">
+                    <div class="input-box">
+                        <label for="university">Nome da Universidade</label>
+                         <select name="university" id="delete-university">
+                             
+                        </select>   
+                    </div>         
+                </div>
+                <div class="button">
+                  <input type="submit" value="DELETAR">
                 </div>
             </form>
         </div>
