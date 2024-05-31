@@ -19,13 +19,6 @@ const deleteCourseContainer = document.getElementById('dRegister-course')
 const universitySelect = document.getElementById('university-id')
 const universitySelect1 = document.getElementById('university-id1')
 
-function showSection(sectionToShow) {
-    const sections = document.querySelectorAll('.container'); 
-    sections.forEach(section => section.style.display = 'none'); 
-  
-    sectionToShow.style.display = 'block';
-}
-
 registerButton.addEventListener('click', () => {
     showSection(registerContainer)
 })
@@ -168,6 +161,13 @@ async function showCourses(element, universityId) {
       option.text = course.name
       element.appendChild(option)
     });
+}
+
+function showSection(sectionToShow) {
+    const sections = document.querySelectorAll('.container')
+    sections.forEach(section => section.style.display = 'none')
+  
+    sectionToShow.style.display = 'block'
 }
 
   registerButtonCourse.addEventListener('click', async () => {
