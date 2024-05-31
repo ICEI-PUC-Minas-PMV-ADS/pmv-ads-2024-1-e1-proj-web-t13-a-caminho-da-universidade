@@ -168,7 +168,123 @@ async function showCourses(element, universityId) {
       option.text = course.name
       element.appendChild(option)
     });
-  }
+}
+
+  registerButtonCourse.addEventListener('click', async () => {
+    showSection(registerCourseContainer)
+    const selectUniversity = document.querySelector('#university-id-course')
+    await showUniversities(selectUniversity)
+})
+
+updateButtonCourse.addEventListener('click', async () => {
+    showSection(updateCourseContainer)
+    await showUniversities(universitySelect)
+  });
+
+deleteButtonCourse.addEventListener('click', async () => {
+    showSection(deleteCourseContainer)
+    await showUniversities(universitySelect1)
+})
+
+universitySelect.addEventListener('change', async (event) => {
+    const selectedUniversityId = event.target.value
+    const courseSelect = document.getElementById('course-id')
+    await showCourses(courseSelect, selectedUniversityId)
+});
+
+universitySelect1.addEventListener('change', async (event) => {
+    const selectedUniversityId = event.target.value
+    const courseSelect = document.getElementById('delete-course-id')
+    await showCourses(courseSelect, selectedUniversityId)
+});
+
+registerCourseForm.addEventListener('submit', async (ev) => {
+    ev.preventDefault()
+
+    const universityId = document.querySelector('#university-id-course').value
+    const name = document.querySelector('#course-name').value
+    const acronym = document.querySelector('#acronym').value
+    const duration = document.querySelector('#duration').value
+    const schedule = document.querySelector('#schedule').value
+    const curriculum = document.querySelector('#curriculum').value
+
+    const course = {
+        name,
+        acronym,
+        duration,
+        schedule,
+        curriculum,
+        universityId
+    }
+
+    try {
+        const resp = await fetch('http://localhost:3000/courses', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(course)
+        }) 
+        alert("cadastro realizado com sucesso")
+    }
+    catch(err) {
+        console.log(err)
+    }
+
+    registerCourseForm.reset()
+})
+
+updateCourseForm.addEventListener('submit', async (ev) => {
+    ev.preventDefault()
+
+    
+    const id = document.getElementById('course-id').value
+    console.log(id);
+    const name = document.querySelector('#update-course-name').value
+    const acronym = document.querySelector('#update-acronym').value
+    const duration = document.querySelector('#update-duration').value
+    const schedule = document.querySelector('#update-schedule').value
+    const curriculum = document.querySelector('#update-curriculum').value
+
+    const course = {
+        name,
+        acronym,
+        duration,
+        schedule,
+        curriculum,
+    }
+
+    try {
+        const resp = await fetch(`http://localhost:3000/courses/${id}`, {
+            method: 'PUT',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(course)
+        }) 
+        alert("alterado com sucesso")
+    }
+    catch(err) {
+        console.log(err)
+    }
+
+    updateCourseForm.reset()
+})
+
+deleteCourseForm.addEventListener('submit', async (ev) => {
+    ev.preventDefault()
+    const id = document.getElementById('delete-course-id').value
+    console.log();
+    try {
+        const response = await fetch(`http://localhost:3000/courses/${id}`, {
+          method: 'DELETE',
+        })
+    
+      } catch (err) {
+        console.error(err)
+      }
+      deleteCourseForm.reset()
+})
 
 
 

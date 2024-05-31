@@ -1,39 +1,18 @@
 {
   "universities": [
     {
-      "id": "1",
+      "id": 3,
       "name": "Universidade Federal do Ceará (UFC)",
       "site": "https://prograd.ufc.br/pt/cursos-de-graduacao/",
       "state": "Ceará",
       "type": "public"
     },
     {
-      "name": "UFC",
-      "state": "Ceará",
-      "site": "https://www.ufc.br/",
-      "type": "public",
-      "id": "MJljKw1"
-    },
-    {
-      "name": "Universidade Estadual do Ceará",
-      "state": "Ceará",
-      "site": "https://www.uece.br/",
-      "type": "public",
-      "id": "wJTJYkT"
-    },
-    {
-      "name": "wewer",
-      "state": "werwer",
-      "site": "werwer",
+      "name": "JAOZINHO",
+      "state": "são jao",
+      "site": "meuamig.com",
       "type": "publica",
-      "id": "rYlrurV"
-    },
-    {
-      "name": "sdsdf",
-      "state": "sdfsdf",
-      "site": "sdfdsf",
-      "type": "publica",
-      "id": "EaXg2BP"
+      "id": 4
     }
   ],
   "courses": [
@@ -44,7 +23,25 @@
       "duration": 8,
       "schedule": "Integral",
       "curriculum": "https://www.ufmg.br/cc/graduacao/grade-curricular",
-      "universityId": 2
+      "universityId": 3
+    },
+    {
+      "id": 2,
+      "name": "Sistemas de Informação",
+      "acronym": "CC",
+      "duration": 8,
+      "schedule": "Integral",
+      "curriculum": "https://www.ufmg.br/cc/graduacao/grade-curricular",
+      "universityId": 4
+    },
+    {
+      "name": "Processos administrativos",
+      "acronym": "SI",
+      "duration": "200",
+      "schedule": "sempre",
+      "curriculum": "ufmg.com",
+      "universityId": "3",
+      "id": 3
     }
   ]
 }
