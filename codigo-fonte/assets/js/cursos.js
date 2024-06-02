@@ -1,42 +1,53 @@
-function createUniversity(university) {
-    const courses = document.querySelector('#curso')
+function createCourse(course) {
+    const tableBody = document.getElementById('table-section')
 
-    const card = document.createElement('div')
-    card.classList.add('card')
-    card.id = `university-${university.id}`
-    console.log(university.id);
-   
-    const name = document.createElement('h3')
-    name.classList.add('university-name')
-    name.textContent = university.name
-    console.log(university.name);
+    const tableRow = document.createElement('tr')
+    const nameCell = document.createElement('td')
+    nameCell.textContent = course.name
+    tableRow.appendChild(nameCell)
 
-    const state = document.createElement('h4')
-    state.classList.add('university-state')
-    state.textContent = university.state
+    const acronymCell = document.createElement('td')
+    acronymCell.textContent = course.acronym
+    tableRow.appendChild(acronymCell)
 
-    const type = document.createElement('p')
-    type.classList.add('university-public')
-    type.textContent = university.type
+    const durationCell = document.createElement('td')
+    durationCell.textContent = course.duration
+    tableRow.appendChild(durationCell)
 
-    const link = document.createElement('a')
-    link.classList.add('university-link')
-    link.textContent = `Página da universidade`
-    link.href = university.site
-    console.log(university.link);
+    const scheduleCell = document.createElement('td')
+    scheduleCell.textContent = course.schedule
+    tableRow.appendChild(scheduleCell)
 
-    card.append(name, state, type, link) 
-    courses.append(card)
+    const curriculumCell = document.createElement('td')
+    const curriculum = document.createElement('a')
+    curriculum.href = course.curriculum
+    curriculum.textContent = 'Ver grade'
+    curriculumCell.appendChild(curriculum)
+    tableRow.appendChild(curriculumCell)
+
+    tableBody.appendChild(tableRow)
+} 
+
+async function fetchCourses() {
+    const id = extractdId()
+    const courses = await fetch(`http://localhost:3000/courses?universityId=${id}`).then(res => res.json())
+    console.log(courses);
+    courses.forEach(createCourse) 
 }
 
-async function fetchUniversities() {
-    const universities = await fetch('http://localhost:3000/universities').then(res => res.json())
-    universities.forEach(createUniversity) 
+function extractdId() {
+    const urlParams = new URLSearchParams(window.location.search)
+    const universityId = urlParams.get('universityId')
+    console.log(universityId);
+    if (universityId === null) {
+        console.log('ID da universidade não encontrado na URL');
+        return
+    } 
+    return universityId
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    fetchUniversities()
+    fetchCourses()
 })
-
 
 

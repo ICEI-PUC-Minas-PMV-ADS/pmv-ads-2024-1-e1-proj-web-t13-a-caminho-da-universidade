@@ -1,18 +1,466 @@
 {
   "universities": [
     {
+      "id": 1,
+      "name": "Universidade de São Paulo (USP)",
+      "site": "https://www5.usp.br/",
+      "state": "São Paulo",
+      "type": "pública"
+    },
+    {
+      "id": 2,
+      "name": "Universidade Federal do Rio de Janeiro (UFRJ)",
+      "site": "https://ufrj.br/",
+      "state": "Rio de Janeiro",
+      "type": "pública"
+    },
+    {
       "id": 3,
+      "name": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
+      "site": "https://www.puc-rio.br/",
+      "state": "Rio de Janeiro",
+      "type": "privada"
+    },
+    {
+      "id": 4,
+      "name": "Universidade Estadual de Campinas (UNICAMP)",
+      "site": "https://www.unicamp.br/",
+      "state": "São Paulo",
+      "type": "pública"
+    },
+    {
+      "id": 5,
+      "name": "Universidade Federal de Minas Gerais (UFMG)",
+      "site": "https://www.ufmg.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 7,
+      "name": "Universidade de Brasília (UnB)",
+      "site": "https://www.unb.br/",
+      "state": "Distrito Federal",
+      "type": "pública"
+    },
+    {
+      "id": 8,
+      "name": "Universidade Federal de Santa Catarina (UFSC)",
+      "site": "https://www.ufsc.br/",
+      "state": "Santa Catarina",
+      "type": "pública"
+    },
+    {
+      "id": 9,
+      "name": "Universidade Federal do Paraná (UFPR)",
+      "site": "https://www.ufpr.br/",
+      "state": "Paraná",
+      "type": "pública"
+    },
+    {
+      "id": 10,
+      "name": "Universidade Federal de Pernambuco (UFPE)",
+      "site": "https://www.ufpe.br/",
+      "state": "Pernambuco",
+      "type": "pública"
+    },
+    {
+      "id": 11,
+      "name": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+      "site": "https://www.ufrgs.br/",
+      "state": "Rio Grande do Sul",
+      "type": "pública"
+    },
+    {
+      "id": 12,
+      "name": "Universidade Federal do Pará (UFPA)",
+      "site": "https://www.ufpa.br/",
+      "state": "Pará",
+      "type": "pública"
+    },
+    {
+      "id": 13,
+      "name": "Universidade Federal de São Paulo (UNIFESP)",
+      "site": "https://www.unifesp.br/",
+      "state": "São Paulo",
+      "type": "pública"
+    },
+    {
+      "id": 14,
+      "name": "Universidade Federal de Goiás (UFG)",
+      "site": "https://www.ufg.br/",
+      "state": "Goiás",
+      "type": "pública"
+    },
+    {
+      "id": 15,
+      "name": "Universidade Federal de Uberlândia (UFU)",
+      "site": "https://www.ufu.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 16,
+      "name": "Universidade Federal de Viçosa (UFV)",
+      "site": "https://www.ufv.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 17,
+      "name": "Universidade Federal de Juiz de Fora (UFJF)",
+      "site": "https://www.ufjf.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 18,
+      "name": "Universidade Federal de São Carlos (UFSCar)",
+      "site": "https://www2.ufscar.br/",
+      "state": "São Paulo",
+      "type": "pública"
+    },
+    {
+      "id": 19,
+      "name": "Universidade Federal de Itajubá (UNIFEI)",
+      "site": "https://www.unifei.edu.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 20,
+      "name": "Universidade Federal de Ouro Preto (UFOP)",
+      "site": "https://www.ufop.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 21,
+      "name": "Universidade Federal do ABC (UFABC)",
+      "site": "https://www.ufabc.edu.br/",
+      "state": "São Paulo",
+      "type": "pública"
+    },
+    {
+      "id": 22,
+      "name": "Universidade Federal do Espírito Santo (UFES)",
+      "site": "https://www.ufes.br/",
+      "state": "Espírito Santo",
+      "type": "pública"
+    },
+    {
+      "id": 23,
+      "name": "Universidade Federal de Lavras (UFLA)",
+      "site": "https://ufla.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 24,
+      "name": "Universidade Federal de Sergipe (UFS)",
+      "site": "https://www.ufs.br/",
+      "state": "Sergipe",
+      "type": "pública"
+    },
+    {
+      "id": 25,
+      "name": "Universidade Federal do Maranhão (UFMA)",
+      "site": "https://portais.ufma.br/",
+      "state": "Maranhão",
+      "type": "pública"
+    },
+    {
+      "id": 26,
+      "name": "Universidade Federal do Rio Grande do Norte (UFRN)",
+      "site": "https://www.ufrn.br/",
+      "state": "Rio Grande do Norte",
+      "type": "pública"
+    },
+    {
+      "id": 27,
+      "name": "Universidade Federal da Bahia (UFBA)",
+      "site": "https://www.ufba.br/",
+      "state": "Bahia",
+      "type": "pública"
+    },
+    {
+      "id": 28,
+      "name": "Universidade Federal de Santa Maria (UFSM)",
+      "site": "https://www.ufsm.br/",
+      "state": "Rio Grande do Sul",
+      "type": "pública"
+    },
+    {
+      "id": 29,
+      "name": "Universidade Federal do Amazonas (UFAM)",
+      "site": "https://www.ufam.edu.br/",
+      "state": "Amazonas",
+      "type": "pública"
+    },
+    {
+      "id": 30,
+      "name": "Universidade Federal do Piauí (UFPI)",
+      "site": "https://www.ufpi.br/",
+      "state": "Piauí",
+      "type": "pública"
+    },
+    {
+      "id": 31,
+      "name": "Universidade Federal de Alagoas (UFAL)",
+      "site": "https://www.ufal.br/",
+      "state": "Alagoas",
+      "type": "pública"
+    },
+    {
+      "id": 32,
       "name": "Universidade Federal do Ceará (UFC)",
       "site": "https://prograd.ufc.br/pt/cursos-de-graduacao/",
       "state": "Ceará",
-      "type": "public"
+      "type": "pública"
     },
     {
-      "name": "JAOZINHO",
-      "state": "são jao",
-      "site": "meuamig.com",
-      "type": "publica",
-      "id": 4
+      "id": 33,
+      "name": "Universidade Federal do Espírito Santo (UFES)",
+      "site": "https://www.ufes.br/",
+      "state": "Espírito Santo",
+      "type": "pública"
+    },
+    {
+      "id": 34,
+      "name": "Universidade Federal de Uberlândia (UFU)",
+      "site": "https://www.ufu.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 35,
+      "name": "Universidade Federal do Rio Grande (FURG)",
+      "site": "https://www.furg.br/",
+      "state": "Rio Grande do Sul",
+      "type": "pública"
+    },
+    {
+      "id": 36,
+      "name": "Universidade Federal de Itajubá (UNIFEI)",
+      "site": "https://www.unifei.edu.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 37,
+      "name": "Universidade Federal do Pará (UFPA)",
+      "site": "https://www.ufpa.br/",
+      "state": "Pará",
+      "type": "pública"
+    },
+    {
+      "id": 38,
+      "name": "Universidade Federal de São João del-Rei (UFSJ)",
+      "site": "https://www.ufsj.edu.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 39,
+      "name": "Universidade Federal de Lavras (UFLA)",
+      "site": "https://ufla.br/",
+      "state": "Minas Gerais",
+      "type": "pública"
+    },
+    {
+      "id": 40,
+      "name": "Universidade Federal de Sergipe (UFS)",
+      "site": "https://www.ufs.br/",
+      "state": "Sergipe",
+      "type": "pública"
+    },
+    {
+      "id": 41,
+      "name": "Universidade Federal do Tocantins (UFT)",
+      "site": "https://ww2.uft.edu.br/",
+      "state": "Tocantins",
+      "type": "pública"
+    },
+    {
+      "id": 42,
+      "name": "Universidade Federal do Acre (UFAC)",
+      "site": "https://www.ufac.br/",
+      "state": "Acre",
+      "type": "pública"
+    },
+    {
+      "id": 43,
+      "name": "Universidade Federal do Amapá (UNIFAP)",
+      "site": "https://www.unifap.br/",
+      "state": "Amapá",
+      "type": "pública"
+    },
+    {
+      "id": 44,
+      "name": "Universidade Federal do Cariri (UFCA)",
+      "site": "https://www.ufca.edu.br/",
+      "state": "Ceará",
+      "type": "pública"
+    },
+    {
+      "id": 45,
+      "name": "Universidade Federal do Maranhão (UFMA)",
+      "site": "https://portais.ufma.br/",
+      "state": "Maranhão",
+      "type": "pública"
+    },
+    {
+      "id": 46,
+      "name": "Universidade Federal do Oeste da Bahia (UFOB)",
+      "site": "https://www.ufob.edu.br/",
+      "state": "Bahia",
+      "type": "pública"
+    },
+    {
+      "id": 47,
+      "name": "Universidade Federal do Oeste do Pará (UFOPA)",
+      "site": "https://www.ufopa.edu.br/",
+      "state": "Pará",
+      "type": "pública"
+    },
+    {
+      "id": 48,
+      "name": "Universidade Federal do Pampa (UNIPAMPA)",
+      "site": "https://www.unipampa.edu.br/",
+      "state": "Rio Grande do Sul",
+      "type": "pública"
+    },
+    {
+      "id": 49,
+      "name": "Universidade Federal do Recôncavo da Bahia (UFRB)",
+      "site": "https://www.ufrb.edu.br/",
+      "state": "Bahia",
+      "type": "pública"
+    },
+    {
+      "id": 50,
+      "name": "Universidade Federal do Sul e Sudeste do Pará (UNIFESSPA)",
+      "site": "https://www.unifesspa.edu.br/",
+      "state": "Pará",
+      "type": "pública"
+    },
+    {
+      "id": 51,
+      "name": "Universidade Federal do Sul da Bahia (UFSB)",
+      "site": "https://www.ufsb.edu.br/",
+      "state": "Bahia",
+      "type": "pública"
+    },
+    {
+      "id": 53,
+      "name": "Universidade de Fortaleza (UNIFOR)",
+      "site": "https://www.unifor.br/",
+      "state": "Ceará",
+      "type": "privada"
+    },
+    {
+      "id": 54,
+      "name": "Universidade Presbiteriana Mackenzie (MACKENZIE)",
+      "site": "https://www.mackenzie.br/",
+      "state": "São Paulo",
+      "type": "privada"
+    },
+    {
+      "id": 55,
+      "name": "Universidade Estácio de Sá (UNESA)",
+      "site": "https://portal.estacio.br/",
+      "state": "Rio de Janeiro",
+      "type": "privada"
+    },
+    {
+      "id": 56,
+      "name": "Universidade do Vale do Rio dos Sinos (UNISINOS)",
+      "site": "https://www.unisinos.br/",
+      "state": "Rio Grande do Sul",
+      "type": "privada"
+    },
+    {
+      "id": 57,
+      "name": "Universidade Feevale (FEEVALE)",
+      "site": "https://www.feevale.br/",
+      "state": "Rio Grande do Sul",
+      "type": "privada"
+    },
+    {
+      "id": 58,
+      "name": "Universidade do Vale do Itajaí (UNIVALI)",
+      "site": "https://www.univali.br/",
+      "state": "Santa Catarina",
+      "type": "privada"
+    },
+    {
+      "id": 59,
+      "name": "Universidade Católica de Brasília (UCB)",
+      "site": "https://www.ucb.br/",
+      "state": "Distrito Federal",
+      "type": "privada"
+    },
+    {
+      "id": 60,
+      "name": "Universidade Salvador (UNIFACS)",
+      "site": "https://www.unifacs.br/",
+      "state": "Bahia",
+      "type": "privada"
+    },
+    {
+      "id": 61,
+      "name": "Universidade do Vale do Paraíba (UNIVAP)",
+      "site": "https://www.univap.br/",
+      "state": "São Paulo",
+      "type": "privada"
+    },
+    {
+      "id": 62,
+      "name": "Universidade Católica de Pernambuco (UNICAP)",
+      "site": "https://www.unicap.br/",
+      "state": "Pernambuco",
+      "type": "privada"
+    },
+    {
+      "id": 63,
+      "name": "Universidade Anhembi Morumbi (UAM)",
+      "site": "https://portal.anhembi.br/",
+      "state": "São Paulo",
+      "type": "privada"
+    },
+    {
+      "id": 64,
+      "name": "Universidade Positivo (UP)",
+      "site": "https://www.up.edu.br/",
+      "state": "Paraná",
+      "type": "privada"
+    },
+    {
+      "id": 65,
+      "name": "Centro Universitário Senac",
+      "site": "https://www.sp.senac.br/",
+      "state": "São Paulo",
+      "type": "privada"
+    },
+    {
+      "id": 66,
+      "name": "Universidade de Caxias do Sul (UCS)",
+      "site": "https://www.ucs.br/",
+      "state": "Rio Grande do Sul",
+      "type": "privada"
+    },
+    {
+      "id": 67,
+      "name": "Universidade do Sul de Santa Catarina (UNISUL)",
+      "site": "https://www.unisul.br/",
+      "state": "Santa Catarina",
+      "type": "privada"
+    },
+    {
+      "id": 68,
+      "name": "Pontifícia Universidade Católica de Minas Gerais (PUC Minas)",
+      "site": "https://www.pucminas.br/",
+      "state": "Minas Gerais",
+      "type": "privada"
     }
   ],
   "courses": [

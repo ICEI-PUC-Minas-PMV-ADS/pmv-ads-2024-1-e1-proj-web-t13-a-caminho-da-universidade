@@ -4,6 +4,10 @@
    box-sizing: border-box;
 }
 
+main {
+   width: 100%;
+}
+
 .pesquisar {
    display: flex; 
    position: relative;
