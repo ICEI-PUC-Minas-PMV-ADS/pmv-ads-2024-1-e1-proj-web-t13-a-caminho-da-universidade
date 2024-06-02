@@ -16,7 +16,7 @@ main {
    justify-content: space-between;
 }
 
-.pesquisar #cursos {
+.pesquisar input[name="cursos"] {
    flex-grow: 1;
    padding-right: 50px;
 }
