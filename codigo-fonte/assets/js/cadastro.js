@@ -1,7 +1,13 @@
+const isAdmin = "GJVTPP"
+
 const name = document.querySelector('#name')
+const codeAdm = document.querySelector('#isAdmin')
 const email = document.querySelector('#email')
 const password = document.querySelector('#password')
 const passwordConfirmation = document.querySelector('#passwordConfirmation')
+const dataNasc = document.querySelector("#dataDeNascimento")
+const sexo = document.querySelector('#sexo')
+const estado = document.querySelector('#estado')
 const form = document.querySelector('#formulario')
 const errorMessage = document.querySelector('#errorMessage')
 
@@ -65,12 +71,13 @@ function successMsg() {
     modalWindow.append(modalInterior, modalMessage);
     cadastro.append(modalWindow);
 
-    setTimeout(function() {modalWindow.remove(); window.location.href = "curso.html";}, 1000);
+    setTimeout(function() {modalWindow.remove(); window.location.href = "universidade.html";}, 1000);
 }
 
 form.addEventListener("submit", function(cadastro) {
     cadastro.preventDefault();
-    
+    console.log(codeAdm);
+    console.log("Entreiiiii");
     if(!passwordV() || !passwordConfirmationV()) {
       return 
     } 
@@ -85,12 +92,20 @@ form.addEventListener("submit", function(cadastro) {
         console.log({users});
     }
 
+    console.log(users);
+
     const user = {
         id: newId,
         name: name.value, 
         email: email.value, 
-        password: password.value
+        password: password.value,
+        dataNasc: dataNasc.value,
+        sexo: sexo.value,
+        estado: estado.value,
+        isAdmin: isAdmin === codeAdm.value 
     }
+
+    console.log(user);
 
     const userEmail = email.value;
     let exist = false;
