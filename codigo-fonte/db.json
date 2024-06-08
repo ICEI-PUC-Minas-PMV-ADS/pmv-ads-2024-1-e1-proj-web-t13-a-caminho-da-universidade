@@ -461,6 +461,13 @@
       "site": "https://www.pucminas.br/",
       "state": "Minas Gerais",
       "type": "privada"
+    },
+    {
+      "name": "Pontifícia Universidade Católica de Campinas (PUC CAMP)",
+      "state": "São Paulo ",
+      "site": "https://www.puc-campinas.edu.br",
+      "type": "privada",
+      "id": 69
     }
   ],
   "courses": [

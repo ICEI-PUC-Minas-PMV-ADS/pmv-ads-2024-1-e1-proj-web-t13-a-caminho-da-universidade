@@ -50,7 +50,7 @@ registerForm.addEventListener('submit', async (ev) => {
         site,
         type
     }
-   
+
     console.log({university});
 
     try {
@@ -132,7 +132,7 @@ async function fetchUniversities() {
 async function showUniversities(element) {
     const universities = await fetchUniversities()
     element.innerHTML = ''
-  
+
     universities.forEach(university => {
         const option = document.createElement('option');
         option.value = university.id
@@ -154,7 +154,7 @@ async function fetchCourses(universityId) {
 async function showCourses(element, universityId) {
     const courses = await fetchCourses(universityId);
     element.innerHTML = ''
-  
+
     courses.forEach(course => {
       const option = document.createElement('option');
       option.value = course.id
@@ -166,7 +166,7 @@ async function showCourses(element, universityId) {
 function showSection(sectionToShow) {
     const sections = document.querySelectorAll('.container')
     sections.forEach(section => section.style.display = 'none')
-  
+
     sectionToShow.style.display = 'block'
 }
 
