@@ -7,6 +7,7 @@
     <link rel="shortcut icon" href="./assets/imgs/favicon-32x32.png" type="image/x-icon">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/login.css">
+    <script src="./assets/js/login.js" defer></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
         </style>
@@ -28,19 +29,18 @@
             <img class="imagemlogin" src="assets/imgs/logo.svg" alt="">
             <div class="box-entrar">
                 <h2>Entrar</h2>
-                <form action="">
+                <form id="login" action="">
                     <label for="e-mail">E-mail ou Nome de usuário</label>
                     <input type="text" name="e-mail" id="e-mail">
                     <label for="password">Senha</label>
                     <input type="password" name="password" id="password">
+                    <p id="errorMessage"></p>
                     <div class="botaologin">
-                        <button id="login">LOGIN</button>
+                        <button type="submit" >LOGIN</button>
                     </div>
                 </form>
-
                 <span>Não possui uma conta?</span>
                 <a href="cadastro.html">Criar minha conta</a>
-                <p id="errorMessage"></p>
             </div>
         </section>
     </main>

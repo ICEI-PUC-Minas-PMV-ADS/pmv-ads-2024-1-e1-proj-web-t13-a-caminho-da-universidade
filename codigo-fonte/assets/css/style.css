@@ -35,6 +35,25 @@ header {
     font-weight: bold;
 }
 
+.hide {
+    display: none;
+}
+
+#logout {
+    background-color: transparent;
+    border: none;
+    padding: 20px;
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+#logout:hover {
+    color: var(--color-links-header);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 #menu a:hover {
     color: var(--color-links-header);
     text-decoration: underline;
