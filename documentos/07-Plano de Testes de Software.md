@@ -351,7 +351,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
   <tr>
-  <td>CT-10: Verificar o cadastro de usuário administrador</td>
+  <td>CT-11: Verificar o cadastro de usuário administrador</td>
   <td>
    <ul>
    <li>RF-01	O site deve permitir o cadastro de usuário administrador</li>
@@ -384,7 +384,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
   <tr>
-  <td>CT-11: Verificar se as páginas funcionam corretamente em dispositios mobile</td>
+  <td>CT-12: Verificar se as páginas funcionam corretamente em dispositios mobile</td>
   <td>
    <ul>
    <li>RF-01 O site deve funcionar corretamente em dispostivos mobile</li>
