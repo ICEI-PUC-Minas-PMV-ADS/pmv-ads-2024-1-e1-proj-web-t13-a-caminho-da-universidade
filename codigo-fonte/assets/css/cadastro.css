@@ -75,4 +75,40 @@ button:hover{
     margin-bottom: 10px;
     margin-top: 10px;
     margin-left: 5px;
- }
+}
+
+.input-box {
+    margin-bottom: 15px ;
+    width: calc(100% / 2 - 20px);
+}
+
+
+.input-box input {
+    height: 45px;
+    width: 100px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding-left: 15px;
+    font-size: 16px;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+}
+
+
+.input-box select {
+    height: 28px;
+    width: 170px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding-left: 7px;
+    font-size: 12px;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+    background-size: 10px 10px;
+}
+
+.input-box select option {
+    padding: 10px;
+}

@@ -113,11 +113,13 @@ deleteForm.addEventListener('submit', async (ev) => {
           method: 'DELETE',
         })
 
+        alert('Deletado com sucesso')
             
       } catch (err) {
         console.error(err)
       }
     deleteForm.reset()
+
 })
 
 async function fetchUniversities() {
@@ -225,7 +227,7 @@ registerCourseForm.addEventListener('submit', async (ev) => {
             },
             body: JSON.stringify(course)
         }) 
-        alert("cadastro realizado com sucesso")
+        alert("Cadastro realizado com sucesso")
     }
     catch(err) {
         console.log(err)
@@ -262,7 +264,7 @@ updateCourseForm.addEventListener('submit', async (ev) => {
             },
             body: JSON.stringify(course)
         }) 
-        alert("alterado com sucesso")
+        alert("Editado com sucesso")
     }
     catch(err) {
         console.log(err)
@@ -279,7 +281,7 @@ deleteCourseForm.addEventListener('submit', async (ev) => {
         const response = await fetch(`http://localhost:3000/courses/${id}`, {
           method: 'DELETE',
         })
-    
+        alert('Deletado com sucesso')
       } catch (err) {
         console.error(err)
       }

@@ -71,7 +71,7 @@ function successMsg() {
     modalWindow.append(modalInterior, modalMessage);
     cadastro.append(modalWindow);
 
-    setTimeout(function() {modalWindow.remove(); window.location.href = "universidade.html";}, 1000);
+    setTimeout(function() {modalWindow.remove(); window.location.href = "login.html";}, 1000);
 }
 
 form.addEventListener("submit", function(cadastro) {
