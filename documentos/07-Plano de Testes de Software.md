@@ -211,7 +211,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <th>Responsável</th>
  </tr>
   <tr>
-  <td>CT-07: Verificar a edição de Universidades</td>
+  <td>CT-07: Verificar a deleção de Universidades</td>
   <td>
    <ul>
    <li>RF-01	O site deve permitir ao usuário administrador deletar universidades cadastradas</li>
@@ -369,7 +369,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
     <li>Clicar em “Criar conta”.</li>
    </ol>
    </td>
-  <td>Ao clicar em "Criar conta", o usuário será redirecionado para página universidades, caso ele tenha inserido o código correto de administrador, deve aparecer o campo "Administrador" no menu .</td>
+  <td>Ao clicar em "Criar conta", o usuário será redirecionado para página de login, caso ele tenha inserido o código correto de administrador, deve aparecer o campo "Administrador" no menu .</td>
   <td>Gabriel</td>
  </tr>
 </table>
