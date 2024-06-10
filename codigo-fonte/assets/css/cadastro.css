@@ -1,114 +1,155 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-body{
-    background-image: linear-gradient(90deg, #82a9da, #d9d9d9, #82a9da );
-    font-family: Arial, Helvetica, sans-serif;
+
+body {
+  background-image: linear-gradient(90deg, #82a9da, #d9d9d9, #82a9da);
+  font-family: Arial, Helvetica, sans-serif;
 }
-main{
-    display: flex;
-    justify-content: center;
+
+main {
+  display: flex;
+  justify-content: center;
 }
-#cadastro{
-    display: inline-block;
-    background-color: #d9d9d9;
-    padding: 30px;
-    border-radius: 10px;
+
+#cadastro {
+  margin-top: 20px;
+  display: inline-block;
+  background-color: #d9d9d9;
+  padding: 30px;
+  border-radius: 10px;
 }
-#cadastro img{
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 60%;
+
+#cadastro img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }
-#formulario{
-    background-color: #82a9da;
-    padding: 30px;
-    color:white;
-    border-radius: 10px;
+
+#formulario {
+  background-color: #82a9da;
+  padding: 30px;
+  color: white;
+  border-radius: 10px;
 }
-#formulario h1{
-    text-align: center;
+
+#formulario h1 {
+  text-align: center;
 }
-input{
-    background-color: #d9d9d9;
-    margin-bottom: 10px;
-    outline: none;
-    border: none;
-    font-size: 15px;
-    padding: 5px;
-    width: 100%;
-    border-radius: 10px;
+
+input,
+select {
+  background-color: #d9d9d9;
+  margin-bottom: 10px;
+  outline: none;
+  border: none;
+  font-size: 15px;
+  padding: 10px;
+  width: 100%;
+  border-radius: 10px;
 }
-button{
-    background-color: whitesmoke;
-    border: none;
-    outline: none;
-    padding: 10px;
-    width:100%;
-    margin-top: 5px;
-    margin-bottom: 10px;
-    border-radius: 10px;
+
+button {
+  background-color: whitesmoke;
+  border: none;
+  outline: none;
+  padding: 10px;
+  width: 100%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border-radius: 10px;
 }
-button:hover{
-    background-color:#d9d9d9;
-    cursor: pointer;
+
+button:hover {
+  background-color: #d9d9d9;
+  cursor: pointer;
 }
-#formulario a{
-    text-decoration: none;
-    color:black;
+
+#formulario a {
+  text-decoration: none;
+  color: black;
 }
-#formulario a:hover{
-    color: var(--color-links-header);
-    cursor:pointer;
-    text-decoration: underline;
+
+#formulario a:hover {
+  color: var(--color-links-header);
+  cursor: pointer;
+  text-decoration: underline;
 }
 
 #errorMessage {
-    color: red;
+  color: red;
 }
-.form-group{
-    display:flex;
-    align-items: center;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    margin-left: 5px;
+
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 5px;
 }
 
 .input-box {
-    margin-bottom: 15px ;
-    width: calc(100% / 2 - 20px);
+  margin-bottom: 15px;
+  width: calc(100% / 2 - 20px);
 }
-
 
 .input-box input {
-    height: 45px;
-    width: 100px;
-    outline: none;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-    padding-left: 15px;
-    font-size: 16px;
-    border-bottom-width: 2px;
-    transition: all 0.3s ease;
+  height: 45px;
+  width: 100px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding-left: 15px;
+  font-size: 16px;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
 }
 
-
 .input-box select {
-    height: 28px;
-    width: 170px;
-    outline: none;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-    padding-left: 7px;
-    font-size: 12px;
-    border-bottom-width: 2px;
-    transition: all 0.3s ease;
-    background-size: 10px 10px;
+  height: 28px;
+  width: 170px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding-left: 7px;
+  font-size: 12px;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+  background-size: 10px 10px;
 }
 
 .input-box select option {
-    padding: 10px;
+  padding: 10px;
+}
+
+@media screen and (max-width: 767.98px) {
+  #cadastro {
+    margin-top: 15px;
+    padding: 20px;
+  }
+
+  #cadastro img {
+    width: 80%;
+  }
+
+  #formulario {
+    padding: 20px;
+  }
+
+  .form-group {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .input-box {
+    width: 100%;
+  }
+
+  .input-box input,
+  .input-box select {
+    width: 100%;
+  }
 }

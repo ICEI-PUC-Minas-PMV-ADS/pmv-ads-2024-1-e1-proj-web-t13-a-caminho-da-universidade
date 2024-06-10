@@ -13,8 +13,9 @@ if(localStorage.hasOwnProperty("users")) {
 
 login.addEventListener('submit', (ev) => {
    ev.preventDefault()
-   
+  
    if(!logar(email.value, password.value)) {
+      console.log(user);
       errorMessage.style.display = 'block'
       errorMessage.textContent = 'Senha ou email invalidos'   
    } else {
@@ -28,7 +29,12 @@ login.addEventListener('submit', (ev) => {
 
 
 function logar (email, password){  
+   console.log(users.length);
    for (let i = 0; i < users.length; i++) {
+      
+      console.log(users[i].password, users[i].email);
+      console.log("senha", users[i].password === password, "email",users[i].email === email);
+
       if(users[i].password === password && users[i].email === email) {
          user = {
             name: users[i].name,
@@ -40,10 +46,10 @@ function logar (email, password){
             isAdmin: users[i].isAdmin
          }
          return  true
-      } else {
-         return false
       }
    } 
+
+   return false
 }
 
 

@@ -1,118 +1,142 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-    
-*{ 
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Inter", sans-serif;
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
 }
 
-body{
-    background-image: linear-gradient(90deg, #82a9da, #d9d9d9, #82a9da );
-    font-family: Arial, Helvetica, sans-serif;
+body {
+  background-image: linear-gradient(90deg, #82a9da, #d9d9d9, #82a9da);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 :root {
-    --cordefundologin: #D9D9D9;
-    --box-entrar-cordefundo: #135DB5;
+  --cordefundologin: #d9d9d9;
+  --box-entrar-cordefundo: #135db5;
 }
 
 .container {
-    background-color: var(--cordefundologin);
-    height: 625px;
-    width: 400px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    border-radius: 7px;
+  background-color: var(--cordefundologin);
+  height: 625px;
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 7px;
+  padding: 20px;
+  margin-top: 20px;
 }
 
 .imagemlogin {
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 45%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
 }
 
 .box-entrar {
-background-color: #82a9da;
-    height: 400px;
-    width: 320px;
-    padding: 30px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border-radius: 5px;
-    justify-content: center;
+  background-color: #82a9da;
+  height: 400px;
+  width: 100%;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5px;
+  justify-content: center;
 }
 
 .box-entrar h2 {
-    color: #ffff;
-    font-family: "Inter", sans-serif;
-    font-weight: 350;
-    margin-bottom: 30px;
-    
+  color: #ffff;
+  font-family: "Inter", sans-serif;
+  font-weight: 350;
+  margin-bottom: 30px;
 }
 
 .box-entrar label {
-    color: #ffff;
-    font-size: 12px;
-    font-weight: 100;
-    margin: 4px 0;
-    display: inline-block;
-}   
-
-.box-entrar input {
-    background-color: var(--cordefundologin);
-    padding: 8px 50px;
-    border-radius: 4px;
-    border: none;
+  color: #ffff;
+  font-size: 12px;
+  font-weight: 100;
+  margin: 4px 0;
+  display: inline-block;
 }
 
+.box-entrar input {
+  background-color: var(--cordefundologin);
+  padding: 8px;
+  border-radius: 4px;
+  border: none;
+  width: 100%;
+}
 
 button {
-    font-size: 10px;
-    margin-top: 30px;
-    width: 180px;
-    height: 30px;
-    border-radius: 7px;
-    border-color: transparent;
-    cursor: pointer;   
+  font-size: 10px;
+  margin-top: 30px;
+  width: 180px;
+  height: 30px;
+  border-radius: 7px;
+  border-color: transparent;
+  cursor: pointer;
 }
 
 button:hover {
-
-    background-color: rgb(201, 219, 235);
+  background-color: rgb(201, 219, 235);
 }
 
 .botaologin {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 span {
-    color: rgb(255, 255, 255);
-    font-size: 14px;
-    margin: 18px 0 12px;
-    font-weight: 100;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  margin: 18px 0 12px;
+  font-weight: 100;
 }
 
 .box-entrar a {
-    color: #013457;
-    font-size: 12px;
-    text-decoration: none;
-    font-weight: 300;
+  color: #013457;
+  font-size: 12px;
+  text-decoration: none;
+  font-weight: 300;
 }
 
 #errorMessage {
-    color: red;
-    font-size: .75rem;
-    font-weight: 500;
-    text-align: center;
-    margin-top: 10px;
+  color: red;
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-align: center;
+  margin-top: 10px;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 767.98px) {
+  .container {
+    width: 100%;
+    height: auto;
+  }
+
+  .imagemlogin {
+    width: 70%;
+  }
+
+  .box-entrar {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .box-entrar input {
+    padding: 8px;
+  }
+
+  button {
+    width: 100%;
+  }
 }
