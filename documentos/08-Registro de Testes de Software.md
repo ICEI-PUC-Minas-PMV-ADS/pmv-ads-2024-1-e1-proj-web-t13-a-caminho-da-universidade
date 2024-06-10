@@ -19,3 +19,138 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-camin
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/75a562e9-bd0b-4c8d-b7df-9912ee76b7ba
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/22140e0d-f5f1-4bd5-bdaa-c348520fcc4f
+
+# Registro de Testes de Software
+
+<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/04-Projeto%20de%20Interface.md"> Projeto de Interface</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/08-Plano%20de%20Testes%20de%20Software.md"> Plano de Testes de Software</a>
+
+Os testes funcionais realizados na aplicação web são descritos a seguir.
+
+<ol>
+  <li> CT-01: Verificar o funcionamento dos links da página Home.
+
+  Responsável: Beatriz.
+
+https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3-aba9-b9e617132f31.mov
+
+  </li>
+  <hr>
+  
+  <li> CT-02: Verificar o funcionamento do filtro de pesquisa.
+
+  Responsável: Beatriz.
+    
+  <p>Filtro da página Livros:</p>
+    
+![paginahome11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/07ea702f-8146-4fb4-bb49-d3c60f9ed76c)
+
+
+
+  <p>Filtro da página Tutorias:</p>
+    
+![pagina home 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/e091b145-2081-4963-a91f-6ecc55d87dfd)
+
+  <p> No caso abaixo, o termo digitado não fazia parte das informações cadastradas dos livros. Assim, não houve retorno de livros registrados.</p>
+    
+![paginahome3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/673bd2ab-8bc5-4b0c-ab7b-28a2c7efcb4d)
+
+  </li>
+  <hr>
+  
+  <li> CT-03: Verificar detalhes dos livros.
+
+Responsável: Silvia.
+      
+![paginasobre1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/4ac34d48-c099-44f9-bfd9-0f87c6fc5137)
+
+
+![pagina sobre 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/31511676-df64-4fd7-b85b-72844896696e)
+
+
+
+  </li>
+  <hr>
+  
+  <li> CT-04: Verificar o cadastro de usuários.
+   
+  Responsável: Pedro. 
+   
+   <p>Usuário preenche os campos "Senha" e "Confirmaçāo de Senha" com valores diferentes.</p>
+      
+  ![paginacadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/3afdaf12-376a-425f-9873-60ddeafafba5)
+
+    
+  </li>
+  
+  <p>Verificar se o usuário foi cadastrado.</p>
+    
+ ![paginalogin](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/672932a7-de35-4123-9cd0-492646efdc1d)
+
+    
+  <p> Informações armazenadas no LocalStorage após usuário se cadastrar.</p>
+
+  
+  </li>
+  <hr>
+  
+  <li> CT-05: Verificar o login de usuários.
+
+  Responsável: Ana. 
+  
+   <p>Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado.</p>
+  
+  ![paginauniversidades](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/2c8f7648-2e91-41bc-936f-7ae513df8cd4)
+
+
+
+  <p>Se as informações de usuário forem válidas, o login será bem sucedido.</p>
+  
+
+  <p> Informações armazenadas no LocalStorage do usuário logado.</p>
+
+
+
+  </li>
+  <hr>
+  
+  <li> CT-06: Verificar o cadastro de livros.
+
+  Responsável: Pedro. 
+    
+  <p> Mensagem de erro na senha do livro.</p>
+  
+![senhacadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/25052654-4615-48fa-9c8c-20fbe0551e6e)
+
+
+  <p> Registro disponível na página Livros após o usuário cadastrar o livro.</p>
+  
+![Captura de Tela 2022-06-21 às 15 51 10](https://user-images.githubusercontent.com/100447878/174876692-ebcfba83-0af7-4449-a378-f0e8091227f4.png)  
+
+  <p> Informações armazenadas no LocalStorage após o cadastro do livro.</p>
+
+  </li>
+  <hr>
+  
+  <li> CT-07: Verificar o cadastro de tutores.
+
+  Responsável: João. 
+    
+  <p> Mensagem de confirmação de cadastro do tutor.</p>
+  
+   ![image](https://user-images.githubusercontent.com/101907319/174912389-5ad42624-397a-4ac5-b3c9-add2b13880cb.png)
+
+  <p> Registro disponível na página Tutorias após o usuário cadastrar o tutor.</p>
+  
+)
+
+  <p> Informações armazenadas no LocalStorage após o usuário cadastrar o tutor.</p>
+  
+ ![cadastrouniversidades](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/161611981/31f7f26d-0f49-4e80-8b3c-282816044181)
+
+  
+  <p> No exemplo abaixo, o usuário tenta fazer o cadastro do tutor de maneira incorreta, sem preencher todos os campos, o que não finaliza o cadastro.</p>
+  
+  </ol>
+    
+
+## Avaliação
