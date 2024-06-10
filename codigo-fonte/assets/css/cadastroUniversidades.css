@@ -96,8 +96,8 @@ header #logout:hover {
     display: none;
 }
 
-.hidden {
-    display: none;
+.container:not(.hidden) {
+    display: block;
 }
 
 .title {
@@ -172,6 +172,10 @@ header #logout:hover {
 
 .button input:hover {
     background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+}
+
+.hidden {
+    display: none;
 }
 
 @media screen and (max-width: 730px) {
