@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Popins', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -12,34 +12,58 @@ body {
 main {
     display: flex;
     flex-direction: column;
-    height: 100vh;
     justify-content: center;
     align-items: center;
     padding: 10px;
 }
 
-.select-university {
+header {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    justify-content: end;
-    width: 600px;
-    margin-bottom: 50px;
+    padding: 10px;
+    background-color: #630344;
 }
 
-.select-university div {
-    margin: 40px 5px 5px 5px;
+header img {
+    width: 100px;
+    height: auto;
 }
 
+header #menu {
+    display: flex;
+    gap: 10px;
+}
+
+header #menu a,
+header #logout {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+header #menu a:hover,
+header #logout:hover {
+    background-color: #4e0231;
+}
+
+.select-university,
 .select-course {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    width: 400px;
-    margin-bottom: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 30px;
+    width: 100%;
+    max-width: 600px;
 }
 
+.select-university div,
 .select-course div {
-    margin: 0 5px;
+    flex: 1 1 calc(33.333% - 20px);
 }
 
 .edit-buttons {
@@ -48,18 +72,18 @@ main {
     outline: none;
     color: #fff;
     border: none;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
     border-radius: 5px;
     letter-spacing: 1px;
     background-color: #202a3dfa;
     cursor: pointer;
-    padding: 5px 0;
+    padding: 10px 0;
+    transition: background-color 0.3s ease, font-size 0.3s ease, padding 0.3s ease;
 }
 
 .edit-buttons:hover {
     background-color: #263144fa;
-
 }
 
 .container {
@@ -69,16 +93,17 @@ main {
     padding: 20px 30px;
     border-radius: 5px;
     margin-bottom: 40px;
+    display: none;
 }
 
-
-#update-container, #delete-container, #cRegister-course, #uRegister-course, #dRegister-course {
+.hidden {
     display: none;
 }
 
 .title {
     font-size: 25px;
     font-weight: 500;
+    margin-bottom: 20px;
     position: relative;
 }
 
@@ -95,13 +120,13 @@ main {
 .university-details {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 20px 0 12px 0;
+    gap: 15px;
+    margin-bottom: 20px;
 }
 
 .input-box {
-    margin-bottom: 15px ;
-    width: calc(100% / 2 - 20px);
+    flex: 1 1 calc(50% - 30px);
+    min-width: 200px;
 }
 
 .input-box .details {
@@ -110,62 +135,39 @@ main {
     margin-bottom: 5px;
 }
 
-.input-box input {
-    height: 45px;
+.input-box input,
+.input-box select {
     width: 100%;
-    outline: none;
-    border-radius: 5px;
+    padding: 10px;
     border: 1px solid #ccc;
-    padding-left: 15px;
+    border-radius: 5px;
+    outline: none;
     font-size: 16px;
-    border-bottom-width: 2px;
-    transition: all 0.3s ease;
+    transition: border-color 0.3s ease;
 }
 
 .input-box input:focus,
-.input-box input:valid{
-    border-color: #9b59b6;
-}
-
-.input-box select {
-    height: 45px;
-    width: 100%;
-    outline: none;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-    padding-left: 15px;
-    font-size: 16px;
-    border-bottom-width: 2px;
-    transition: all 0.3s ease;
-    background-size: 12px 12px;
-}
-
+.input-box input:valid,
 .input-box select:focus,
 .input-box select:valid {
     border-color: #9b59b6;
 }
 
-.input-box select option {
-    padding: 10px;
-}
-
 .button {
-    height: 45px;
-    margin: 45px 0;
+    display: flex;
+    justify-content: center;
 }
 
 .button input {
-    height: 100%;
-    width: 100%;
-    outline: none;
+    padding: 10px 20px;
     color: #fff;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
     border: none;
+    border-radius: 5px;
     font-size: 18px;
     font-weight: 500;
-    border-radius: 5px;
-    letter-spacing: 1px;
-    background: linear-gradient(135deg, #71b7e6, #9b59b6);
     cursor: pointer;
+    transition: background 0.3s ease;
 }
 
 .button input:hover {
@@ -175,19 +177,45 @@ main {
 @media screen and (max-width: 730px) {
     .container {
         max-width: 100%;
+        padding: 15px;
     }
 
     .input-box {
-        margin-bottom: 15px;
-        width: 100%;
+        flex: 1 1 100%;
     }
 
-    .university-details {
-        max-height: 300px;
-        overflow-y: scroll;
+    .select-university,
+    .select-course {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
     }
 
-    .university-details::-webkit-scrollbar {
-        width: 0;
+    .edit-buttons {
+        font-size: 14px;
+        padding: 8px 0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    header {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    header #menu {
+        flex-direction: column;
+        align-items: center;
+        gap: 5px;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    .edit-buttons {
+        font-size: 12px;
+        padding: 6px 0;
     }
 }

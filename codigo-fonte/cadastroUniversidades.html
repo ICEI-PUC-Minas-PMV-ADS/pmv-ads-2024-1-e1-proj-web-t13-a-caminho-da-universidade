@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="shortcut icon" href="./assets/imgs/favicon-32x32.png" type="image/x-icon">
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/cadastroUniversidades.css">
+    <link rel="shortcut icon" href="./assets/imgs/favicon-32x32.png" type="image/x-icon" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/cadastroUniversidades.css" />
     <script src="./assets/js/header.js" defer></script>
     <script src="./assets/js/cadastroUniversidade.js" defer></script>
 </head>
 <body>
     <header>
         <div>
-            <a href="index.html"><img src="assets/imgs/logo.svg" id="logo" alt=""></a>
+            <a href="index.html"><img src="assets/imgs/logo.svg" id="logo" alt="" /></a>
         </div>
         <div id="menu">
             <a href="sobre.html">Sobre</a>
@@ -28,10 +28,10 @@
                 <button class="edit-buttons" id="register">Cadastrar Universidade</button>
             </div>
             <div>
-                <button class="edit-buttons" class="edit-buttons" id="update">Editar Universidade</button>
+                <button class="edit-buttons" id="update">Editar Universidade</button>
             </div>
             <div>
-                <button class="edit-buttons" class="edit-buttons" id="delete">Deletar Universidade</button>
+                <button class="edit-buttons" id="delete">Deletar Universidade</button>
             </div>
         </section>
         <section class="select-course">
@@ -51,11 +51,11 @@
                 <div class="university-details">
                     <div class="input-box">
                         <label for="name" class="details">Nome da Universidade</label>
-                        <input type="text" name="name" id="name" required>
+                        <input type="text" name="name" id="name" required />
                     </div>
                     <div class="input-box">
                         <label for="state" class="details">Estado</label>
-                        <input type="text" name="state" id="state" required>
+                        <input type="text" name="state" id="state" required />
                     </div>
                     <div class="input-box">
                         <label for="type" class="details">Tipo de instituição</label>
@@ -67,130 +67,129 @@
                     </div>
                     <div class="input-box">
                         <label for="site" class="details">Site</label>
-                        <input type="text" name="site" id="site" required>
+                        <input type="text" name="site" id="site" required />
                     </div>
                 </div>
                 <div class="button">
-                  <input type="submit" value="Cadastrar">
+                    <input type="submit" value="Cadastrar" />
                 </div>
             </form>
         </div>
-        <div id="cRegister-course" class="container">
+        <div id="cRegister-course" class="container hidden">
             <p class="title">Cadastre um Curso</p>
             <form id="register-course">
                 <div class="university-details">
                     <div class="input-box">
                         <label for="university">Nome da Universidade</label>
-                         <select name="university" id="university-id-course">  
+                        <select name="university" id="university-id-course">
                             <option value="" disabled selected>Selecione uma universidade</option>
                         </select>
-                     </div>
+                    </div>
                     <div class="input-box">
                         <label for="name" class="details">Nome do Curso</label>
-                        <input type="text" name="name" id="course-name" required>
+                        <input type="text" name="name" id="course-name" required />
                     </div>
                     <div class="input-box">
                         <label for="acronym" class="details">Sigla</label>
-                        <input type="text" name="acronym" id="acronym" required>
+                        <input type="text" name="acronym" id="acronym" required />
                     </div>
                     <div class="input-box">
                         <label for="duration" class="details">Duração do curso</label>
-                        <input type="text" name="duration" id="duration" required>
+                        <input type="text" name="duration" id="duration" required />
                     </div>
                     <div class="input-box">
                         <label for="schedule" class="details">Turno</label>
-                        <input type="text" name="schedule" id="schedule" required>
+                        <input type="text" name="schedule" id="schedule" required />
                     </div>
                     <div class="input-box">
                         <label for="curriculum" class="details">Grade curricular</label>
-                        <input type="text" name="curriculum" id="curriculum" required>
+                        <input type="text" name="curriculum" id="curriculum" required />
                     </div>
                 </div>
                 <div class="button">
-                  <input type="submit" value="Cadastrar">
+                    <input type="submit" value="Cadastrar" />
                 </div>
             </form>
         </div>
-        <div id="uRegister-course" class="container">
+        <div id="uRegister-course" class="container hidden">
             <p class="title">Edite um Curso</p>
             <form id="update-course">
                 <div class="input-box">
                     <label for="university">Nome da Universidade</label>
-                     <select name="university" id="university-id">  
+                    <select name="university" id="university-id">
                         <option value="" disabled selected>Não há nehuma universidade no sistema</option>
                     </select>
-                 </div>
+                </div>
                 <div class="university-details">
                     <div class="input-box">
                         <label for="university">Cursos</label>
-                         <select name="university" id="course-id">  
+                        <select name="university" id="course-id">
                             <option value="" disabled selected>Selecione um Curso</option>
                         </select>
-                     </div>
+                    </div>
                     <div class="input-box">
                         <label for="name" class="details">Nome do Curso</label>
-                        <input type="text" name="name" id="update-course-name" required>
+                        <input type="text" name="name" id="update-course-name" required />
                     </div>
                     <div class="input-box">
                         <label for="acronym" class="details">Sigla</label>
-                        <input type="text" name="acronym" id="update-acronym" required>
+                        <input type="text" name="acronym" id="update-acronym" required />
                     </div>
                     <div class="input-box">
                         <label for="duration" class="details">Duração do curso</label>
-                        <input type="text" name="duration" id="update-duration" required>
+                        <input type="text" name="duration" id="update-duration" required />
                     </div>
                     <div class="input-box">
                         <label for="schedule" class="details">Turno</label>
-                        <input type="text" name="schedule" id="update-schedule" required>
+                        <input type="text" name="schedule" id="update-schedule" required />
                     </div>
                     <div class="input-box">
                         <label for="curriculum" class="details">Grade curricular</label>
-                        <input type="text" name="curriculum" id="update-curriculum" required>
+                        <input type="text" name="curriculum" id="update-curriculum" required />
                     </div>
                 </div>
                 <div class="button">
-                  <input type="submit" value="Editar">
+                    <input type="submit" value="Editar" />
                 </div>
             </form>
         </div>
-        <div id="dRegister-course" class="container">
+        <div id="dRegister-course" class="container hidden">
             <p class="title">Delete um Curso</p>
             <form id="delete-course">
                 <div class="university-details">
                     <div class="input-box">
                         <label for="university">Nome da Universidade</label>
-                         <select name="university" id="university-id1">  
+                        <select name="university" id="university-id1">
                             <option value="" disabled selected>Não há nehuma universidade no sistema</option>
                         </select>
-                     </div>
+                    </div>
                     <div class="input-box">
                         <label for="university">Cursos</label>
-                         <select name="university" id="delete-course-id">  
+                        <select name="university" id="delete-course-id">
                             <option value="" disabled selected>Selecione um Curso</option>
                         </select>
-                     </div>
+                    </div>
                 </div>
                 <div class="button">
-                  <input type="submit" value="Deletar">
+                    <input type="submit" value="Deletar" />
                 </div>
             </form>
         </div>
-        <div id="update-container" class="container" id="hide">
+        <div id="update-container" class="container hidden">
             <p class="title">Edite uma universidade</p>
             <form id="update-form">
                 <div class="university-details">
                     <div class="input-box">
-                       <label for="university">Nome da Universidade</label>
-                        <select name="university" id="update-university">  
-                       </select>
+                        <label for="university">Nome da Universidade</label>
+                        <select name="university" id="update-university"></select>
                     </div>
                     <div class="input-box">
                         <label for="name" class="details">Nome da Universidade</label>
-                        <input type="text" name="name" id="update-name" required>
+                        <input type="text" name="name" id="update-name" required />
                     </div>
                     <div class="input-box">
                         <label for="state" class="details">Estado</label>
-                        <input type="text" name="state" id="update-state" required>
+                        <input type="text" name="state" id="update-state" required />
                     </div>
                     <div class="input-box">
                         <label for="type" class="details">Tipo de instituição</label>
@@ -202,36 +201,32 @@
                     </div>
                     <div class="input-box">
                         <label for="site" class="details">Site</label>
-                        <input type="text" name="site" id="update-site" required>
+                        <input type="text" name="site" id="update-site" required />
                     </div>
-                    
                 </div>
                 <div class="button">
-                  <input type="submit" value="Editar">
+                    <input type="submit" value="Editar" />
                 </div>
             </form>
         </div>
-        
-        <div id="delete-container" class="container" >
+        <div id="delete-container" class="container hidden">
             <p class="title">Delete uma Universidade</p>
             <form id="delete-form">
                 <div class="university-details">
                     <div class="input-box">
                         <label for="university">Nome da Universidade</label>
-                         <select name="university" id="delete-university">
-                             
-                        </select>   
-                    </div>         
+                        <select name="university" id="delete-university"></select>
+                    </div>
                 </div>
                 <div class="button">
-                  <input type="submit" value="DELETAR">
+                    <input type="submit" value="DELETAR" />
                 </div>
             </form>
         </div>
     </main>
 
     <footer>
-        <img src="assets/imgs/logo.svg" alt="" width="100px" height="100px">
+        <img src="assets/imgs/logo.svg" alt="" width="100px" height="100px" />
         <p>© A Caminho da Universidade</p>
     </footer>
 </body>
