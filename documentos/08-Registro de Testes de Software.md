@@ -21,7 +21,6 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-camin
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/assets/128926393/22140e0d-f5f1-4bd5-bdaa-c348520fcc4f
 
 
-https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3-aba9-b9e617132f31.mov
 
   </li>
   <hr>
