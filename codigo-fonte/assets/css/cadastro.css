@@ -40,8 +40,7 @@ main {
   text-align: center;
 }
 
-input,
-select {
+input{
   background-color: #d9d9d9;
   margin-bottom: 10px;
   outline: none;
@@ -51,7 +50,7 @@ select {
   width: 100%;
   border-radius: 10px;
 }
-
+ 
 button {
   background-color: whitesmoke;
   border: none;

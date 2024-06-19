@@ -92,8 +92,6 @@ form.addEventListener("submit", function(cadastro) {
         console.log({users});
     }
 
-    console.log(users);
-
     const user = {
         id: newId,
         name: name.value, 
