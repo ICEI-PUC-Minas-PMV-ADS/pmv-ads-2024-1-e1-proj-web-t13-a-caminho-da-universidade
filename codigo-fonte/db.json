@@ -497,6 +497,1536 @@
       "curriculum": "ufmg.com",
       "universityId": "3",
       "id": 3
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 4
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 5
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 6
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 7
+    },
+    {
+      "name": "Engenharia de Computação",
+      "acronym": "ECOMP",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 8
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 9
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 10
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 11
+    },
+    {
+      "name": "Jornalismo",
+      "acronym": "JOR",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 12
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "puc-campinas.br",
+      "universityId": "69",
+      "id": 13
+    },
+    {
+      "name": "Engenharia Mecânica",
+      "acronym": "EM",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 14
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 15
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 16
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 17
+    },
+    {
+      "name": "Engenharia de Computação",
+      "acronym": "ECOMP",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 18
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 19
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 20
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 21
+    },
+    {
+      "name": "Jornalismo",
+      "acronym": "JOR",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 22
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "pucminas.br",
+      "universityId": "68",
+      "id": 23
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 24
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 25
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 26
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 27
+    },
+    {
+      "name": "Engenharia de Computação",
+      "acronym": "ECOMP",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 28
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 29
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 30
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 31
+    },
+    {
+      "name": "Jornalismo",
+      "acronym": "JOR",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 32
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unisul.br",
+      "universityId": "67",
+      "id": 33
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 34
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 35
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 36
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 37
+    },
+    {
+      "name": "Engenharia de Computação",
+      "acronym": "ECOMP",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 38
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 39
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 40
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 41
+    },
+    {
+      "name": "Jornalismo",
+      "acronym": "JOR",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 42
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "ucs.br",
+      "universityId": "66",
+      "id": 43
+    },
+    {
+      "name": "Gastronomia",
+      "acronym": "GASTRO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 44
+    },
+    {
+      "name": "Hotelaria",
+      "acronym": "HOT",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 45
+    },
+    {
+      "name": "Design de Interiores",
+      "acronym": "DI",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 46
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EP",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 47
+    },
+    {
+      "name": "Ciência da Computação",
+      "acronym": "CC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 48
+    },
+    {
+      "name": "Fotografia",
+      "acronym": "FOTO",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 49
+    },
+    {
+      "name": "Marketing",
+      "acronym": "MKT",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 50
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 51
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 52
+    },
+    {
+      "name": "Moda",
+      "acronym": "MODA",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "sp.senac.br",
+      "universityId": "65",
+      "id": 53
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 54
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 55
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 56
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 57
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 58
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 59
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 60
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 61
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 62
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "up.edu.br",
+      "universityId": "64",
+      "id": 63
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 64
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 65
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 66
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 67
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 68
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 69
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 70
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 71
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 72
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "anhembi.br",
+      "universityId": "63",
+      "id": 73
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 74
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 75
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 76
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 77
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 78
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 79
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 80
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 81
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 82
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "unicap.br",
+      "universityId": "62",
+      "id": 83
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 84
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 85
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 86
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 87
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 88
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 89
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 90
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 91
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 92
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "univap.br",
+      "universityId": "61",
+      "id": 93
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 94
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 95
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 96
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 97
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 98
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 99
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 100
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 101
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 102
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "unifacs.br",
+      "universityId": "60",
+      "id": 103
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 104
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 105
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 106
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 107
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 108
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 109
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 110
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 111
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 112
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "ucb.br",
+      "universityId": "59",
+      "id": 113
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 114
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 115
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 116
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 117
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 118
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 119
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 120
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 121
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 122
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "univali.br",
+      "universityId": "58",
+      "id": 123
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 124
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 125
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 126
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 127
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 128
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 129
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 130
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 131
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 132
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "feevale.br",
+      "universityId": "57",
+      "id": 133
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 134
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 135
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 136
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 137
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 138
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 139
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 140
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 141
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 142
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "unisinos.br",
+      "universityId": "56",
+      "id": 143
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 144
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 145
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 146
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 147
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 148
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 149
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 150
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 151
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 152
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "estacio.br",
+      "universityId": "55",
+      "id": 153
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 154
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 155
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 156
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 157
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 158
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 159
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 160
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 161
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 162
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "mackenzie.br",
+      "universityId": "54",
+      "id": 163
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "4500",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 164
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "3000",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 165
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 166
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 167
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 168
+    },
+    {
+      "name": "Engenharia de Software",
+      "acronym": "ES",
+      "duration": "3600",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 169
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "AU",
+      "duration": "4000",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 170
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BIO",
+      "duration": "2400",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 171
+    },
+    {
+      "name": "Design Gráfico",
+      "acronym": "DG",
+      "duration": "2400",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 172
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EF",
+      "duration": "3000",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "53",
+      "id": 173
     }
   ]
 }
