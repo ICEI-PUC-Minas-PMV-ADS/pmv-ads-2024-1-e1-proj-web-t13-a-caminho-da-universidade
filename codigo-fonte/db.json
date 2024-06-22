@@ -468,6 +468,1217 @@
       "site": "https://www.puc-campinas.edu.br",
       "type": "privada",
       "id": 69
+    },
+    {
+      "name": "Universidade Federal do Acre (UFAC)",
+      "state": "Acre",
+      "site": "http://www.ufac.br/",
+      "type": "pública",
+      "id": 70
+    },
+    {
+      "name": "Universidade Estadual do Acre (UEAC)",
+      "state": "Acre",
+      "site": "http://www.ueac.edu.br/",
+      "type": "pública",
+      "id": 71
+    },
+    {
+      "name": "Instituto Federal do Acre (IFAC)",
+      "state": "Acre",
+      "site": "https://www.ifac.edu.br/",
+      "type": "pública",
+      "id": 72
+    },
+    {
+      "name": "Centro Universitário Uninorte",
+      "state": "Acre",
+      "site": "http://www.uninorteac.com.br/",
+      "type": "privada",
+      "id": 73
+    },
+    {
+      "name": "Faculdade da Amazônia Ocidental (FAAO)",
+      "state": "Acre",
+      "site": "http://www.faao.br/",
+      "type": "privada",
+      "id": 74
+    },
+    {
+      "name": "Faculdade Meta (Fameta)",
+      "state": "Acre",
+      "site": "http://www.fameta.com.br/",
+      "type": "privada",
+      "id": 75
+    },
+    {
+      "name": "Faculdade Barão do Rio Branco (FAB)",
+      "state": "Acre",
+      "site": "http://www.fab.edu.br/",
+      "type": "privada",
+      "id": 76
+    },
+    {
+      "name": "Faculdade Diocesana São José (FADISI)",
+      "state": "Acre",
+      "site": "https://fadisi.com.br/",
+      "type": "privada",
+      "id": 77
+    },
+    {
+      "name": "Universidade Federal de Alagoas - Campus Sertão (UFAL - Sertão)",
+      "state": "Alagoas",
+      "site": "https://www.ufal.br/sertao/",
+      "type": "pública",
+      "id": 78
+    },
+    {
+      "name": "Faculdade Pio Décimo",
+      "state": "Alagoas",
+      "site": "https://www.faculdadepiod.com.br/",
+      "type": "privada",
+      "id": 79
+    },
+    {
+      "name": "Faculdade de Ciências Jurídicas de Alagoas (FCJAL)",
+      "state": "Alagoas",
+      "site": "http://www.fcjal.edu.br/",
+      "type": "privada",
+      "id": 80
+    },
+    {
+      "name": "Faculdade Pitágoras de Maceió",
+      "state": "Alagoas",
+      "site": "https://www.pitagoras.com.br/",
+      "type": "privada",
+      "id": 81
+    },
+    {
+      "name": "Faculdade Integrada Tiradentes (FITS)",
+      "state": "Alagoas",
+      "site": "https://www.fits.edu.br/",
+      "type": "privada",
+      "id": 82
+    },
+    {
+      "name": "Faculdade São Vicente (FAVS)",
+      "state": "Alagoas",
+      "site": "https://www.faculdadesaovicente.com.br/",
+      "type": "privada",
+      "id": 83
+    },
+    {
+      "name": "Faculdade de Ensino Superior de Alagoas (FESAC)",
+      "state": "Alagoas",
+      "site": "http://www.fesac.edu.br/",
+      "type": "privada",
+      "id": 84
+    },
+    {
+      "name": "Faculdade de Alagoas (FAL)",
+      "state": "Alagoas",
+      "site": "http://www.fal-edu.com.br/",
+      "type": "privada",
+      "id": 85
+    },
+    {
+      "name": "Universidade Federal do Amapá (UNIFAP)",
+      "state": "Amapá",
+      "site": "https://www.unifap.br/",
+      "type": "pública",
+      "id": 86
+    },
+    {
+      "name": "Instituto Federal do Amapá (IFAP)",
+      "state": "Amapá",
+      "site": "https://www.ifap.edu.br/",
+      "type": "pública",
+      "id": 87
+    },
+    {
+      "name": "Universidade Estadual do Amapá (UEAP)",
+      "state": "Amapá",
+      "site": "http://www.ueap.edu.br/",
+      "type": "pública",
+      "id": 88
+    },
+    {
+      "name": "Faculdade Seama",
+      "state": "Amapá",
+      "site": "https://www.faculdadeseama.com.br/",
+      "type": "privada",
+      "id": 89
+    },
+    {
+      "name": "Faculdade Meta (Fameta) - Macapá",
+      "state": "Amapá",
+      "site": "https://www.fameta.com.br/",
+      "type": "privada",
+      "id": 90
+    },
+    {
+      "name": "Faculdade FAMA",
+      "state": "Amapá",
+      "site": "https://www.faculdadefama.com.br/",
+      "type": "privada",
+      "id": 91
+    },
+    {
+      "name": "Faculdade de Macapá (FAMA)",
+      "state": "Amapá",
+      "site": "https://www.famap.edu.br/",
+      "type": "privada",
+      "id": 92
+    },
+    {
+      "name": "Faculdade Atual da Amazônia",
+      "state": "Amapá",
+      "site": "https://www.fama.edu.br/",
+      "type": "privada",
+      "id": 93
+    },
+    {
+      "name": "Universidade Federal do Amazonas (UFAM)",
+      "state": "Amazonas",
+      "site": "https://www.ufam.edu.br/",
+      "type": "pública",
+      "id": 94
+    },
+    {
+      "name": "Universidade do Estado do Amazonas (UEA)",
+      "state": "Amazonas",
+      "site": "https://www.uea.edu.br/",
+      "type": "pública",
+      "id": 95
+    },
+    {
+      "name": "Instituto Federal do Amazonas (IFAM)",
+      "state": "Amazonas",
+      "site": "https://www.ifam.edu.br/",
+      "type": "pública",
+      "id": 96
+    },
+    {
+      "name": "Universidade Nilton Lins",
+      "state": "Amazonas",
+      "site": "http://www.niltonlins.br/",
+      "type": "privada",
+      "id": 97
+    },
+    {
+      "name": "Centro Universitário do Norte (UNINORTE)",
+      "state": "Amazonas",
+      "site": "https://www.uninorte.com.br/",
+      "type": "privada",
+      "id": 98
+    },
+    {
+      "name": "Universidade Paulista (UNIP) - Manaus",
+      "state": "Amazonas",
+      "site": "https://www.unip.br/",
+      "type": "privada",
+      "id": 99
+    },
+    {
+      "name": "Faculdade Metropolitana de Manaus (Fametro)",
+      "state": "Amazonas",
+      "site": "https://www.fametro.com.br/",
+      "type": "privada",
+      "id": 100
+    },
+    {
+      "name": "Universidade de Fortaleza (UNIFOR)",
+      "state": "Ceará",
+      "site": "https://www.unifor.br/",
+      "type": "privada",
+      "id": 101
+    },
+    {
+      "name": "Universidade Federal do Ceará - Campus Cariri (UFCA - Cariri)",
+      "state": "Ceará",
+      "site": "https://www.ufca.edu.br/",
+      "type": "pública",
+      "id": 102
+    },
+    {
+      "name": "Centro Universitário Christus (UNICHRISTUS)",
+      "state": "Ceará",
+      "site": "https://www.christus.edu.br/",
+      "type": "privada",
+      "id": 103
+    },
+    {
+      "name": "Faculdade 7 de Setembro (FA7)",
+      "state": "Ceará",
+      "site": "https://www.fa7.edu.br/",
+      "type": "privada",
+      "id": 104
+    },
+    {
+      "name": "Faculdade Farias Brito (FB Uni)",
+      "state": "Ceará",
+      "site": "https://www.fbuni.edu.br/",
+      "type": "privada",
+      "id": 105
+    },
+    {
+      "name": "Faculdade Maurício de Nassau - Fortaleza",
+      "state": "Ceará",
+      "site": "https://www.uninassau.edu.br/",
+      "type": "privada",
+      "id": 106
+    },
+    {
+      "name": "Faculdade Nordeste (FANOR)",
+      "state": "Ceará",
+      "site": "https://www.fanor.br/",
+      "type": "privada",
+      "id": 107
+    },
+    {
+      "name": "Faculdade Católica do Ceará (FCC)",
+      "state": "Ceará",
+      "site": "https://www.fcc.br/",
+      "type": "privada",
+      "id": 108
+    },
+    {
+      "name": "Universidade de Brasília (UnB)",
+      "state": "Distrito Federal",
+      "site": "https://www.unb.br/",
+      "type": "pública",
+      "id": 109
+    },
+    {
+      "name": "Instituto Federal de Brasília (IFB)",
+      "state": "Distrito Federal",
+      "site": "https://www.ifb.edu.br/",
+      "type": "pública",
+      "id": 110
+    },
+    {
+      "name": "Universidade Católica de Brasília (UCB)",
+      "state": "Distrito Federal",
+      "site": "https://www.ucb.br/",
+      "type": "privada",
+      "id": 111
+    },
+    {
+      "name": "Centro Universitário de Brasília (UniCEUB)",
+      "state": "Distrito Federal",
+      "site": "https://www.uniceub.br/",
+      "type": "privada",
+      "id": 112
+    },
+    {
+      "name": "Centro Universitário do Distrito Federal (UDF)",
+      "state": "Distrito Federal",
+      "site": "https://www.udf.edu.br/",
+      "type": "privada",
+      "id": 113
+    },
+    {
+      "name": "Faculdade Processus",
+      "state": "Distrito Federal",
+      "site": "https://www.processus.com.br/",
+      "type": "privada",
+      "id": 114
+    },
+    {
+      "name": "Faculdade Projeção",
+      "state": "Distrito Federal",
+      "site": "https://www.faculdadeprojecao.edu.br/",
+      "type": "privada",
+      "id": 115
+    },
+    {
+      "name": "Universidade Federal do Espírito Santo (UFES)",
+      "state": "Espírito Santo",
+      "site": "https://www.ufes.br/",
+      "type": "pública",
+      "id": 116
+    },
+    {
+      "name": "Instituto Federal do Espírito Santo (IFES)",
+      "state": "Espírito Santo",
+      "site": "https://www.ifes.edu.br/",
+      "type": "pública",
+      "id": 117
+    },
+    {
+      "name": "Universidade Vila Velha (UVV)",
+      "state": "Espírito Santo",
+      "site": "https://www.uvv.br/",
+      "type": "privada",
+      "id": 118
+    },
+    {
+      "name": "Universidade de Vila Velha (UVV)",
+      "state": "Espírito Santo",
+      "site": "https://www.uv.es.br/",
+      "type": "privada",
+      "id": 119
+    },
+    {
+      "name": "Faculdade Multivix",
+      "state": "Espírito Santo",
+      "site": "https://www.multivix.edu.br/",
+      "type": "privada",
+      "id": 120
+    },
+    {
+      "name": "Faculdade Pitágoras - Vitória",
+      "state": "Espírito Santo",
+      "site": "https://www.pitagoras.com.br/",
+      "type": "privada",
+      "id": 121
+    },
+    {
+      "name": "Faculdade Salesiana de Vitória (FSV)",
+      "state": "Espírito Santo",
+      "site": "https://www.fsv.br/",
+      "type": "privada",
+      "id": 122
+    },
+    {
+      "name": "Universidade Federal de Goiás (UFG)",
+      "state": "Goiás",
+      "site": "https://www.ufg.br/",
+      "type": "pública",
+      "id": 123
+    },
+    {
+      "name": "Instituto Federal de Goiás (IFG)",
+      "state": "Goiás",
+      "site": "https://www.ifg.edu.br/",
+      "type": "pública",
+      "id": 124
+    },
+    {
+      "name": "Universidade Estadual de Goiás (UEG)",
+      "state": "Goiás",
+      "site": "https://www.ueg.br/",
+      "type": "pública",
+      "id": 125
+    },
+    {
+      "name": "Pontifícia Universidade Católica de Goiás (PUC-Goiás)",
+      "state": "Goiás",
+      "site": "https://www.pucgoias.edu.br/",
+      "type": "privada",
+      "id": 126
+    },
+    {
+      "name": "Centro Universitário de Anápolis (UniEVANGÉLICA)",
+      "state": "Goiás",
+      "site": "https://www.unievangelica.edu.br/",
+      "type": "privada",
+      "id": 127
+    },
+    {
+      "name": "Universidade Salgado de Oliveira (UNIVERSO) - Goiânia",
+      "state": "Goiás",
+      "site": "https://www.universo.edu.br/",
+      "type": "privada",
+      "id": 128
+    },
+    {
+      "name": "Faculdade Araguaia",
+      "state": "Goiás",
+      "site": "https://www.faculdadearaguaia.edu.br/",
+      "type": "privada",
+      "id": 129
+    },
+    {
+      "name": "Faculdade Alfredo Nasser (FAN)",
+      "state": "Goiás",
+      "site": "https://www.fan.edu.br/",
+      "type": "privada",
+      "id": 130
+    },
+    {
+      "name": "Universidade Federal do Maranhão (UFMA)",
+      "state": "Maranhão",
+      "site": "https://www.ufma.br/",
+      "type": "pública",
+      "id": 131
+    },
+    {
+      "name": "Instituto Federal do Maranhão (IFMA)",
+      "state": "Maranhão",
+      "site": "https://www.ifma.edu.br/",
+      "type": "pública",
+      "id": 132
+    },
+    {
+      "name": "Universidade Estadual do Maranhão (UEMA)",
+      "state": "Maranhão",
+      "site": "https://www.uema.br/",
+      "type": "pública",
+      "id": 133
+    },
+    {
+      "name": "Faculdade Pitágoras - São Luís",
+      "state": "Maranhão",
+      "site": "https://www.pitagoras.com.br/",
+      "type": "privada",
+      "id": 134
+    },
+    {
+      "name": "Faculdade Atenas Maranhense (FAMA)",
+      "state": "Maranhão",
+      "site": "https://www.faculdadeatenasmaranhense.edu.br/",
+      "type": "privada",
+      "id": 135
+    },
+    {
+      "name": "Faculdade Santa Terezinha (CEST)",
+      "state": "Maranhão",
+      "site": "https://www.faculdadecest.com.br/",
+      "type": "privada",
+      "id": 136
+    },
+    {
+      "name": "Faculdade de Educação São Francisco (FAESF)",
+      "state": "Maranhão",
+      "site": "https://www.faesf.edu.br/",
+      "type": "privada",
+      "id": 137
+    },
+    {
+      "name": "Faculdade Pitágoras - Imperatriz",
+      "state": "Maranhão",
+      "site": "https://www.pitagoras.com.br/",
+      "type": "privada",
+      "id": 138
+    },
+    {
+      "name": "Universidade Federal de Mato Grosso (UFMT)",
+      "state": "Mato Grosso",
+      "site": "https://www.ufmt.br/",
+      "type": "pública",
+      "id": 139
+    },
+    {
+      "name": "Instituto Federal de Mato Grosso (IFMT)",
+      "state": "Mato Grosso",
+      "site": "https://www.ifmt.edu.br/",
+      "type": "pública",
+      "id": 140
+    },
+    {
+      "name": "Universidade do Estado de Mato Grosso (UNEMAT)",
+      "state": "Mato Grosso",
+      "site": "https://www.unemat.br/",
+      "type": "pública",
+      "id": 141
+    },
+    {
+      "name": "Universidade de Cuiabá (UNIC/UNIME)",
+      "state": "Mato Grosso",
+      "site": "https://www.unic.br/",
+      "type": "privada",
+      "id": 142
+    },
+    {
+      "name": "Faculdade Cuiabá (FAUC)",
+      "state": "Mato Grosso",
+      "site": "https://www.faculdadecuiaba.edu.br/",
+      "type": "privada",
+      "id": 143
+    },
+    {
+      "name": "Faculdade de Ciências Sociais e Aplicadas de Diamantino (FACESAD)",
+      "state": "Mato Grosso",
+      "site": "https://www.facesad.edu.br/",
+      "type": "privada",
+      "id": 144
+    },
+    {
+      "name": "Faculdade Cathedral",
+      "state": "Mato Grosso",
+      "site": "https://www.faculdadecathedral.edu.br/",
+      "type": "privada",
+      "id": 145
+    },
+    {
+      "name": "Universidade de Várzea Grande (UNIVAG)",
+      "state": "Mato Grosso",
+      "site": "https://www.univag.com.br/",
+      "type": "privada",
+      "id": 146
+    },
+    {
+      "name": "Universidade Federal de Mato Grosso do Sul (UFMS)",
+      "state": "Mato Grosso do Sul",
+      "site": "https://www.ufms.br/",
+      "type": "pública",
+      "id": 147
+    },
+    {
+      "name": "Instituto Federal de Mato Grosso do Sul (IFMS)",
+      "state": "Mato Grosso do Sul",
+      "site": "https://www.ifms.edu.br/",
+      "type": "pública",
+      "id": 148
+    },
+    {
+      "name": "Universidade Estadual de Mato Grosso do Sul (UEMS)",
+      "state": "Mato Grosso do Sul",
+      "site": "https://www.uems.br/",
+      "type": "pública",
+      "id": 149
+    },
+    {
+      "name": "Universidade Católica Dom Bosco (UCDB)",
+      "state": "Mato Grosso do Sul",
+      "site": "https://www.ucdb.br/",
+      "type": "privada",
+      "id": 150
+    },
+    {
+      "name": "Faculdade Anhanguera - Campo Grande",
+      "state": "Mato Grosso do Sul",
+      "site": "https://www.anhanguera.com/",
+      "type": "privada",
+      "id": 151
+    },
+    {
+      "name": "Faculdade Unime - Campo Grande",
+      "state": "Mato Grosso do Sul",
+      "site": "https://www.unime.edu.br/",
+      "type": "privada",
+      "id": 152
+    },
+    {
+      "name": "Faculdade Estácio de Sá - Campo Grande",
+      "state": "Mato Grosso do Sul",
+      "site": "https://www.estacio.br/",
+      "type": "privada",
+      "id": 153
+    },
+    {
+      "name": "Faculdade Mato Grosso do Sul (FACSUL)",
+      "state": "Mato Grosso do Sul",
+      "site": "https://www.faculdadefacsul.edu.br/",
+      "type": "privada",
+      "id": 154
+    },
+    {
+      "name": "Universidade Federal da Paraíba (UFPB)",
+      "state": "Paraíba",
+      "site": "https://www.ufpb.br/",
+      "type": "pública",
+      "id": 155
+    },
+    {
+      "name": "Universidade Federal de Campina Grande (UFCG)",
+      "state": "Paraíba",
+      "site": "https://www.ufcg.edu.br/",
+      "type": "pública",
+      "id": 156
+    },
+    {
+      "name": "Universidade Estadual da Paraíba (UEPB)",
+      "state": "Paraíba",
+      "site": "https://www.uepb.edu.br/",
+      "type": "pública",
+      "id": 157
+    },
+    {
+      "name": "Centro Universitário de João Pessoa (UNIPÊ)",
+      "state": "Paraíba",
+      "site": "https://www.unipe.edu.br/",
+      "type": "privada",
+      "id": 158
+    },
+    {
+      "name": "Faculdade Maurício de Nassau - João Pessoa",
+      "state": "Paraíba",
+      "site": "https://www.uninassau.edu.br/",
+      "type": "privada",
+      "id": 159
+    },
+    {
+      "name": "Faculdade de Ciências Médicas da Paraíba (FCM-PB)",
+      "state": "Paraíba",
+      "site": "https://www.fcmpb.edu.br/",
+      "type": "privada",
+      "id": 160
+    },
+    {
+      "name": "Faculdade Santa Maria (FSM)",
+      "state": "Paraíba",
+      "site": "https://www.faculdadesantamaria.br/",
+      "type": "privada",
+      "id": 161
+    },
+    {
+      "name": "Faculdade Santa Emília de Rodat (FASER)",
+      "state": "Paraíba",
+      "site": "https://www.faser.edu.br/",
+      "type": "privada",
+      "id": 162
+    },
+    {
+      "name": "Universidade Federal do Paraná (UFPR)",
+      "state": "Paraná",
+      "site": "https://www.ufpr.br/",
+      "type": "pública",
+      "id": 163
+    },
+    {
+      "name": "Universidade Tecnológica Federal do Paraná (UTFPR)",
+      "state": "Paraná",
+      "site": "https://www.utfpr.edu.br/",
+      "type": "pública",
+      "id": 164
+    },
+    {
+      "name": "Universidade Estadual de Londrina (UEL)",
+      "state": "Paraná",
+      "site": "https://www.uel.br/",
+      "type": "pública",
+      "id": 165
+    },
+    {
+      "name": "Pontifícia Universidade Católica do Paraná (PUC-PR)",
+      "state": "Paraná",
+      "site": "https://www.pucpr.br/",
+      "type": "privada",
+      "id": 166
+    },
+    {
+      "name": "Universidade Positivo (UP)",
+      "state": "Paraná",
+      "site": "https://www.up.edu.br/",
+      "type": "privada",
+      "id": 167
+    },
+    {
+      "name": "Universidade Tecnológica Internacional (UNINTER)",
+      "state": "Paraná",
+      "site": "https://www.uninter.com/",
+      "type": "privada",
+      "id": 168
+    },
+    {
+      "name": "Faculdade Dom Bosco - Curitiba",
+      "state": "Paraná",
+      "site": "https://www.faculdadedombosco.edu.br/",
+      "type": "privada",
+      "id": 169
+    },
+    {
+      "name": "Faculdade Evangélica do Paraná (FEPAR)",
+      "state": "Paraná",
+      "site": "https://www.fepar.edu.br/",
+      "type": "privada",
+      "id": 170
+    },
+    {
+      "name": "Universidade Federal de Pernambuco (UFPE)",
+      "state": "Pernambuco",
+      "site": "https://www.ufpe.br/",
+      "type": "pública",
+      "id": 171
+    },
+    {
+      "name": "Universidade Federal Rural de Pernambuco (UFRPE)",
+      "state": "Pernambuco",
+      "site": "https://www.ufrpe.br/",
+      "type": "pública",
+      "id": 172
+    },
+    {
+      "name": "Universidade de Pernambuco (UPE)",
+      "state": "Pernambuco",
+      "site": "https://www.upe.br/",
+      "type": "pública",
+      "id": 173
+    },
+    {
+      "name": "Faculdade Maurício de Nassau - Recife",
+      "state": "Pernambuco",
+      "site": "https://www.uninassau.edu.br/",
+      "type": "privada",
+      "id": 174
+    },
+    {
+      "name": "Faculdade Integrada do Recife (FIR)",
+      "state": "Pernambuco",
+      "site": "https://www.fir.br/",
+      "type": "privada",
+      "id": 175
+    },
+    {
+      "name": "Faculdade dos Guararapes (FG)",
+      "state": "Pernambuco",
+      "site": "https://www.unifg.edu.br/",
+      "type": "privada",
+      "id": 176
+    },
+    {
+      "name": "Centro Universitário Maurício de Nassau (UNINASSAU) - Caruaru",
+      "state": "Pernambuco",
+      "site": "https://www.uninassau.edu.br/",
+      "type": "privada",
+      "id": 177
+    },
+    {
+      "name": "Faculdade Estácio do Recife (Estácio FIR)",
+      "state": "Pernambuco",
+      "site": "https://www.estacio.br/",
+      "type": "privada",
+      "id": 178
+    },
+    {
+      "name": "Universidade Federal do Piauí (UFPI)",
+      "state": "Piauí",
+      "site": "https://www.ufpi.br/",
+      "type": "pública",
+      "id": 179
+    },
+    {
+      "name": "Instituto Federal do Piauí (IFPI)",
+      "state": "Piauí",
+      "site": "https://www.ifpi.edu.br/",
+      "type": "pública",
+      "id": 180
+    },
+    {
+      "name": "Universidade Estadual do Piauí (UESPI)",
+      "state": "Piauí",
+      "site": "https://www.uespi.br/",
+      "type": "pública",
+      "id": 181
+    },
+    {
+      "name": "Faculdade Santo Agostinho (FSA)",
+      "state": "Piauí",
+      "site": "https://www.fsa.br/",
+      "type": "privada",
+      "id": 182
+    },
+    {
+      "name": "Faculdade Chrisfapi",
+      "state": "Piauí",
+      "site": "https://www.chrisfapi.com.br/",
+      "type": "privada",
+      "id": 183
+    },
+    {
+      "name": "Faculdade R. Sá",
+      "state": "Piauí",
+      "site": "https://www.faculdadersa.edu.br/",
+      "type": "privada",
+      "id": 184
+    },
+    {
+      "name": "Faculdade Maurício de Nassau - Teresina",
+      "state": "Piauí",
+      "site": "https://www.uninassau.edu.br/",
+      "type": "privada",
+      "id": 185
+    },
+    {
+      "name": "Faculdade Novafapi",
+      "state": "Piauí",
+      "site": "https://www.novafapi.com.br/",
+      "type": "privada",
+      "id": 186
+    },
+    {
+      "name": "Universidade Federal do Rio de Janeiro (UFRJ)",
+      "state": "Rio de Janeiro",
+      "site": "https://www.ufrj.br/",
+      "type": "pública",
+      "id": 187
+    },
+    {
+      "name": "Universidade Federal Fluminense (UFF)",
+      "state": "Rio de Janeiro",
+      "site": "https://www.uff.br/",
+      "type": "pública",
+      "id": 188
+    },
+    {
+      "name": "Universidade Federal Rural do Rio de Janeiro (UFRRJ)",
+      "state": "Rio de Janeiro",
+      "site": "https://www.ufrrj.br/",
+      "type": "pública",
+      "id": 189
+    },
+    {
+      "name": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
+      "state": "Rio de Janeiro",
+      "site": "https://www.puc-rio.br/",
+      "type": "privada",
+      "id": 190
+    },
+    {
+      "name": "Universidade Estácio de Sá (UNESA)",
+      "state": "Rio de Janeiro",
+      "site": "https://www.estacio.br/",
+      "type": "privada",
+      "id": 191
+    },
+    {
+      "name": "Centro Universitário IBMR - Laureate",
+      "state": "Rio de Janeiro",
+      "site": "https://www.ibmr.br/",
+      "type": "privada",
+      "id": 192
+    },
+    {
+      "name": "Universidade Veiga de Almeida (UVA)",
+      "state": "Rio de Janeiro",
+      "site": "https://www.uva.br/",
+      "type": "privada",
+      "id": 193
+    },
+    {
+      "name": "Universidade Gama Filho (UGF)",
+      "state": "Rio de Janeiro",
+      "site": "https://www.ugf.br/",
+      "type": "privada",
+      "id": 194
+    },
+    {
+      "name": "Universidade Federal do Rio Grande do Norte (UFRN)",
+      "state": "Rio Grande do Norte",
+      "site": "https://www.ufrn.br/",
+      "type": "pública",
+      "id": 195
+    },
+    {
+      "name": "Universidade Federal Rural do Semi-Árido (UFERSA)",
+      "state": "Rio Grande do Norte",
+      "site": "https://www.ufersa.edu.br/",
+      "type": "pública",
+      "id": 196
+    },
+    {
+      "name": "Universidade do Estado do Rio Grande do Norte (UERN)",
+      "state": "Rio Grande do Norte",
+      "site": "https://www.uern.br/",
+      "type": "pública",
+      "id": 197
+    },
+    {
+      "name": "Faculdade de Ciências Culturais e Sociais (FACICS)",
+      "state": "Rio Grande do Norte",
+      "site": "https://www.facics.edu.br/",
+      "type": "privada",
+      "id": 198
+    },
+    {
+      "name": "Faculdade Estácio do Rio Grande do Norte (Estácio)",
+      "state": "Rio Grande do Norte",
+      "site": "https://www.estacio.br/",
+      "type": "privada",
+      "id": 199
+    },
+    {
+      "name": "Faculdade Católica do Rio Grande do Norte (FCRN)",
+      "state": "Rio Grande do Norte",
+      "site": "https://www.catolicarn.edu.br/",
+      "type": "privada",
+      "id": 200
+    },
+    {
+      "name": "Universidade Potiguar (UNP)",
+      "state": "Rio Grande do Norte",
+      "site": "https://www.unp.br/",
+      "type": "privada",
+      "id": 201
+    },
+    {
+      "name": "Faculdade Maurício de Nassau - Natal",
+      "state": "Rio Grande do Norte",
+      "site": "https://www.uninassau.edu.br/",
+      "type": "privada",
+      "id": 202
+    },
+    {
+      "name": "Universidade Federal de Rondônia (UNIR)",
+      "state": "Rondônia",
+      "site": "https://www.unir.br/",
+      "type": "pública",
+      "id": 203
+    },
+    {
+      "name": "Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO)",
+      "state": "Rondônia",
+      "site": "https://www.ifro.edu.br/",
+      "type": "pública",
+      "id": 204
+    },
+    {
+      "name": "Faculdade São Lucas",
+      "state": "Rondônia",
+      "site": "https://www.saolucas.edu.br/",
+      "type": "privada",
+      "id": 205
+    },
+    {
+      "name": "Faculdade de Porto Velho (FIP)",
+      "state": "Rondônia",
+      "site": "https://www.fiponline.edu.br/",
+      "type": "privada",
+      "id": 206
+    },
+    {
+      "name": "Faculdade Católica de Rondônia (FCR)",
+      "state": "Rondônia",
+      "site": "https://www.catolicarondonia.edu.br/",
+      "type": "privada",
+      "id": 207
+    },
+    {
+      "name": "Faculdade Panamericana de Ji-Paraná (UNIJIPA)",
+      "state": "Rondônia",
+      "site": "https://www.unijipa.edu.br/",
+      "type": "privada",
+      "id": 208
+    },
+    {
+      "name": "Centro Universitário Luterano de Ji-Paraná (CEULJI/ULBRA)",
+      "state": "Rondônia",
+      "site": "https://www.ulbra.br/jiparana",
+      "type": "privada",
+      "id": 209
+    },
+    {
+      "name": "Faculdade Metropolitana",
+      "state": "Rondônia",
+      "site": "https://www.facmeto.edu.br/",
+      "type": "privada",
+      "id": 210
+    },
+    {
+      "name": "Universidade Federal de Roraima (UFRR)",
+      "state": "Roraima",
+      "site": "https://www.ufrr.br/",
+      "type": "pública",
+      "id": 211
+    },
+    {
+      "name": "Instituto Federal de Educação, Ciência e Tecnologia de Roraima (IFRR)",
+      "state": "Roraima",
+      "site": "https://www.ifrr.edu.br/",
+      "type": "pública",
+      "id": 212
+    },
+    {
+      "name": "Faculdades Cathedral",
+      "state": "Roraima",
+      "site": "https://www.faculdadescathedral.edu.br/",
+      "type": "privada",
+      "id": 213
+    },
+    {
+      "name": "Faculdade Estácio de Roraima (Estácio)",
+      "state": "Roraima",
+      "site": "https://www.estacio.br/",
+      "type": "privada",
+      "id": 214
+    },
+    {
+      "name": "Faculdade Cathedral de Boa Vista",
+      "state": "Roraima",
+      "site": "https://www.faculdadecathedral.edu.br/",
+      "type": "privada",
+      "id": 215
+    },
+    {
+      "name": "Instituto de Ensino Superior Roraima (IESR)",
+      "state": "Roraima",
+      "site": "https://www.iesr.edu.br/",
+      "type": "privada",
+      "id": 216
+    },
+    {
+      "name": "Faculdade de Roraima (FAAR)",
+      "state": "Roraima",
+      "site": "https://www.faarr.edu.br/",
+      "type": "privada",
+      "id": 217
+    },
+    {
+      "name": "Faculdade Cathedral de Boa Vista",
+      "state": "Roraima",
+      "site": "https://www.faculdadecathedral.edu.br/",
+      "type": "privada",
+      "id": 218
+    },
+    {
+      "name": "Universidade Federal de Santa Catarina (UFSC)",
+      "state": "Santa Catarina",
+      "site": "https://www.ufsc.br/",
+      "type": "pública",
+      "id": 219
+    },
+    {
+      "name": "Universidade Federal da Fronteira Sul (UFFS)",
+      "state": "Santa Catarina",
+      "site": "https://www.uffs.edu.br/",
+      "type": "pública",
+      "id": 220
+    },
+    {
+      "name": "Universidade do Estado de Santa Catarina (UDESC)",
+      "state": "Santa Catarina",
+      "site": "https://www.udesc.br/",
+      "type": "pública",
+      "id": 221
+    },
+    {
+      "name": "Universidade do Sul de Santa Catarina (UNISUL)",
+      "state": "Santa Catarina",
+      "site": "https://www.unisul.br/",
+      "type": "privada",
+      "id": 222
+    },
+    {
+      "name": "Universidade do Vale do Itajaí (UNIVALI)",
+      "state": "Santa Catarina",
+      "site": "https://www.univali.br/",
+      "type": "privada",
+      "id": 223
+    },
+    {
+      "name": "Universidade do Oeste de Santa Catarina (UNOESC)",
+      "state": "Santa Catarina",
+      "site": "https://www.unoesc.edu.br/",
+      "type": "privada",
+      "id": 224
+    },
+    {
+      "name": "Centro Universitário Barriga Verde (UNIBAVE)",
+      "state": "Santa Catarina",
+      "site": "https://www.unibave.net/",
+      "type": "privada",
+      "id": 225
+    },
+    {
+      "name": "Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí (UNIDAVI)",
+      "state": "Santa Catarina",
+      "site": "https://www.unidavi.edu.br/",
+      "type": "privada",
+      "id": 226
+    },
+    {
+      "name": "Universidade Federal de Sergipe (UFS)",
+      "state": "Sergipe",
+      "site": "https://www.ufs.br/",
+      "type": "pública",
+      "id": 227
+    },
+    {
+      "name": "Instituto Federal de Sergipe (IFS)",
+      "state": "Sergipe",
+      "site": "https://www.ifs.edu.br/",
+      "type": "pública",
+      "id": 228
+    },
+    {
+      "name": "Universidade Tiradentes (UNIT)",
+      "state": "Sergipe",
+      "site": "https://www.unit.br/",
+      "type": "privada",
+      "id": 229
+    },
+    {
+      "name": "Faculdade Pio Décimo",
+      "state": "Sergipe",
+      "site": "https://www.faculdadepiodedecimo.edu.br/",
+      "type": "privada",
+      "id": 230
+    },
+    {
+      "name": "Faculdade São Luís de França (FSLF)",
+      "state": "Sergipe",
+      "site": "https://www.saoluisedu.com.br/",
+      "type": "privada",
+      "id": 231
+    },
+    {
+      "name": "Faculdade Amadeus",
+      "state": "Sergipe",
+      "site": "https://www.faculdadeamadeus.com.br/",
+      "type": "privada",
+      "id": 232
+    },
+    {
+      "name": "Faculdade São Cristóvão de Sergipe (FACS)",
+      "state": "Sergipe",
+      "site": "https://www.facs.edu.br/",
+      "type": "privada",
+      "id": 233
+    },
+    {
+      "name": "Faculdade Pio X",
+      "state": "Sergipe",
+      "site": "https://www.faculdadepiox.edu.br/",
+      "type": "privada",
+      "id": 234
+    },
+    {
+      "name": "Universidade Federal do Tocantins (UFT)",
+      "state": "Tocantins",
+      "site": "https://www.uft.edu.br/",
+      "type": "pública",
+      "id": 235
+    },
+    {
+      "name": "Instituto Federal do Tocantins (IFTO)",
+      "state": "Tocantins",
+      "site": "https://www.ifto.edu.br/",
+      "type": "pública",
+      "id": 236
+    },
+    {
+      "name": "Faculdade Católica do Tocantins (FACTO)",
+      "state": "Tocantins",
+      "site": "https://www.facto.edu.br/",
+      "type": "privada",
+      "id": 237
+    },
+    {
+      "name": "Centro Universitário Luterano de Palmas (CEULP/ULBRA)",
+      "state": "Tocantins",
+      "site": "https://www.ulbra.br/palmas",
+      "type": "privada",
+      "id": 238
+    },
+    {
+      "name": "Faculdade Serra do Carmo (FASER)",
+      "state": "Tocantins",
+      "site": "https://www.faser.edu.br/",
+      "type": "privada",
+      "id": 239
+    },
+    {
+      "name": "Faculdade Guaraí (FAG)",
+      "state": "Tocantins",
+      "site": "https://www.fag.edu.br/",
+      "type": "privada",
+      "id": 240
+    },
+    {
+      "name": "Faculdade Integrada de Araguatins (FAIARA)",
+      "state": "Tocantins",
+      "site": "https://www.faiara.edu.br/",
+      "type": "privada",
+      "id": 241
+    },
+    {
+      "name": "Faculdade Objetivo Palmas (FOP)",
+      "state": "Tocantins",
+      "site": "https://www.faculdadeobjetivopalmas.com.br/",
+      "type": "privada",
+      "id": 242
     }
   ],
   "courses": [
