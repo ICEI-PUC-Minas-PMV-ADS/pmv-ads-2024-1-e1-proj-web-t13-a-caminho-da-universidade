@@ -37,11 +37,11 @@ O objetivo deste projeto é desenvolver uma plataforma online acessível que aux
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* Acesse a aplicação clicando [aqui](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/src/index.html)
 
 # Código-Fonte
 
-* <a href="codigo-fonte/README.md">Código Fonte</a>
+* <a href="src/README.md">Código Fonte</a>
 
 # Apresentação
 
