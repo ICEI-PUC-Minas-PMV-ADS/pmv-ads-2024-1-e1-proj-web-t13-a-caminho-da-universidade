@@ -4409,5 +4409,3967 @@
       "universityId": "39",
       "id": 303
     }
+    {
+      "name": "Agronomia",
+      "acronym": "AGR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 304
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 305
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 306
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 307
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 308
+    },
+    {
+      "name": "Engenharia Florestal",
+      "acronym": "EF",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 309
+    },
+    {
+      "name": "História",
+      "acronym": "HIS",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 310
+    },
+    {
+      "name": "Letras - Português",
+      "acronym": "LET",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 311
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "12 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 312
+    },
+    {
+      "name": "Pedagogia",
+      "acronym": "PED",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "70",
+      "id": 313
+    }
+        {
+      "name": "Agronomia",
+      "acronym": "AGR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 314
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 315
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 316
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 317
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 318
+    },
+    {
+      "name": "Engenharia Florestal",
+      "acronym": "EF",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 319
+    },
+    {
+      "name": "História",
+      "acronym": "HIS",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 320
+    },
+    {
+      "name": "Letras - Português",
+      "acronym": "LET",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 321
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "12 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 322
+    },
+    {
+      "name": "Pedagogia",
+      "acronym": "PED",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufac.br",
+      "universityId": "71",
+      "id": 323
+    }
+          {
+      "name": "Tecnologia em Agroecologia",
+      "acronym": "TAG",
+      "duration": "6 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 324
+    },
+    {
+      "name": "Técnico em Administração",
+      "acronym": "TADM",
+      "duration": "4 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 325
+    },
+    {
+      "name": "Técnico em Informática",
+      "acronym": "TINF",
+      "duration": "4 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 326
+    },
+    {
+      "name": "Tecnologia em Gestão Ambiental",
+      "acronym": "TGA",
+      "duration": "6 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 327
+    },
+    {
+      "name": "Técnico em Enfermagem",
+      "acronym": "TENF",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 328
+    },
+    {
+      "name": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "acronym": "TADS",
+      "duration": "6 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 329
+    },
+    {
+      "name": "Técnico em Agropecuária",
+      "acronym": "TAGP",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 330
+    },
+    {
+      "name": "Licenciatura em Física",
+      "acronym": "LFIS",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 331
+    },
+    {
+      "name": "Licenciatura em Química",
+      "acronym": "LQUI",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 332
+    },
+    {
+      "name": "Técnico em Edificações",
+      "acronym": "TEDI",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifac.edu.br",
+      "universityId": "72",
+      "id": 333
+    }
+           {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 334
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 335
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 336
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 337
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 338
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 339
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 340
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 341
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 342
+    },
+    {
+      "name": "Nutrição",
+      "acronym": "NUT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorteac.com.br",
+      "universityId": "73",
+      "id": 343
+    }
+   {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 344
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 345
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 346
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 347
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 348
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 349
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 350
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 351
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 352
+    },
+    {
+      "name": "Nutrição",
+      "acronym": "NUT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "faao.edu.br",
+      "universityId": "74",
+      "id": 353
+    }
+      
+        {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 354
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 355
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 356
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 357
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 358
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 359
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 360
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 361
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 362
+    },
+    {
+      "name": "Nutrição",
+      "acronym": "NUT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "75",
+      "id": 363
+    }
+     {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 364
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 365
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 366
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 367
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 368
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 369
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 370
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 371
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 372
+    },
+    {
+      "name": "Nutrição",
+      "acronym": "NUT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fab.edu.br",
+      "universityId": "76",
+      "id": 373
+    }
+      
+        {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 374
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 375
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 376
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 377
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 378
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 379
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 380
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 381
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 382
+    },
+    {
+      "name": "Nutrição",
+      "acronym": "NUT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fadisi.com.br",
+      "universityId": "77",
+      "id": 383
+    }
+        
+          {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 384
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 385
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 386
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 387
+    },
+    {
+      "name": "Engenharia Mecânica",
+      "acronym": "EMC",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 388
+    },
+    {
+      "name": "Letras - Português e Espanhol",
+      "acronym": "LEP",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 389
+    },
+    {
+      "name": "Letras - Português e Inglês",
+      "acronym": "LEI",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 390
+    },
+    {
+      "name": "Medicina Veterinária",
+      "acronym": "MEV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 391
+    },
+    {
+      "name": "Sistemas de Informação",
+      "acronym": "SI",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 392
+    },
+    {
+      "name": "Zootecnia",
+      "acronym": "ZOO",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufal.br/sertao",
+      "universityId": "78",
+      "id": 393
+    }
+          
+            {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 394
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 395
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 396
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 397
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 398
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 399
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 400
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 401
+    },
+    {
+      "name": "Nutrição",
+      "acronym": "NUT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 402
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "piodecimo.edu.br",
+      "universityId": "79",
+      "id": 403
+    }
+            
+              {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 404
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 405
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 406
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 407
+    },
+    {
+      "name": "Pedagogia",
+      "acronym": "PED",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 408
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 409
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "ELE",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 410
+    },
+    {
+      "name": "Gestão de Recursos Humanos",
+      "acronym": "GRH",
+      "duration": "6 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 411
+    },
+    {
+      "name": "Logística",
+      "acronym": "LOG",
+      "duration": "6 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 412
+    },
+    {
+      "name": "Nutrição",
+      "acronym": "NUT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcjal.edu.br",
+      "universityId": "80",
+      "id": 413
+    }
+              
+                {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 414
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 415
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 416
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 417
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 418
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 419
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 420
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 421
+    },
+    {
+      "name": "Nutrição",
+      "acronym": "NUT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 422
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "pitagoras.com.br/maceio",
+      "universityId": "81",
+      "id": 423
+    }
+                
+                  {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 424
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 425
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 426
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 427
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 428
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 429
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 430
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 431
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 432
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fits.edu.br",
+      "universityId": "82",
+      "id": 433
+    }
+                  
+                    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 434
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 435
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 436
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 437
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 438
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 439
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 440
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 441
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 442
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "favs.edu.br",
+      "universityId": "83",
+      "id": 443
+    }
+                    
+                      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 444
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 445
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 446
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 447
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 448
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 449
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 450
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 451
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 452
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fesac.edu.br",
+      "universityId": "84",
+      "id": 453
+    }
+    
+      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 454
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 455
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 456
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 457
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 458
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 459
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 460
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 461
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 462
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fal.edu.br",
+      "universityId": "85",
+      "id": 463
+    }
+      
+        {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 464
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 465
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 466
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 467
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 468
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 469
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 470
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "ELE",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 471
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 472
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifap.br",
+      "universityId": "86",
+      "id": 473
+    }
+        
+          {
+      "name": "Técnico em Agropecuária",
+      "acronym": "TAG",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifap.edu.br",
+      "id": 474
+    },
+    {
+      "name": "Técnico em Informática",
+      "acronym": "TIN",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifap.edu.br",
+      "id": 475
+    },
+    {
+      "name": "Técnico em Meio Ambiente",
+      "acronym": "MEA",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifap.edu.br",
+      "id": 476
+    },
+    {
+      "name": "Técnico em Secretariado",
+      "acronym": "TSE",
+      "duration": "4 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ifap.edu.br",
+      "id": 477
+    },
+    {
+      "name": "Técnico em Administração",
+      "acronym": "TAD",
+      "duration": "4 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ifap.edu.br",
+      "id": 478
+    },
+    {
+      "name": "Técnico em Edificações",
+      "acronym": "TED",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifap.edu.br",
+      "id": 479
+    },
+    {
+      "name": "Técnico em Eletrônica",
+      "acronym": "TEL",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifap.edu.br",
+      "id": 480
+    },
+    {
+      "name": "Técnico em Eletrotécnica",
+      "acronym": "TET",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifap.edu.br",
+      "id": 481
+    },
+    {
+      "name": "Técnico em Informática para Internet",
+      "acronym": "TII",
+      "duration": "4 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "ifap.edu.br",
+      "id": 482
+    },
+    {
+      "name": "Técnico em Segurança do Trabalho",
+      "acronym": "TST",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifap.edu.br",
+      "id": 483
+    }
+          {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 484
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 485
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 486
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 487
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 488
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 489
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 490
+    },
+    {
+      "name": "Letras - Português",
+      "acronym": "LET",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 491
+    },
+    {
+      "name": "Matemática",
+      "acronym": "MAT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 492
+    },
+    {
+      "name": "Pedagogia",
+      "acronym": "PED",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "ueap.edu.br",
+      "universityId": "88",
+      "id": 493
+    }
+    
+      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 494
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 495
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 496
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 497
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 498
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 499
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 500
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 501
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 502
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "seama.edu.br",
+      "universityId": "89",
+      "id": 503
+    }
+      
+        {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 504
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 505
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 506
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 507
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 508
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 509
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 510
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 511
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 512
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fameta.edu.br",
+      "universityId": "90",
+      "id": 513
+    }
+        
+          {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 514
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 515
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BMD",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 516
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 517
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 518
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 519
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 520
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 521
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 522
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "91",
+      "id": 523
+    }
+          
+            {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 524
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 525
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 526
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 527
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 528
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 529
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 530
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 531
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 532
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 533
+    }
+            
+              {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 524
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 525
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 526
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 527
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 528
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 529
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 530
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 531
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 532
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fama.edu.br",
+      "universityId": "92",
+      "id": 533
+    }
+    
+      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 534
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 535
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BMD",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 536
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 537
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 538
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 539
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 540
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 541
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 542
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "atualamazonia.edu.br",
+      "universityId": "93",
+      "id": 543
+    }
+      
+        {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 544
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "12 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 545
+    },
+    {
+      "name": "Odontologia",
+      "acronym": "ODO",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 546
+    },
+    {
+      "name": "Ciência da Computação",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 547
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 548
+    },
+    {
+      "name": "Nutrição",
+      "acronym": "NUT",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 549
+    },
+    {
+      "name": "Ciências Sociais",
+      "acronym": "CSO",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 550
+    },
+    {
+      "name": "Ciências Econômicas",
+      "acronym": "ECO",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 551
+    },
+    {
+      "name": "Filosofia",
+      "acronym": "FIL",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 552
+    },
+    {
+      "name": "Geografia",
+      "acronym": "GEO",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufam.edu.br",
+      "universityId": "94",
+      "id": 553
+    }
+    
+      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 554
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 555
+    },
+    {
+      "name": "Biomedicina",
+      "acronym": "BMD",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 556
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 557
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 558
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 559
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 560
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 561
+    },
+    {
+      "name": "Fisioterapia",
+      "acronym": "FIS",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 562
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uea.edu.br",
+      "universityId": "95",
+      "id": 563
+    }
+            {
+      "name": "Técnico em Informática",
+      "acronym": "INFO",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 564
+    },
+    {
+      "name": "Técnico em Agropecuária",
+      "acronym": "AGRO",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 565
+    },
+    {
+      "name": "Técnico em Eletrotécnica",
+      "acronym": "ELET",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 566
+    },
+    {
+      "name": "Técnico em Administração",
+      "acronym": "ADM",
+      "duration": "4 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 567
+    },
+    {
+      "name": "Técnico em Enfermagem",
+      "acronym": "ENF",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 568
+    },
+    {
+      "name": "Técnico em Meio Ambiente",
+      "acronym": "AMB",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 569
+    },
+    {
+      "name": "Técnico em Química",
+      "acronym": "QUIM",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 570
+    },
+    {
+      "name": "Técnico em Segurança do Trabalho",
+      "acronym": "SEG",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 571
+    },
+    {
+      "name": "Técnico em Logística",
+      "acronym": "LOG",
+      "duration": "4 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 572
+    },
+    {
+      "name": "Técnico em Mecânica",
+      "acronym": "MEC",
+      "duration": "4 semestres",
+      "schedule": "Integral",
+      "curriculum": "ifam.edu.br",
+      "universityId": "96",
+      "id": 573
+    }
+            
+              {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 584
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 585
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 586
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 587
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 588
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 589
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 590
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 591
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 592
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "uninorte.edu.br",
+      "universityId": "98",
+      "id": 593
+    }
+              
+                {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 594
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 595
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 596
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 597
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 598
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 599
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 600
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 601
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 602
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "unip.br",
+      "universityId": "99",
+      "id": 603
+    }
+    
+      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 604
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 605
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 606
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 607
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 608
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 609
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 610
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 611
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 612
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "fametro.edu.br",
+      "universityId": "100",
+      "id": 613
+    }
+      
+        {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 614
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 615
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 616
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 617
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 618
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 619
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 620
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 621
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 622
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "unifor.br",
+      "universityId": "101",
+      "id": 623
+    }
+        
+          {
+      "name": "Administração Pública",
+      "acronym": "AP",
+      "duration": "8 semestres",
+      "schedule": "Diurno",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 624
+    },
+    {
+      "name": "Artes Visuais",
+      "acronym": "AV",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 625
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "CB",
+      "duration": "8 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 626
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 627
+    },
+    {
+      "name": "Design de Produto",
+      "acronym": "DP",
+      "duration": "8 semestres",
+      "schedule": "Diurno",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 628
+    },
+    {
+      "name": "Engenharia de Materiais",
+      "acronym": "EM",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 629
+    },
+    {
+      "name": "Filosofia",
+      "acronym": "FI",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 630
+    },
+    {
+      "name": "Geografia",
+      "acronym": "GE",
+      "duration": "8 semestres",
+      "schedule": "Diurno",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 631
+    },
+    {
+      "name": "Matemática",
+      "acronym": "MT",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 632
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MD",
+      "duration": "12 semestres",
+      "schedule": "Integral",
+      "curriculum": "ufca.edu.br",
+      "universityId": "102",
+      "id": 633
+    }
+          
+            {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 634
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 635
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 636
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 637
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 638
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 639
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 640
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 641
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Matutino",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 642
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "unichristus.edu.br",
+      "universityId": "103",
+      "id": 643
+    }
+            
+              {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 644
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 645
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 646
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 647
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 648
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 649
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 650
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 651
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Matutino",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 652
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "fa7.edu.br",
+      "universityId": "104",
+      "id": 653
+    }
+              
+                {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 654
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 655
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 656
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 657
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 658
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 659
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 660
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 661
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Matutino",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 662
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "fbuni.edu.br",
+      "universityId": "105",
+      "id": 663
+    }
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 664
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 665
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 666
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 667
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 668
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 669
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 670
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 671
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Matutino",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 672
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "mauriciodenassau.edu.br",
+      "universityId": "106",
+      "id": 673
+    }
+      
+        {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 674
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 675
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 676
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 677
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 678
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 679
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 680
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 681
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Matutino",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 682
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "fanor.edu.br",
+      "universityId": "107",
+      "id": 683
+    }
+        
+          {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 684
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 685
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 686
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 687
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 688
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 689
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 690
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 691
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Matutino",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 692
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "fcc.edu.br",
+      "universityId": "108",
+      "id": 693
+    }
+    
+      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Diurno",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 694
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 695
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 696
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 697
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 698
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 699
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 700
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 701
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Matutino",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 702
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "unb.br",
+      "universityId": "109",
+      "id": 703
+    }
+      
+        {
+      "name": "Gestão Pública",
+      "acronym": "GP",
+      "duration": "4 anos",
+      "schedule": "Noturno",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 704
+    },
+    {
+      "name": "Análise e Desenvolvimento de Sistemas",
+      "acronym": "ADS",
+      "duration": "3 anos",
+      "schedule": "Matutino",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 705
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "5 anos",
+      "schedule": "Integral",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 706
+    },
+    {
+      "name": "Gestão Ambiental",
+      "acronym": "GA",
+      "duration": "4 anos",
+      "schedule": "Vespertino",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 707
+    },
+    {
+      "name": "Design de Interiores",
+      "acronym": "DI",
+      "duration": "3 anos",
+      "schedule": "Noturno",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 708
+    },
+    {
+      "name": "Secretariado",
+      "acronym": "SEC",
+      "duration": "3 anos",
+      "schedule": "Matutino",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 709
+    },
+    {
+      "name": "Gastronomia",
+      "acronym": "GAS",
+      "duration": "3 anos",
+      "schedule": "Integral",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 710
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "5 anos",
+      "schedule": "Vespertino",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 711
+    },
+    {
+      "name": "Turismo",
+      "acronym": "TUR",
+      "duration": "4 anos",
+      "schedule": "Noturno",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 712
+    },
+    {
+      "name": "Logística",
+      "acronym": "LOG",
+      "duration": "3 anos",
+      "schedule": "Matutino",
+      "curriculum": "ifb.edu.br",
+      "universityId": "110",
+      "id": 713
+    }
+    
+      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ucb.br",
+      "universityId": "111",
+      "id": 714
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "ucb.br",
+      "universityId": "111",
+      "id": 715
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ucb.br",
+      "universityId": "111",
+      "id": 716
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "ucb.br",
+      "universityId": "111",
+      "id": 717
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "ucb.br",
+      "universityId": "111",
+      "id": 718
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ucb.br",
+      "universityId": "111",
+      "id": 719
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "ucb.br",
+      "universityId": "111",
+      "id": 720
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule":
+    }
+    
+      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 724
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 725
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 726
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 727
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 728
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 729
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 730
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 731
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Matutino",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 732
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "uniceub.br",
+      "universityId": "112",
+      "id": 733
+    }
+      {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 734
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "10 semestres",
+      "schedule": "Matutino",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 735
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 736
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "ECV",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 737
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "10 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 738
+    },
+    {
+      "name": "Educação Física",
+      "acronym": "EDF",
+      "duration": "8 semestres",
+      "schedule": "Noturno",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 739
+    },
+    {
+      "name": "Engenharia de Produção",
+      "acronym": "EPR",
+      "duration": "10 semestres",
+      "schedule": "Noturno",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 740
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "10 semestres",
+      "schedule": "Integral",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 741
+    },
+    {
+      "name": "Farmácia",
+      "acronym": "FAR",
+      "duration": "8 semestres",
+      "schedule": "Matutino",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 742
+    },
+    {
+      "name": "Enfermagem",
+      "acronym": "ENF",
+      "duration": "8 semestres",
+      "schedule": "Vespertino",
+      "curriculum": "udf.edu.br",
+      "universityId": "113",
+      "id": 743
+    }
   ]
-}
