@@ -27,7 +27,7 @@ function createUniversity(filteredUniversities) {
   
       const coursesCell = document.createElement('td')
       const coursesLink = document.createElement('a')
-      coursesLink.href = `http://localhost:5500/codigo-fonte/cursos.html?universityId=${university.id}`
+      coursesLink.href = `http://localhost:5500/src/cursos.html?universityId=${university.id}`
       coursesLink.textContent = 'Ver cursos'
       coursesCell.appendChild(coursesLink)
       tableRow.appendChild(coursesCell)
@@ -37,7 +37,7 @@ function createUniversity(filteredUniversities) {
 }
 
 async function fetchUniversities() {
-    universities = await fetch('http://localhost:3000/universities').then(res => res.json())
+    universities = await fetch('https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/universities').then(res => res.json())
     createUniversity(universities)
 }
 

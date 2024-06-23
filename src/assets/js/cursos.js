@@ -30,7 +30,7 @@ function createCourse(course) {
 
 async function fetchCourses() {
     const id = extractdId()
-    const courses = await fetch(`http://localhost:3000/courses?universityId=${id}`).then(res => res.json())
+    const courses = await fetch(`https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/courses?universityId=${id}`).then(res => res.json())
     console.log(courses);
     courses.forEach(createCourse) 
 }

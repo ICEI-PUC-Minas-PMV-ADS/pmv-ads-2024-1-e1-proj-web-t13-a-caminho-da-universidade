@@ -54,7 +54,7 @@ registerForm.addEventListener('submit', async (ev) => {
     console.log({university});
 
     try {
-        const resp = await fetch('http://localhost:3000/universities', {
+        const resp = await fetch('https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/universities', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -86,7 +86,7 @@ updateForm.addEventListener('submit', async (ev) => {
     }
 
     try {
-        const resp = await fetch(`http://localhost:3000/universities/${id}`, {
+        const resp = await fetch(`https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/universities/${id}`, {
             method: 'PUT',
             headers: {
                 'Content-Type': 'application/json'
@@ -109,7 +109,7 @@ deleteForm.addEventListener('submit', async (ev) => {
     console.log(id);
 
     try {
-        const response = await fetch(`http://localhost:3000/universities/${id}`, {
+        const response = await fetch(`https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/universities/${id}`, {
           method: 'DELETE',
         })
 
@@ -124,7 +124,7 @@ deleteForm.addEventListener('submit', async (ev) => {
 
 async function fetchUniversities() {
     try {
-      const universities = await fetch('http://localhost:3000/universities').then(res => res.json())
+      const universities = await fetch('https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/universities').then(res => res.json())
       return universities
     } catch (err) {
       console.error(err)
@@ -145,7 +145,7 @@ async function showUniversities(element) {
 
 async function fetchCourses(universityId) {
     try {
-      const url = universityId ? `http://localhost:3000/courses?universityId=${universityId}` : 'http://localhost:3000/courses'
+      const url = universityId ? `https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/courses?universityId=${universityId}` : 'https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/courses'
       const courses = await fetch(url).then(res => res.json())
       return courses
     } catch (err) {
@@ -220,7 +220,7 @@ registerCourseForm.addEventListener('submit', async (ev) => {
     }
 
     try {
-        const resp = await fetch('http://localhost:3000/courses', {
+        const resp = await fetch('https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/courses', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -253,12 +253,12 @@ updateCourseForm.addEventListener('submit', async (ev) => {
         acronym,
         duration,
         schedule,
-        curriculum,
+        curriculum
     }
 
     try {
-        const resp = await fetch(`http://localhost:3000/courses/${id}`, {
-            method: 'PUT',
+        const resp = await fetch(`https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/courses/${id}`, {
+            method: 'PATCH',
             headers: {
                 'Content-Type': 'application/json'
             },
@@ -278,7 +278,7 @@ deleteCourseForm.addEventListener('submit', async (ev) => {
     const id = document.getElementById('delete-course-id').value
     console.log();
     try {
-        const response = await fetch(`http://localhost:3000/courses/${id}`, {
+        const response = await fetch(`https://95d198e5-9453-4ce3-a614-cf52bc14e7c6-00-33m3674okfn35.picard.replit.dev/courses/${id}`, {
           method: 'DELETE',
         })
         alert('Deletado com sucesso')
