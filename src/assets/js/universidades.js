@@ -27,7 +27,7 @@ function createUniversity(filteredUniversities) {
   
       const coursesCell = document.createElement('td')
       const coursesLink = document.createElement('a')
-      coursesLink.href = `http://localhost:5500/src/cursos.html?universityId=${university.id}`
+      coursesLink.href = `https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade/src/cursos.html?universityId=${university.id}`
       coursesLink.textContent = 'Ver cursos'
       coursesCell.appendChild(coursesLink)
       tableRow.appendChild(coursesCell)
