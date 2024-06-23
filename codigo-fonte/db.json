@@ -7896,96 +7896,6 @@
       "id": 693
     },
     {
-      "name": "Administração",
-      "acronym": "ADM",
-      "duration": "8 semestres",
-      "schedule": "Diurno",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 694
-    },
-    {
-      "name": "Direito",
-      "acronym": "DIR",
-      "duration": "10 semestres",
-      "schedule": "Matutino",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 695
-    },
-    {
-      "name": "Ciências Contábeis",
-      "acronym": "CC",
-      "duration": "8 semestres",
-      "schedule": "Noturno",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 696
-    },
-    {
-      "name": "Engenharia Civil",
-      "acronym": "ECV",
-      "duration": "10 semestres",
-      "schedule": "Integral",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 697
-    },
-    {
-      "name": "Psicologia",
-      "acronym": "PSI",
-      "duration": "10 semestres",
-      "schedule": "Vespertino",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 698
-    },
-    {
-      "name": "Educação Física",
-      "acronym": "EDF",
-      "duration": "8 semestres",
-      "schedule": "Noturno",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 699
-    },
-    {
-      "name": "Engenharia de Produção",
-      "acronym": "EPR",
-      "duration": "10 semestres",
-      "schedule": "Noturno",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 700
-    },
-    {
-      "name": "Arquitetura e Urbanismo",
-      "acronym": "ARQ",
-      "duration": "10 semestres",
-      "schedule": "Integral",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 701
-    },
-    {
-      "name": "Farmácia",
-      "acronym": "FAR",
-      "duration": "8 semestres",
-      "schedule": "Matutino",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 702
-    },
-    {
-      "name": "Enfermagem",
-      "acronym": "ENF",
-      "duration": "8 semestres",
-      "schedule": "Vespertino",
-      "curriculum": "unb.br",
-      "universityId": "109",
-      "id": 703
-    },
-    {
       "name": "Gestão Pública",
       "acronym": "GP",
       "duration": "4 anos",
@@ -8075,7 +7985,7 @@
       "universityId": "110",
       "id": 713
     },
-      {
+    {
       "name": "Administração",
       "acronym": "ADM",
       "duration": "8 semestres",
@@ -11475,7 +11385,7 @@
       "curriculum": "uema.br/ec",
       "universityId": "133",
       "id": 1133
-    }, 
+    },
     {
       "name": "Administração",
       "acronym": "ADM",
@@ -11701,456 +11611,456 @@
       "universityId": "141",
       "id": 1158
     },
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "unic.br/adm",
-        "universityId": "142",
-        "id": 1159
-      },
-      {
-        "name": "Ciências Contábeis",
-        "acronym": "CC",
-        "duration": "300",
-        "schedule": "noturno",
-        "curriculum": "unic.br/cc",
-        "universityId": "142",
-        "id": 1160
-      },
-      {
-        "name": "Direito",
-        "acronym": "DIR",
-        "duration": "500",
-        "schedule": "diurno",
-        "curriculum": "unic.br/dir",
-        "universityId": "142",
-        "id": 1161
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "unic.br/ec",
-        "universityId": "142",
-        "id": 1162
-      },
-      {
-        "name": "Psicologia",
-        "acronym": "PSI",
-        "duration": "500",
-        "schedule": "noturno",
-        "curriculum": "unic.br/psi",
-        "universityId": "142",
-        "id": 1163
-      },
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "fauc.edu.br/adm",
-        "universityId": "143",
-        "id": 1164
-      },
-      {
-        "name": "Arquitetura e Urbanismo",
-        "acronym": "ARQ",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "fauc.edu.br/arq",
-        "universityId": "143",
-        "id": 1165
-      },
-      {
-        "name": "Ciências Biológicas",
-        "acronym": "BIO",
-        "duration": "400",
-        "schedule": "noturno",
-        "curriculum": "fauc.edu.br/bio",
-        "universityId": "143",
-        "id": 1166
-      },
-      {
-        "name": "Direito",
-        "acronym": "DIR",
-        "duration": "500",
-        "schedule": "diurno",
-        "curriculum": "fauc.edu.br/dir",
-        "universityId": "143",
-        "id": 1167
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "fauc.edu.br/ec",
-        "universityId": "143",
-        "id": 1168
-      },
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "facesad.edu.br/adm",
-        "universityId": "144",
-        "id": 1169
-      },
-      {
-        "name": "Ciências Contábeis",
-        "acronym": "CC",
-        "duration": "300",
-        "schedule": "noturno",
-        "curriculum": "facesad.edu.br/cc",
-        "universityId": "144",
-        "id": 1170
-      },
-      {
-        "name": "Direito",
-        "acronym": "DIR",
-        "duration": "500",
-        "schedule": "diurno",
-        "curriculum": "facesad.edu.br/dir",
-        "universityId": "144",
-        "id": 1171
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "facesad.edu.br/ec",
-        "universityId": "144",
-        "id": 1172
-      },
-      {
-        "name": "Psicologia",
-        "acronym": "PSI",
-        "duration": "500",
-        "schedule": "noturno",
-        "curriculum": "facesad.edu.br/psi",
-        "universityId": "144",
-        "id": 1173
-      },
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "cathedral.edu.br/adm",
-        "universityId": "145",
-        "id": 1174
-      },
-      {
-        "name": "Arquitetura e Urbanismo",
-        "acronym": "ARQ",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "cathedral.edu.br/arq",
-        "universityId": "145",
-        "id": 1175
-      },
-      {
-        "name": "Ciências Biológicas",
-        "acronym": "BIO",
-        "duration": "400",
-        "schedule": "noturno",
-        "curriculum": "cathedral.edu.br/bio",
-        "universityId": "145",
-        "id": 1176
-      },
-      {
-        "name": "Direito",
-        "acronym": "DIR",
-        "duration": "500",
-        "schedule": "diurno",
-        "curriculum": "cathedral.edu.br/dir",
-        "universityId": "145",
-        "id": 1177
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "cathedral.edu.br/ec",
-        "universityId": "145",
-        "id": 1178
-      },    
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "univag.edu.br/adm",
-        "universityId": "146",
-        "id": 1179
-      },
-      {
-        "name": "Ciências Contábeis",
-        "acronym": "CC",
-        "duration": "300",
-        "schedule": "noturno",
-        "curriculum": "univag.edu.br/cc",
-        "universityId": "146",
-        "id": 1180
-      },
-      {
-        "name": "Direito",
-        "acronym": "DIR",
-        "duration": "500",
-        "schedule": "diurno",
-        "curriculum": "univag.edu.br/dir",
-        "universityId": "146",
-        "id": 1181
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "univag.edu.br/ec",
-        "universityId": "146",
-        "id": 1182
-      },
-      {
-        "name": "Psicologia",
-        "acronym": "PSI",
-        "duration": "500",
-        "schedule": "noturno",
-        "curriculum": "univag.edu.br/psi",
-        "universityId": "146",
-        "id": 1183
-      },
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "ufms.br/adm",
-        "universityId": "147",
-        "id": 1184
-      },
-      {
-        "name": "Arquitetura e Urbanismo",
-        "acronym": "ARQ",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "ufms.br/arq",
-        "universityId": "147",
-        "id": 1185
-      },
-      {
-        "name": "Ciências Biológicas",
-        "acronym": "BIO",
-        "duration": "400",
-        "schedule": "noturno",
-        "curriculum": "ufms.br/bio",
-        "universityId": "147",
-        "id": 1186
-      },
-      {
-        "name": "Direito",
-        "acronym": "DIR",
-        "duration": "500",
-        "schedule": "diurno",
-        "curriculum": "ufms.br/dir",
-        "universityId": "147",
-        "id": 1187
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "ufms.br/ec",
-        "universityId": "147",
-        "id": 1188
-      },
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "ifms.edu.br/adm",
-        "universityId": "148",
-        "id": 1189
-      },
-      {
-        "name": "Engenharia Elétrica",
-        "acronym": "EE",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "ifms.edu.br/ee",
-        "universityId": "148",
-        "id": 1190
-      },
-      {
-        "name": "Ciência da Computação",
-        "acronym": "CC",
-        "duration": "400",
-        "schedule": "noturno",
-        "curriculum": "ifms.edu.br/cc",
-        "universityId": "148",
-        "id": 1191
-      },
-      {
-        "name": "Gestão Ambiental",
-        "acronym": "GA",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "ifms.edu.br/ga",
-        "universityId": "148",
-        "id": 1192
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "ifms.edu.br/ec",
-        "universityId": "148",
-        "id": 1193
-      },
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "uems.br/adm",
-        "universityId": "149",
-        "id": 1194
-      },
-      {
-        "name": "Ciências Biológicas",
-        "acronym": "BIO",
-        "duration": "400",
-        "schedule": "noturno",
-        "curriculum": "uems.br/bio",
-        "universityId": "149",
-        "id": 1195
-      },
-      {
-        "name": "Direito",
-        "acronym": "DIR",
-        "duration": "500",
-        "schedule": "diurno",
-        "curriculum": "uems.br/dir",
-        "universityId": "149",
-        "id": 1196
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "uems.br/ec",
-        "universityId": "149",
-        "id": 1197
-      },
-      {
-        "name": "Pedagogia",
-        "acronym": "PED",
-        "duration": "400",
-        "schedule": "noturno",
-        "curriculum": "uems.br/ped",
-        "universityId": "149",
-        "id": 1198
-      },
     {
-    "name": "Administração",
-    "acronym": "ADM",
-    "duration": "300",
-    "schedule": "diurno",
-    "curriculum": "ucdb.br/adm",
-    "universityId": "150",
-    "id": 1199
-  },
-  {
-    "name": "Arquitetura e Urbanismo",
-    "acronym": "ARQ",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "ucdb.br/arq",
-    "universityId": "150",
-    "id": 1200
-  },
-  {
-    "name": "Ciências Biológicas",
-    "acronym": "BIO",
-    "duration": "400",
-    "schedule": "noturno",
-    "curriculum": "ucdb.br/bio",
-    "universityId": "150",
-    "id": 1201
-  },
-  {
-    "name": "Direito",
-    "acronym": "DIR",
-    "duration": "500",
-    "schedule": "diurno",
-    "curriculum": "ucdb.br/dir",
-    "universityId": "150",
-    "id": 1202
-  },
-  {
-    "name": "Engenharia Civil",
-    "acronym": "EC",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "ucdb.br/ec",
-    "universityId": "150",
-    "id": 1203
-  },
-  {
-    "name": "Administração",
-    "acronym": "ADM",
-    "duration": "300",
-    "schedule": "diurno",
-    "curriculum": "anhanguera.com/adm",
-    "universityId": "151",
-    "id": 1204
-  },
-  {
-    "name": "Ciências Contábeis",
-    "acronym": "CC",
-    "duration": "300",
-    "schedule": "noturno",
-    "curriculum": "anhanguera.com/cc",
-    "universityId": "151",
-    "id": 1205
-  },
-  {
-    "name": "Direito",
-    "acronym": "DIR",
-    "duration": "500",
-    "schedule": "diurno",
-    "curriculum": "anhanguera.com/dir",
-    "universityId": "151",
-    "id": 1206
-  },
-  {
-    "name": "Engenharia Civil",
-    "acronym": "EC",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "anhanguera.com/ec",
-    "universityId": "151",
-    "id": 1207
-  },
-  {
-    "name": "Psicologia",
-    "acronym": "PSI",
-    "duration": "500",
-    "schedule": "noturno",
-    "curriculum": "anhanguera.com/psi",
-    "universityId": "151",
-    "id": 1208
-  },
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "unic.br/adm",
+      "universityId": "142",
+      "id": 1159
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "300",
+      "schedule": "noturno",
+      "curriculum": "unic.br/cc",
+      "universityId": "142",
+      "id": 1160
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "unic.br/dir",
+      "universityId": "142",
+      "id": 1161
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "unic.br/ec",
+      "universityId": "142",
+      "id": 1162
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "500",
+      "schedule": "noturno",
+      "curriculum": "unic.br/psi",
+      "universityId": "142",
+      "id": 1163
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "fauc.edu.br/adm",
+      "universityId": "143",
+      "id": 1164
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "fauc.edu.br/arq",
+      "universityId": "143",
+      "id": 1165
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "fauc.edu.br/bio",
+      "universityId": "143",
+      "id": 1166
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "fauc.edu.br/dir",
+      "universityId": "143",
+      "id": 1167
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "fauc.edu.br/ec",
+      "universityId": "143",
+      "id": 1168
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "facesad.edu.br/adm",
+      "universityId": "144",
+      "id": 1169
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "300",
+      "schedule": "noturno",
+      "curriculum": "facesad.edu.br/cc",
+      "universityId": "144",
+      "id": 1170
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "facesad.edu.br/dir",
+      "universityId": "144",
+      "id": 1171
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "facesad.edu.br/ec",
+      "universityId": "144",
+      "id": 1172
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "500",
+      "schedule": "noturno",
+      "curriculum": "facesad.edu.br/psi",
+      "universityId": "144",
+      "id": 1173
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "cathedral.edu.br/adm",
+      "universityId": "145",
+      "id": 1174
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "cathedral.edu.br/arq",
+      "universityId": "145",
+      "id": 1175
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "cathedral.edu.br/bio",
+      "universityId": "145",
+      "id": 1176
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "cathedral.edu.br/dir",
+      "universityId": "145",
+      "id": 1177
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "cathedral.edu.br/ec",
+      "universityId": "145",
+      "id": 1178
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "univag.edu.br/adm",
+      "universityId": "146",
+      "id": 1179
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "300",
+      "schedule": "noturno",
+      "curriculum": "univag.edu.br/cc",
+      "universityId": "146",
+      "id": 1180
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "univag.edu.br/dir",
+      "universityId": "146",
+      "id": 1181
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "univag.edu.br/ec",
+      "universityId": "146",
+      "id": 1182
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "500",
+      "schedule": "noturno",
+      "curriculum": "univag.edu.br/psi",
+      "universityId": "146",
+      "id": 1183
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ufms.br/adm",
+      "universityId": "147",
+      "id": 1184
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufms.br/arq",
+      "universityId": "147",
+      "id": 1185
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ufms.br/bio",
+      "universityId": "147",
+      "id": 1186
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "ufms.br/dir",
+      "universityId": "147",
+      "id": 1187
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufms.br/ec",
+      "universityId": "147",
+      "id": 1188
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifms.edu.br/adm",
+      "universityId": "148",
+      "id": 1189
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifms.edu.br/ee",
+      "universityId": "148",
+      "id": 1190
+    },
+    {
+      "name": "Ciência da Computação",
+      "acronym": "CC",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ifms.edu.br/cc",
+      "universityId": "148",
+      "id": 1191
+    },
+    {
+      "name": "Gestão Ambiental",
+      "acronym": "GA",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifms.edu.br/ga",
+      "universityId": "148",
+      "id": 1192
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifms.edu.br/ec",
+      "universityId": "148",
+      "id": 1193
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "uems.br/adm",
+      "universityId": "149",
+      "id": 1194
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "uems.br/bio",
+      "universityId": "149",
+      "id": 1195
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "uems.br/dir",
+      "universityId": "149",
+      "id": 1196
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "uems.br/ec",
+      "universityId": "149",
+      "id": 1197
+    },
+    {
+      "name": "Pedagogia",
+      "acronym": "PED",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "uems.br/ped",
+      "universityId": "149",
+      "id": 1198
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ucdb.br/adm",
+      "universityId": "150",
+      "id": 1199
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ucdb.br/arq",
+      "universityId": "150",
+      "id": 1200
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ucdb.br/bio",
+      "universityId": "150",
+      "id": 1201
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "ucdb.br/dir",
+      "universityId": "150",
+      "id": 1202
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ucdb.br/ec",
+      "universityId": "150",
+      "id": 1203
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "anhanguera.com/adm",
+      "universityId": "151",
+      "id": 1204
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "300",
+      "schedule": "noturno",
+      "curriculum": "anhanguera.com/cc",
+      "universityId": "151",
+      "id": 1205
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "anhanguera.com/dir",
+      "universityId": "151",
+      "id": 1206
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "anhanguera.com/ec",
+      "universityId": "151",
+      "id": 1207
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "500",
+      "schedule": "noturno",
+      "curriculum": "anhanguera.com/psi",
+      "universityId": "151",
+      "id": 1208
+    },
     {
       "name": "Administração",
       "acronym": "ADM",
@@ -12196,276 +12106,276 @@
       "universityId": "152",
       "id": 1213
     },
-  {
-    "name": "Administração",
-    "acronym": "ADM",
-    "duration": "300",
-    "schedule": "diurno",
-    "curriculum": "unime.br/adm",
-    "universityId": "152",
-    "id": 1209
-  },
-  {
-    "name": "Ciências Contábeis",
-    "acronym": "CC",
-    "duration": "300",
-    "schedule": "noturno",
-    "curriculum": "unime.br/cc",
-    "universityId": "152",
-    "id": 1210
-  },
-  {
-    "name": "Direito",
-    "acronym": "DIR",
-    "duration": "500",
-    "schedule": "diurno",
-    "curriculum": "unime.br/dir",
-    "universityId": "152",
-    "id": 1211
-  },
-  {
-    "name": "Engenharia Civil",
-    "acronym": "EC",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "unime.br/ec",
-    "universityId": "152",
-    "id": 1212
-  },
-  {
-    "name": "Psicologia",
-    "acronym": "PSI",
-    "duration": "500",
-    "schedule": "noturno",
-    "curriculum": "unime.br/psi",
-    "universityId": "152",
-    "id": 1213
-  },
-  {
-    "name": "Administração",
-    "acronym": "ADM",
-    "duration": "300",
-    "schedule": "diurno",
-    "curriculum": "estacio.br/adm",
-    "universityId": "153",
-    "id": 1214
-  },
-  {
-    "name": "Arquitetura e Urbanismo",
-    "acronym": "ARQ",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "estacio.br/arq",
-    "universityId": "153",
-    "id": 1215
-  },
-  {
-    "name": "Ciências Biológicas",
-    "acronym": "BIO",
-    "duration": "400",
-    "schedule": "noturno",
-    "curriculum": "estacio.br/bio",
-    "universityId": "153",
-    "id": 1216
-  },
-  {
-    "name": "Direito",
-    "acronym": "DIR",
-    "duration": "500",
-    "schedule": "diurno",
-    "curriculum": "estacio.br/dir",
-    "universityId": "153",
-    "id": 1217
-  },
-  {
-    "name": "Engenharia Civil",
-    "acronym": "EC",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "estacio.br/ec",
-    "universityId": "153",
-    "id": 1218
-  },
-  {
-    "name": "Administração",
-    "acronym": "ADM",
-    "duration": "300",
-    "schedule": "diurno",
-    "curriculum": "facsul.edu.br/adm",
-    "universityId": "154",
-    "id": 1219
-  },
-  {
-    "name": "Ciências Contábeis",
-    "acronym": "CC",
-    "duration": "300",
-    "schedule": "noturno",
-    "curriculum": "facsul.edu.br/cc",
-    "universityId": "154",
-    "id": 1220
-  },
-  {
-    "name": "Direito",
-    "acronym": "DIR",
-    "duration": "500",
-    "schedule": "diurno",
-    "curriculum": "facsul.edu.br/dir",
-    "universityId": "154",
-    "id": 1221
-  },
-  {
-    "name": "Engenharia Civil",
-    "acronym": "EC",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "facsul.edu.br/ec",
-    "universityId": "154",
-    "id": 1222
-  },
-  {
-    "name": "Psicologia",
-    "acronym": "PSI",
-    "duration": "500",
-    "schedule": "noturno",
-    "curriculum": "facsul.edu.br/psi",
-    "universityId": "154",
-    "id": 1223
-  },
-  {
-    "name": "Administração",
-    "acronym": "ADM",
-    "duration": "300",
-    "schedule": "diurno",
-    "curriculum": "ufpb.br/adm",
-    "universityId": "155",
-    "id": 1224
-  },
-  {
-    "name": "Arquitetura e Urbanismo",
-    "acronym": "ARQ",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "ufpb.br/arq",
-    "universityId": "155",
-    "id": 1225
-  },
-  {
-    "name": "Ciências Biológicas",
-    "acronym": "BIO",
-    "duration": "400",
-    "schedule": "noturno",
-    "curriculum": "ufpb.br/bio",
-    "universityId": "155",
-    "id": 1226
-  },
-  {
-    "name": "Direito",
-    "acronym": "DIR",
-    "duration": "500",
-    "schedule": "diurno",
-    "curriculum": "ufpb.br/dir",
-    "universityId": "155",
-    "id": 1227
-  },
-  {
-    "name": "Engenharia Civil",
-    "acronym": "EC",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "ufpb.br/ec",
-    "universityId": "155",
-    "id": 1228
-  },
-  {
-    "name": "Administração",
-    "acronym": "ADM",
-    "duration": "300",
-    "schedule": "diurno",
-    "curriculum": "ufcg.edu.br/adm",
-    "universityId": "156",
-    "id": 1229
-  },
-  {
-    "name": "Ciência da Computação",
-    "acronym": "CC",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "ufcg.edu.br/cc",
-    "universityId": "156",
-    "id": 1230
-  },
-  {
-    "name": "Direito",
-    "acronym": "DIR",
-    "duration": "500",
-    "schedule": "diurno",
-    "curriculum": "ufcg.edu.br/dir",
-    "universityId": "156",
-    "id": 1231
-  },
-  {
-    "name": "Engenharia Civil",
-    "acronym": "EC",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "ufcg.edu.br/ec",
-    "universityId": "156",
-    "id": 1232
-  },
-  {
-    "name": "Medicina",
-    "acronym": "MED",
-    "duration": "600",
-    "schedule": "integral",
-    "curriculum": "ufcg.edu.br/med",
-    "universityId": "156",
-    "id": 1233
-  },
-  {
-    "name": "Administração",
-    "acronym": "ADM",
-    "duration": "300",
-    "schedule": "diurno",
-    "curriculum": "uepb.edu.br/adm",
-    "universityId": "157",
-    "id": 1234
-  },
-  {
-    "name": "Ciências Biológicas",
-    "acronym": "BIO",
-    "duration": "400",
-    "schedule": "noturno",
-    "curriculum": "uepb.edu.br/bio",
-    "universityId": "157",
-    "id": 1235
-  },
-  {
-    "name": "Direito",
-    "acronym": "DIR",
-    "duration": "500",
-    "schedule": "diurno",
-    "curriculum": "uepb.edu.br/dir",
-    "universityId": "157",
-    "id": 1236
-  },
-  {
-    "name": "Engenharia Civil",
-    "acronym": "EC",
-    "duration": "400",
-    "schedule": "integral",
-    "curriculum": "uepb.edu.br/ec",
-    "universityId": "157",
-    "id": 1237
-  },
-  {
-    "name": "Pedagogia",
-    "acronym": "PED",
-    "duration": "400",
-    "schedule": "noturno",
-    "curriculum": "uepb.edu.br/ped",
-    "universityId": "157",
-    "id": 1238
-  },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "unime.br/adm",
+      "universityId": "152",
+      "id": 1209
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "300",
+      "schedule": "noturno",
+      "curriculum": "unime.br/cc",
+      "universityId": "152",
+      "id": 1210
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "unime.br/dir",
+      "universityId": "152",
+      "id": 1211
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "unime.br/ec",
+      "universityId": "152",
+      "id": 1212
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "500",
+      "schedule": "noturno",
+      "curriculum": "unime.br/psi",
+      "universityId": "152",
+      "id": 1213
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "estacio.br/adm",
+      "universityId": "153",
+      "id": 1214
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "estacio.br/arq",
+      "universityId": "153",
+      "id": 1215
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "estacio.br/bio",
+      "universityId": "153",
+      "id": 1216
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "estacio.br/dir",
+      "universityId": "153",
+      "id": 1217
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "estacio.br/ec",
+      "universityId": "153",
+      "id": 1218
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "facsul.edu.br/adm",
+      "universityId": "154",
+      "id": 1219
+    },
+    {
+      "name": "Ciências Contábeis",
+      "acronym": "CC",
+      "duration": "300",
+      "schedule": "noturno",
+      "curriculum": "facsul.edu.br/cc",
+      "universityId": "154",
+      "id": 1220
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "facsul.edu.br/dir",
+      "universityId": "154",
+      "id": 1221
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "facsul.edu.br/ec",
+      "universityId": "154",
+      "id": 1222
+    },
+    {
+      "name": "Psicologia",
+      "acronym": "PSI",
+      "duration": "500",
+      "schedule": "noturno",
+      "curriculum": "facsul.edu.br/psi",
+      "universityId": "154",
+      "id": 1223
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ufpb.br/adm",
+      "universityId": "155",
+      "id": 1224
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufpb.br/arq",
+      "universityId": "155",
+      "id": 1225
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ufpb.br/bio",
+      "universityId": "155",
+      "id": 1226
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "ufpb.br/dir",
+      "universityId": "155",
+      "id": 1227
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufpb.br/ec",
+      "universityId": "155",
+      "id": 1228
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ufcg.edu.br/adm",
+      "universityId": "156",
+      "id": 1229
+    },
+    {
+      "name": "Ciência da Computação",
+      "acronym": "CC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufcg.edu.br/cc",
+      "universityId": "156",
+      "id": 1230
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "ufcg.edu.br/dir",
+      "universityId": "156",
+      "id": 1231
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufcg.edu.br/ec",
+      "universityId": "156",
+      "id": 1232
+    },
+    {
+      "name": "Medicina",
+      "acronym": "MED",
+      "duration": "600",
+      "schedule": "integral",
+      "curriculum": "ufcg.edu.br/med",
+      "universityId": "156",
+      "id": 1233
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "uepb.edu.br/adm",
+      "universityId": "157",
+      "id": 1234
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "uepb.edu.br/bio",
+      "universityId": "157",
+      "id": 1235
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "uepb.edu.br/dir",
+      "universityId": "157",
+      "id": 1236
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "uepb.edu.br/ec",
+      "universityId": "157",
+      "id": 1237
+    },
+    {
+      "name": "Pedagogia",
+      "acronym": "PED",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "uepb.edu.br/ped",
+      "universityId": "157",
+      "id": 1238
+    },
     {
       "name": "Administração",
       "acronym": "ADM",
@@ -12511,635 +12421,635 @@
       "universityId": "87",
       "id": 1243
     },
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "unb.br/adm",
-        "universityId": "7",
-        "id": 1244
-      },
-      {
-        "name": "Arquitetura e Urbanismo",
-        "acronym": "ARQ",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "unb.br/arq",
-        "universityId": "7",
-        "id": 1245
-      },
-      {
-        "name": "Ciências Biológicas",
-        "acronym": "BIO",
-        "duration": "400",
-        "schedule": "noturno",
-        "curriculum": "unb.br/bio",
-        "universityId": "7",
-        "id": 1246
-      },
-      {
-        "name": "Direito",
-        "acronym": "DIR",
-        "duration": "500",
-        "schedule": "diurno",
-        "curriculum": "unb.br/dir",
-        "universityId": "7",
-        "id": 1247
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "unb.br/ec",
-        "universityId": "7",
-        "id": 1248
-      },
-      {
-        "name": "Administração",
-        "acronym": "ADM",
-        "duration": "300",
-        "schedule": "diurno",
-        "curriculum": "ufmg.br/adm",
-        "universityId": "5",
-        "id": 1249
-      },
-      {
-        "name": "Arquitetura e Urbanismo",
-        "acronym": "ARQ",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "ufmg.br/arq",
-        "universityId": "5",
-        "id": 1250
-      },
-      {
-        "name": "Ciências Biológicas",
-        "acronym": "BIO",
-        "duration": "400",
-        "schedule": "noturno",
-        "curriculum": "ufmg.br/bio",
-        "universityId": "5",
-        "id": 1251
-      },
-      {
-        "name": "Direito",
-        "acronym": "DIR",
-        "duration": "500",
-        "schedule": "diurno",
-        "curriculum": "ufmg.br/dir",
-        "universityId": "5",
-        "id": 1252
-      },
-      {
-        "name": "Engenharia Civil",
-        "acronym": "EC",
-        "duration": "400",
-        "schedule": "integral",
-        "curriculum": "ufmg.br/ec",
-        "universityId": "5",
-        "id": 1253
-      },
-        {
-          "name": "Administração",
-          "acronym": "ADM",
-          "duration": "300",
-          "schedule": "diurno",
-          "curriculum": "ufpr.br/adm",
-          "universityId": "9",
-          "id": 1254
-        },
-        {
-          "name": "Arquitetura e Urbanismo",
-          "acronym": "ARQ",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "ufpr.br/arq",
-          "universityId": "9",
-          "id": 1255
-        },
-        {
-          "name": "Ciências Biológicas",
-          "acronym": "BIO",
-          "duration": "400",
-          "schedule": "noturno",
-          "curriculum": "ufpr.br/bio",
-          "universityId": "9",
-          "id": 1256
-        },
-        {
-          "name": "Direito",
-          "acronym": "DIR",
-          "duration": "500",
-          "schedule": "diurno",
-          "curriculum": "ufpr.br/dir",
-          "universityId": "9",
-          "id": 1257
-        },
-        {
-          "name": "Engenharia Civil",
-          "acronym": "EC",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "ufpr.br/ec",
-          "universityId": "9",
-          "id": 1258
-        },
-        {
-          "name": "Administração",
-          "acronym": "ADM",
-          "duration": "300",
-          "schedule": "diurno",
-          "curriculum": "ifpi.edu.br/adm",
-          "universityId": "180",
-          "id": 1259
-        },
-        {
-          "name": "Engenharia Elétrica",
-          "acronym": "EE",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "ifpi.edu.br/ee",
-          "universityId": "180",
-          "id": 1260
-        },
-        {
-          "name": "Ciência da Computação",
-          "acronym": "CC",
-          "duration": "400",
-          "schedule": "noturno",
-          "curriculum": "ifpi.edu.br/cc",
-          "universityId": "180",
-          "id": 1261
-        },
-        {
-          "name": "Gestão Ambiental",
-          "acronym": "GA",
-          "duration": "300",
-          "schedule": "diurno",
-          "curriculum": "ifpi.edu.br/ga",
-          "universityId": "180",
-          "id": 1262
-        },
-        {
-          "name": "Engenharia Civil",
-          "acronym": "EC",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "ifpi.edu.br/ec",
-          "universityId": "180",
-          "id": 1263
-        },
-        {
-          "name": "Administração",
-          "acronym": "ADM",
-          "duration": "300",
-          "schedule": "diurno",
-          "curriculum": "uespi.br/adm",
-          "universityId": "181",
-          "id": 1263
-        },
-        {
-          "name": "Arquitetura e Urbanismo",
-          "acronym": "ARQ",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "uespi.br/arq",
-          "universityId": "181",
-          "id": 1264
-        },
-        {
-          "name": "Ciências Biológicas",
-          "acronym": "BIO",
-          "duration": "400",
-          "schedule": "noturno",
-          "curriculum": "uespi.br/bio",
-          "universityId": "181",
-          "id": 1265
-        },
-        {
-          "name": "Direito",
-          "acronym": "DIR",
-          "duration": "500",
-          "schedule": "diurno",
-          "curriculum": "uespi.br/dir",
-          "universityId": "181",
-          "id": 1266
-        },
-        {
-          "name": "Engenharia Civil",
-          "acronym": "EC",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "uespi.br/ec",
-          "universityId": "181",
-          "id": 1267
-        },
-        {
-          "name": "Administração",
-          "acronym": "ADM",
-          "duration": "300",
-          "schedule": "diurno",
-          "curriculum": "ufrj.br/adm",
-          "universityId": "12",
-          "id": 1268
-        },
-        {
-          "name": "Arquitetura e Urbanismo",
-          "acronym": "ARQ",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "ufrj.br/arq",
-          "universityId": "12",
-          "id": 1269
-        },
-        {
-          "name": "Ciências Biológicas",
-          "acronym": "BIO",
-          "duration": "400",
-          "schedule": "noturno",
-          "curriculum": "ufrj.br/bio",
-          "universityId": "12",
-          "id": 1270
-        },
-        {
-          "name": "Direito",
-          "acronym": "DIR",
-          "duration": "500",
-          "schedule": "diurno",
-          "curriculum": "ufrj.br/dir",
-          "universityId": "12",
-          "id": 1271
-        },
-        {
-          "name": "Engenharia Civil",
-          "acronym": "EC",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "ufrj.br/ec",
-          "universityId": "12",
-          "id": 1272
-        },
-        {
-          "name": "Administração",
-          "acronym": "ADM",
-          "duration": "300",
-          "schedule": "diurno",
-          "curriculum": "ufrgs.br/adm",
-          "universityId": "11",
-          "id": 1272
-        },
-        {
-          "name": "Arquitetura e Urbanismo",
-          "acronym": "ARQ",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "ufrgs.br/arq",
-          "universityId": "11",
-          "id": 1273
-        },
-        {
-          "name": "Ciências Biológicas",
-          "acronym": "BIO",
-          "duration": "400",
-          "schedule": "noturno",
-          "curriculum": "ufrgs.br/bio",
-          "universityId": "11",
-          "id": 1274
-        },
-        {
-          "name": "Direito",
-          "acronym": "DIR",
-          "duration": "500",
-          "schedule": "diurno",
-          "curriculum": "ufrgs.br/dir",
-          "universityId": "11",
-          "id": 1275
-        },
-        {
-          "name": "Engenharia Civil",
-          "acronym": "EC",
-          "duration": "400",
-          "schedule": "integral",
-          "curriculum": "ufrgs.br/ec",
-          "universityId": "11",
-          "id": 1276
-        },
-          {
-            "name": "Administração",
-            "acronym": "ADM",
-            "duration": "300",
-            "schedule": "diurno",
-            "curriculum": "unir.br/adm",
-            "universityId": "203",
-            "id": 1277
-          },
-          {
-            "name": "Arquitetura e Urbanismo",
-            "acronym": "ARQ",
-            "duration": "400",
-            "schedule": "integral",
-            "curriculum": "unir.br/arq",
-            "universityId": "203",
-            "id": 1278
-          },
-          {
-            "name": "Ciências Biológicas",
-            "acronym": "BIO",
-            "duration": "400",
-            "schedule": "noturno",
-            "curriculum": "unir.br/bio",
-            "universityId": "203",
-            "id": 1279
-          },
-          {
-            "name": "Direito",
-            "acronym": "DIR",
-            "duration": "500",
-            "schedule": "diurno",
-            "curriculum": "unir.br/dir",
-            "universityId": "203",
-            "id": 1280
-          },
-          {
-            "name": "Engenharia Civil",
-            "acronym": "EC",
-            "duration": "400",
-            "schedule": "integral",
-            "curriculum": "unir.br/ec",
-            "universityId": "203",
-            "id": 1281
-          },
-            {
-              "name": "Administração",
-              "acronym": "ADM",
-              "duration": "300",
-              "schedule": "diurno",
-              "curriculum": "ifro.edu.br/adm",
-              "universityId": "204",
-              "id": 1282
-            },
-            {
-              "name": "Engenharia Elétrica",
-              "acronym": "EE",
-              "duration": "400",
-              "schedule": "integral",
-              "curriculum": "ifro.edu.br/ee",
-              "universityId": "204",
-              "id": 1283
-            },
-            {
-              "name": "Ciência da Computação",
-              "acronym": "CC",
-              "duration": "400",
-              "schedule": "noturno",
-              "curriculum": "ifro.edu.br/cc",
-              "universityId": "204",
-              "id": 1284
-            },
-            {
-              "name": "Gestão Ambiental",
-              "acronym": "GA",
-              "duration": "300",
-              "schedule": "diurno",
-              "curriculum": "ifro.edu.br/ga",
-              "universityId": "204",
-              "id": 1285
-            },
-            {
-              "name": "Engenharia Civil",
-              "acronym": "EC",
-              "duration": "400",
-              "schedule": "integral",
-              "curriculum": "ifro.edu.br/ec",
-              "universityId": "204",
-              "id": 1286
-            },
-              {
-                "name": "Administração",
-                "acronym": "ADM",
-                "duration": "300",
-                "schedule": "diurno",
-                "curriculum": "ufrr.br/adm",
-                "universityId": "211",
-                "id": 1287
-              },
-              {
-                "name": "Arquitetura e Urbanismo",
-                "acronym": "ARQ",
-                "duration": "400",
-                "schedule": "integral",
-                "curriculum": "ufrr.br/arq",
-                "universityId": "211",
-                "id": 1288
-              },
-              {
-                "name": "Ciências Biológicas",
-                "acronym": "BIO",
-                "duration": "400",
-                "schedule": "noturno",
-                "curriculum": "ufrr.br/bio",
-                "universityId": "211",
-                "id": 1289
-              },
-              {
-                "name": "Direito",
-                "acronym": "DIR",
-                "duration": "500",
-                "schedule": "diurno",
-                "curriculum": "ufrr.br/dir",
-                "universityId": "211",
-                "id": 1290
-              },
-              {
-                "name": "Engenharia Civil",
-                "acronym": "EC",
-                "duration": "400",
-                "schedule": "integral",
-                "curriculum": "ufrr.br/ec",
-                "universityId": "211",
-                "id": 1291
-              },
-              {
-                "name": "Administração",
-                "acronym": "ADM",
-                "duration": "300",
-                "schedule": "diurno",
-                "curriculum": "usp.br/adm",
-                "universityId": "1",
-                "id": 1292
-              },
-              {
-                "name": "Arquitetura e Urbanismo",
-                "acronym": "ARQ",
-                "duration": "400",
-                "schedule": "integral",
-                "curriculum": "usp.br/arq",
-                "universityId": "1",
-                "id": 1293
-              },
-              {
-                "name": "Ciências Biológicas",
-                "acronym": "BIO",
-                "duration": "400",
-                "schedule": "noturno",
-                "curriculum": "usp.br/bio",
-                "universityId": "1",
-                "id": 1294
-              },
-              {
-                "name": "Direito",
-                "acronym": "DIR",
-                "duration": "500",
-                "schedule": "diurno",
-                "curriculum": "usp.br/dir",
-                "universityId": "1",
-                "id": 1295
-              },
-              {
-                "name": "Engenharia Civil",
-                "acronym": "EC",
-                "duration": "400",
-                "schedule": "integral",
-                "curriculum": "usp.br/ec",
-                "universityId": "1",
-                "id": 1296
-              },
-              {
-                "name": "Administração",
-                "acronym": "ADM",
-                "duration": "300",
-                "schedule": "diurno",
-                "curriculum": "unifesp.br/adm",
-                "universityId": "13",
-                "id": 1297
-              },
-              {
-                "name": "Arquitetura e Urbanismo",
-                "acronym": "ARQ",
-                "duration": "400",
-                "schedule": "integral",
-                "curriculum": "unifesp.br/arq",
-                "universityId": "13",
-                "id": 1298
-              },
-              {
-                "name": "Ciências Biológicas",
-                "acronym": "BIO",
-                "duration": "400",
-                "schedule": "noturno",
-                "curriculum": "unifesp.br/bio",
-                "universityId": "13",
-                "id": 1299
-              },
-              {
-                "name": "Direito",
-                "acronym": "DIR",
-                "duration": "500",
-                "schedule": "diurno",
-                "curriculum": "unifesp.br/dir",
-                "universityId": "13",
-                "id": 1300
-              },
-              {
-                "name": "Engenharia Civil",
-                "acronym": "EC",
-                "duration": "400",
-                "schedule": "integral",
-                "curriculum": "unifesp.br/ec",
-                "universityId": "13",
-                "id": 1301
-              },
-                {
-                  "name": "Administração",
-                  "acronym": "ADM",
-                  "duration": "300",
-                  "schedule": "diurno",
-                  "curriculum": "ifs.edu.br/adm",
-                  "universityId": "228",
-                  "id": 1302
-                },
-                {
-                  "name": "Engenharia Elétrica",
-                  "acronym": "EE",
-                  "duration": "400",
-                  "schedule": "integral",
-                  "curriculum": "ifs.edu.br/ee",
-                  "universityId": "228",
-                  "id": 1303
-                },
-                {
-                  "name": "Ciência da Computação",
-                  "acronym": "CC",
-                  "duration": "400",
-                  "schedule": "noturno",
-                  "curriculum": "ifs.edu.br/cc",
-                  "universityId": "228",
-                  "id": 1304
-                },
-                {
-                  "name": "Gestão Ambiental",
-                  "acronym": "GA",
-                  "duration": "300",
-                  "schedule": "diurno",
-                  "curriculum": "ifs.edu.br/ga",
-                  "universityId": "228",
-                  "id": 1305
-                },
-                {
-                  "name": "Engenharia Civil",
-                  "acronym": "EC",
-                  "duration": "400",
-                  "schedule": "integral",
-                  "curriculum": "ifs.edu.br/ec",
-                  "universityId": "228",
-                  "id": 1306
-                },
-                  {
-                    "name": "Administração",
-                    "acronym": "ADM",
-                    "duration": "300",
-                    "schedule": "diurno",
-                    "curriculum": "ifto.edu.br/adm",
-                    "universityId": "236",
-                    "id": 1307
-                  },
-                  {
-                    "name": "Engenharia Elétrica",
-                    "acronym": "EE",
-                    "duration": "400",
-                    "schedule": "integral",
-                    "curriculum": "ifto.edu.br/ee",
-                    "universityId": "236",
-                    "id": 1308
-                  },
-                  {
-                    "name": "Ciência da Computação",
-                    "acronym": "CC",
-                    "duration": "400",
-                    "schedule": "noturno",
-                    "curriculum": "ifto.edu.br/cc",
-                    "universityId": "236",
-                    "id": 1309
-                  },
-                  {
-                    "name": "Gestão Ambiental",
-                    "acronym": "GA",
-                    "duration": "300",
-                    "schedule": "diurno",
-                    "curriculum": "ifto.edu.br/ga",
-                    "universityId": "236",
-                    "id": 1310
-                  },
-                  {
-                    "name": "Engenharia Civil",
-                    "acronym": "EC",
-                    "duration": "400",
-                    "schedule": "integral",
-                    "curriculum": "ifto.edu.br/ec",
-                    "universityId": "236",
-                    "id": 1311
-                  }
-              ]
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "unb.br/adm",
+      "universityId": "7",
+      "id": 1244
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "unb.br/arq",
+      "universityId": "7",
+      "id": 1245
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "unb.br/bio",
+      "universityId": "7",
+      "id": 1246
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "unb.br/dir",
+      "universityId": "7",
+      "id": 1247
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "unb.br/ec",
+      "universityId": "7",
+      "id": 1248
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ufmg.br/adm",
+      "universityId": "5",
+      "id": 1249
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufmg.br/arq",
+      "universityId": "5",
+      "id": 1250
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ufmg.br/bio",
+      "universityId": "5",
+      "id": 1251
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "ufmg.br/dir",
+      "universityId": "5",
+      "id": 1252
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufmg.br/ec",
+      "universityId": "5",
+      "id": 1253
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ufpr.br/adm",
+      "universityId": "9",
+      "id": 1254
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufpr.br/arq",
+      "universityId": "9",
+      "id": 1255
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ufpr.br/bio",
+      "universityId": "9",
+      "id": 1256
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "ufpr.br/dir",
+      "universityId": "9",
+      "id": 1257
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufpr.br/ec",
+      "universityId": "9",
+      "id": 1258
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifpi.edu.br/adm",
+      "universityId": "180",
+      "id": 1259
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifpi.edu.br/ee",
+      "universityId": "180",
+      "id": 1260
+    },
+    {
+      "name": "Ciência da Computação",
+      "acronym": "CC",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ifpi.edu.br/cc",
+      "universityId": "180",
+      "id": 1261
+    },
+    {
+      "name": "Gestão Ambiental",
+      "acronym": "GA",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifpi.edu.br/ga",
+      "universityId": "180",
+      "id": 1262
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifpi.edu.br/ec",
+      "universityId": "180",
+      "id": 1263
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "uespi.br/adm",
+      "universityId": "181",
+      "id": 1263
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "uespi.br/arq",
+      "universityId": "181",
+      "id": 1264
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "uespi.br/bio",
+      "universityId": "181",
+      "id": 1265
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "uespi.br/dir",
+      "universityId": "181",
+      "id": 1266
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "uespi.br/ec",
+      "universityId": "181",
+      "id": 1267
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ufrj.br/adm",
+      "universityId": "12",
+      "id": 1268
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufrj.br/arq",
+      "universityId": "12",
+      "id": 1269
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ufrj.br/bio",
+      "universityId": "12",
+      "id": 1270
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "ufrj.br/dir",
+      "universityId": "12",
+      "id": 1271
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufrj.br/ec",
+      "universityId": "12",
+      "id": 1272
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ufrgs.br/adm",
+      "universityId": "11",
+      "id": 1272
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufrgs.br/arq",
+      "universityId": "11",
+      "id": 1273
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ufrgs.br/bio",
+      "universityId": "11",
+      "id": 1274
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "ufrgs.br/dir",
+      "universityId": "11",
+      "id": 1275
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufrgs.br/ec",
+      "universityId": "11",
+      "id": 1276
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "unir.br/adm",
+      "universityId": "203",
+      "id": 1277
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "unir.br/arq",
+      "universityId": "203",
+      "id": 1278
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "unir.br/bio",
+      "universityId": "203",
+      "id": 1279
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "unir.br/dir",
+      "universityId": "203",
+      "id": 1280
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "unir.br/ec",
+      "universityId": "203",
+      "id": 1281
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifro.edu.br/adm",
+      "universityId": "204",
+      "id": 1282
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifro.edu.br/ee",
+      "universityId": "204",
+      "id": 1283
+    },
+    {
+      "name": "Ciência da Computação",
+      "acronym": "CC",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ifro.edu.br/cc",
+      "universityId": "204",
+      "id": 1284
+    },
+    {
+      "name": "Gestão Ambiental",
+      "acronym": "GA",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifro.edu.br/ga",
+      "universityId": "204",
+      "id": 1285
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifro.edu.br/ec",
+      "universityId": "204",
+      "id": 1286
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ufrr.br/adm",
+      "universityId": "211",
+      "id": 1287
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufrr.br/arq",
+      "universityId": "211",
+      "id": 1288
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ufrr.br/bio",
+      "universityId": "211",
+      "id": 1289
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "ufrr.br/dir",
+      "universityId": "211",
+      "id": 1290
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ufrr.br/ec",
+      "universityId": "211",
+      "id": 1291
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "usp.br/adm",
+      "universityId": "1",
+      "id": 1292
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "usp.br/arq",
+      "universityId": "1",
+      "id": 1293
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "usp.br/bio",
+      "universityId": "1",
+      "id": 1294
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "usp.br/dir",
+      "universityId": "1",
+      "id": 1295
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "usp.br/ec",
+      "universityId": "1",
+      "id": 1296
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "unifesp.br/adm",
+      "universityId": "13",
+      "id": 1297
+    },
+    {
+      "name": "Arquitetura e Urbanismo",
+      "acronym": "ARQ",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "unifesp.br/arq",
+      "universityId": "13",
+      "id": 1298
+    },
+    {
+      "name": "Ciências Biológicas",
+      "acronym": "BIO",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "unifesp.br/bio",
+      "universityId": "13",
+      "id": 1299
+    },
+    {
+      "name": "Direito",
+      "acronym": "DIR",
+      "duration": "500",
+      "schedule": "diurno",
+      "curriculum": "unifesp.br/dir",
+      "universityId": "13",
+      "id": 1300
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "unifesp.br/ec",
+      "universityId": "13",
+      "id": 1301
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifs.edu.br/adm",
+      "universityId": "228",
+      "id": 1302
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifs.edu.br/ee",
+      "universityId": "228",
+      "id": 1303
+    },
+    {
+      "name": "Ciência da Computação",
+      "acronym": "CC",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ifs.edu.br/cc",
+      "universityId": "228",
+      "id": 1304
+    },
+    {
+      "name": "Gestão Ambiental",
+      "acronym": "GA",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifs.edu.br/ga",
+      "universityId": "228",
+      "id": 1305
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifs.edu.br/ec",
+      "universityId": "228",
+      "id": 1306
+    },
+    {
+      "name": "Administração",
+      "acronym": "ADM",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifto.edu.br/adm",
+      "universityId": "236",
+      "id": 1307
+    },
+    {
+      "name": "Engenharia Elétrica",
+      "acronym": "EE",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifto.edu.br/ee",
+      "universityId": "236",
+      "id": 1308
+    },
+    {
+      "name": "Ciência da Computação",
+      "acronym": "CC",
+      "duration": "400",
+      "schedule": "noturno",
+      "curriculum": "ifto.edu.br/cc",
+      "universityId": "236",
+      "id": 1309
+    },
+    {
+      "name": "Gestão Ambiental",
+      "acronym": "GA",
+      "duration": "300",
+      "schedule": "diurno",
+      "curriculum": "ifto.edu.br/ga",
+      "universityId": "236",
+      "id": 1310
+    },
+    {
+      "name": "Engenharia Civil",
+      "acronym": "EC",
+      "duration": "400",
+      "schedule": "integral",
+      "curriculum": "ifto.edu.br/ec",
+      "universityId": "236",
+      "id": 1311
+    }
+  ]
 }
