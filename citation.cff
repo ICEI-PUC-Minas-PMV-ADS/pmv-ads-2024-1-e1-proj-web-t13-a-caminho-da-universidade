@@ -1,0 +1,25 @@
+message: Please cite this software using these metadata.
+title: A caminho da Universidade
+authors:
+  - family-names: Ramos da Silva
+    given-names: Paulo César
+  - family-names: Batista Endlich 
+    given-names: Thatielli 
+  - family-names: de Resende
+    given-names:  Pedro Cristian 
+  - family-names: de Souza Martins
+    given-names: Victória
+  - family-names: de Carvalho Nastacio Branco
+    given-names: José Henrique 
+  - family-names: Gomes dos Santos
+    given-names: Gabriel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Nepomuceno Curto
+    given-names: Hayala 
+keywords:
+  - Universidades
+  - Educação
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t13-a-caminho-da-universidade?tab=readme-ov-file
+version: 1.0.0
+date-released: 2024-06-25
